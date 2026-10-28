@@ -1,0 +1,241 @@
+{
+ "id": "fanuc",
+ "name": "FANUC Corporation",
+ "yahoo_symbol": "6954.T",
+ "adr_symbol": "FANUY",
+ "exchange": "Tokyo Stock Exchange (Prime)",
+ "reporting_currency": "JPY",
+ "fiscal_year_note": "Fiscal year ends March 31. Company label FY2026 = Apr 2026 to Mar 2027 (some data sites call it FY2027, e.g. 'Q2 2027'). Q2 FY2026 (Jul-Sep 2026) was released Oct 23, 2026 after the Tokyo close; first trading reaction was Oct 26. Q3 (Oct-Dec) results are normally released in late January.",
+ "price": {
+  "value": 5639,
+  "currency": "JPY",
+  "date": "2026-10-26",
+  "source_url": "https://finance.yahoo.co.jp/quote/6954.T/history"
+ },
+ "shares_outstanding_m": 924.91,
+ "market_cap_usd_bn": 33.2,
+ "cash_and_investments": 787.1,
+ "total_debt": 0.0,
+ "amount_unit": "JPY bn",
+ "latest_quarter": {
+  "label": "Q2 FY2026 (Jul-Sep 2026)",
+  "report_date": "2026-10-23",
+  "revenue": 242.7,
+  "revenue_yoy_pct": 14.9,
+  "orders": 306.0,
+  "orders_yoy_pct": 49.0,
+  "operating_margin_pct": 26.0,
+  "net_income": 61.6
+ },
+ "last_fiscal_year": {
+  "label": "FY2025 (Apr 2025-Mar 2026)",
+  "revenue": 857.8,
+  "operating_income": 183.8,
+  "net_income": 166.5,
+  "free_cash_flow": 229.7,
+  "rnd": 47.8
+ },
+ "full_year_guidance": "FY2026 (Apr 2026-Mar 2027), raised Oct 23, 2026: net sales JPY 1,013.7bn (+18.2% YoY; prior JPY 948.1bn from Jul 31; initial JPY 909.6bn from Apr 24), operating income JPY 240.7bn (23.7% margin; prior 218.0, initial 212.2), ordinary income JPY 308.8bn, net income JPY 228.3bn (prior 198.0), EPS JPY 246.01. First year above JPY 1tn sales. FX assumption for Oct 2026-Mar 2027: JPY 150/USD and JPY 175/EUR (implied full year JPY 154.69/USD, 179.68/EUR; H1 actual 159.37/USD, 184.35/EUR). Implied H2: sales JPY 540.0bn, OP JPY 124.0bn (23.0% margin) vs 26.0% in Q2 (derived). Interim DPS JPY 72.54 (+41%); year-end DPS not yet set (60% payout ratio in FY2025).",
+ "fx_sensitivity": "Not disclosed by Fanuc (none in the FY2025, Q1 or Q2 FY2026 materials reviewed). Exposure is high: about 87% of sales are outside Japan (Japan 12.5% of H1 FY2026 sales). Rough estimate, ours and low confidence: about JPY 1.5bn annual OP per JPY 1 move vs USD, about JPY 0.8bn per JPY 1 vs EUR, and roughly JPY 6-8bn OP per 1% broad yen move, assuming foreign-currency revenue carries mostly yen costs. H2 guidance uses JPY 150/USD vs spot about 156.9 (Oct 27), so a steady weak yen is upside to guidance.",
+ "valuation": {
+  "pe_forward": 22.9,
+  "ev_ebitda_forward": 16.0,
+  "pb": 2.75,
+  "source_url": "https://finance.yahoo.co.jp/quote/6954.T"
+ },
+ "dividend_yield_pct": 2.28,
+ "geo_revenue_mix_pct": {
+  "Japan": 12.5,
+  "China": 28.7,
+  "Americas": 26.5,
+  "Europe": 16.2,
+  "Other Asia": 15.1,
+  "ROW": 1.0
+ },
+ "segment_or_end_market_mix_pct": {
+  "Robot": 41.0,
+  "FA (CNC, servo, lasers)": 25.3,
+  "Robomachine (ROBODRILL, ROBOSHOT, ROBOCUT)": 17.6,
+  "Service": 16.2
+ },
+ "physical_ai_exposure": {
+  "share_of_revenue_pct": 41.0,
+  "description": "Robot division (industrial robots and cobots) was 41.0% of H1 FY2026 sales (44.1% of FY2025). FA (CNC/servo) and Robomachine are adjacent automation. Fanuc holds nearly 20% of the global industrial robot market (Nikkei, via TechNews). Physical AI: NVIDIA collaboration announced Dec 1, 2025 (NVIDIA robot simulation framework in Fanuc software; voice-command, safety and part-tracking robots); five Physical AI systems shown at IMTS 2026 with collaborations with NVIDIA and Google in North America; Physical AI CNC and digital twin; open-platform framework for partners. Management says physical AI inquiries are many but most projects are still trials, and some multi-thousand-unit projects have converted to orders.",
+  "optionality_notes": "The NVIDIA tie-up lifted the stock up to 9.4% intraday on Dec 2, 2025 (highest since July 2021) and the physical-AI narrative carried it to a record JPY 8,880 in May 2026. Since then it has de-rated (-36.5% from the high to JPY 5,639) even as orders hit records, because robot orders grew far slower (+12.6% in Q2) than FA/CNC orders (+130%). The current order boom is driven more by AI data centers, semiconductors and humanoid-component machining (CNC demand) than by robots themselves."
+ },
+ "cost_and_supply_chain_notes": "Management cites tight procurement industry-wide: long lead times for semiconductors, electrical/electronic components and mechanical parts; mitigation through alternative components and 2nd/3rd sources. Rising component costs with a time lag in passing them to prices, plus US tariffs, are named as limits on profit growth; the forecast assumes current US tariffs continue (impact not quantified). April 2026 Q&A flagged possible shortages of oil-derived materials (lubricants, thinners, paint) linked to the Middle East. Capacity not at its limit; capex to rise YoY (FY2025 capex only JPY 22.0bn); robot capacity has headroom. General knowledge, not verified this session: production is concentrated in Japan (Yamanashi HQ complex), China robots also come from the Shanghai-FANUC JV, and most Japanese exports to the US face the 15% US tariff agreed in 2025.",
+ "competition_notes": "In China (about 30% of orders), longer Fanuc lead times led some customers to adopt competitors' products (Q1 FY2026 Q&A); management says share is not simply declining and varies by application. Some Chinese makers sell extremely low-cost CNCs that Fanuc cannot track. Domestic Chinese brands held about 54% of China's 2025 industrial robot market (MIR, cited by Inovance), and Inovance alone held 9.2% in H1 2026. Pricing: Fanuc says it balances price increases with cost reduction given competitors' positions.",
+ "key_drivers": [
+  "Record orders: Q2 FY2026 JPY 306.0bn (+49.0% YoY, +8.5% QoQ), book-to-bill about 1.26; H1 orders JPY 587.9bn (+43%)",
+  "FA (CNC) orders JPY 112.2bn (+130% YoY) on AI data center, semiconductor, humanoid-component and aerospace machining demand",
+  "China orders JPY 91.2bn (+79.8%) and Asia ex-China JPY 65.3bn (+111.9%) in Q2; Japan +54.3%",
+  "Guidance raised twice this year: OP JPY 212.2bn to 218.0bn to 240.7bn; H2 margin guide of 23.0% vs 26.0% achieved in Q2 looks conservative",
+  "Weak yen vs H2 assumption of JPY 150/USD (spot about 156.9)",
+  "Shareholder returns: new buyback up to JPY 50bn / 10m shares (1.08%), 60% payout; net cash about JPY 787bn (about 15% of market cap)",
+  "Physical AI partnerships (NVIDIA, Google) and open platform could lift robot demand over time"
+ ],
+ "key_risks": [
+  "Order pull-forward: management says part of the order surge reflects customers ordering early because of long lead times and it is unclear whether the level will continue",
+  "Robot division lagging: Q2 robot orders +12.6% and robot sales +7.2% YoY",
+  "Yen strength: BOJ raised rates to 1.0% (Jun) and 1.25% (Sep 2026); a stronger yen would cut the FX tailwind",
+  "Share loss in China to local brands and low-cost CNC makers",
+  "Component cost inflation, procurement bottlenecks and US tariffs",
+  "Sentiment/valuation: stock fell 14.3% on record Q1 orders (Aug 3) and 5.5% in the Oct 15 AI sell-off; -36.5% from the May 2026 high"
+ ],
+ "recent_events": [
+  {
+   "date": "2025-04-02",
+   "event": "US reciprocal-tariff announcement triggers a global equity sell-off.",
+   "stock_reaction": "April 2025: -10.0% m/m (4,060 to 3,654); intraday low JPY 3,038"
+  },
+  {
+   "date": "2025-12-01",
+   "event": "Fanuc announces physical AI collaboration with NVIDIA (simulation framework integrated into Fanuc software; AI robots for voice commands, human safety and moving-part tracking).",
+   "stock_reaction": "Dec 2: up as much as 9.4% intraday to about JPY 5,502, highest since July 2021; December 2025 +21.1% m/m"
+  },
+  {
+   "date": "2026-01-26",
+   "event": "Q3 FY2025 (Oct-Dec 2025) results: orders JPY 220.2bn; EPS JPY 39.69 vs consensus 43.04 (miss, per Trading Economics).",
+   "stock_reaction": "Not found (January 2026 +3.0% m/m)"
+  },
+  {
+   "date": "2026-03-31",
+   "event": "Broad Japanese equity sell-off through March 2026 (April Q&A cites Middle East disruption to some investments and materials).",
+   "stock_reaction": "March 2026: -25.5% m/m (7,113 to 5,302)"
+  },
+  {
+   "date": "2026-04-24",
+   "event": "FY2025 results after close: record sales JPY 857.8bn (+7.6%), OP JPY 183.8bn (+15.7%), record Q4 orders JPY 252.0bn (+19.2%); FY2026 guidance OP JPY 212.2bn at JPY 150/USD; new buyback up to JPY 50bn / 10m shares.",
+   "stock_reaction": "Apr 27: +9.5% in early trade to JPY 6,850; April 2026 +29.7% m/m"
+  },
+  {
+   "date": "2026-05-08",
+   "event": "Physical-AI-driven rally: shares rose almost 9% in Frankfurt (EUR 41.23) to a 52-week high; Tokyo record intraday high of JPY 8,880 set later in May.",
+   "stock_reaction": "May 2026 +14.8% m/m"
+  },
+  {
+   "date": "2026-07-07",
+   "event": "A large US broker cuts Fanuc to Neutral amid an Asian AI-hardware sell-off and supply-chain cost worries.",
+   "stock_reaction": "Tokyo -5.4% (7,477 to 7,072); about -9.2% in Frankfurt"
+  },
+  {
+   "date": "2026-07-31",
+   "event": "Q1 FY2026 results after close: record orders JPY 281.9bn (+36.9%; FA +63.8%, Robot +8.1%), OP JPY 53.5bn (+26.1%); FY OP guidance raised only 2.7% to JPY 218.0bn; NI guidance JPY 198.0bn vs about JPY 197.6bn expected.",
+   "stock_reaction": "Aug 3: -14.3% close (7,135 to 6,114), intraday -18.6%, volume 21.7m shares"
+  },
+  {
+   "date": "2026-09-14",
+   "event": "IMTS 2026 in Chicago (date approximate): Fanuc shows five Physical AI systems and highlights collaborations with NVIDIA and Google in North America.",
+   "stock_reaction": "Not found (September 2026 -1.8% m/m)"
+  },
+  {
+   "date": "2026-10-15",
+   "event": "Nikkei 225 falls 4.9% on doubts about AI investment sustainability and rate-hike expectations.",
+   "stock_reaction": "-5.5% (6,250 to 5,907)"
+  },
+  {
+   "date": "2026-10-23",
+   "event": "Q2 FY2026 results after close: record orders JPY 306.0bn (+49.0%), OP JPY 63.2bn (+45.1%, 26.0% margin); FY guidance raised to sales JPY 1,013.7bn, OP JPY 240.7bn, NI JPY 228.3bn; interim DPS JPY 72.54 (+41%); new buyback up to JPY 50bn / 10m shares (Oct 26, 2026 to Apr 30, 2027).",
+   "stock_reaction": "Oct 26: opened +5.4%, high +6.2%, closed +0.9% at JPY 5,639 on 13.6m shares (2-3x recent daily volume)"
+  }
+ ],
+ "notes": "Price is the Oct 26, 2026 close. Shares outstanding exclude 57.36m treasury shares (Sep 30, 2026); Yahoo Japan's JPY 5.54tn market cap uses issued shares. USD conversion at JPY 156.91/USD. total_debt set to 0 as an approximation: no borrowings are disclosed and stockanalysis reports none; lease liabilities not separately disclosed. Order and sales amounts by division/region are derived from the company's composition percentages. Geo and segment mixes are H1 FY2026 sales computed by us (FY2025 geo: Americas 27.1, China 26.6, Europe 17.8, Other Asia 14.5, Japan 12.9). FY2025 R&D of JPY 47.8bn comes from an unlabeled reference-material chart (series order suggests R&D 47.8 and D&A 45.0); medium confidence. FCF = operating CF 250.9 less PP&E purchases 21.2. pe_forward uses company EPS forecast JPY 246.01 (Yahoo Japan shows 23.00x); MarketScreener consensus P/E for FY3/27 was 26.4x at JPY 5,823 before the raise. ev_ebitda_forward is ours: EV (market cap less JPY 787bn cash and securities) over MarketScreener consensus EBITDA of JPY 277.5bn set before the Oct 23 raise, so it likely overstates the multiple; MarketScreener showed 16.9x at JPY 5,823. dividend_yield_pct is trailing (JPY 55.76 FY2025 year-end + JPY 72.54 interim); a 60% payout on EPS JPY 246 implies about JPY 148 and roughly 2.6% forward (estimate). The Q2 FY2026 Q&A summary PDF could not be fetched. FX sensitivity figures are our rough estimates.",
+ "sources": [
+  {
+   "title": "Fanuc Q2 FY2026 reference material (Sep 2026)",
+   "url": "https://www.fanuc.co.jp/en/ir/announce/pdf/2026/reference202609_e.pdf"
+  },
+  {
+   "title": "Fanuc consolidated results, six months ended Sep 30, 2026",
+   "url": "https://www.fanuc.co.jp/en/ir/announce/pdf/2026/financialresult202609_e.pdf"
+  },
+  {
+   "title": "Fanuc notice of share buyback, Oct 23, 2026",
+   "url": "https://www.fanuc.co.jp/en/ir/announce_other/pdf/2026/notice20261023-01_e.pdf"
+  },
+  {
+   "title": "Fanuc Q1 FY2026 reference material",
+   "url": "https://www.fanuc.co.jp/en/ir/announce/pdf/2026/reference202606_e.pdf"
+  },
+  {
+   "title": "Fanuc Q1 FY2026 Q&A summary",
+   "url": "https://www.fanuc.co.jp/en/ir/announce/pdf/2026/qasummary202606_e.pdf"
+  },
+  {
+   "title": "Fanuc FY2025 consolidated results",
+   "url": "https://www.fanuc.co.jp/en/ir/announce/pdf/2026/financialresult202603_e.pdf"
+  },
+  {
+   "title": "Fanuc FY2025 reference material",
+   "url": "https://www.fanuc.co.jp/en/ir/announce/pdf/2026/reference202603_e.pdf"
+  },
+  {
+   "title": "Fanuc FY2025 Q&A summary",
+   "url": "https://www.fanuc.co.jp/en/ir/announce/pdf/2026/qasummary202603_e.pdf"
+  },
+  {
+   "title": "Fanuc other disclosures (buybacks, dividends)",
+   "url": "https://www.fanuc.co.jp/en/ir/announce_other/index.html"
+  },
+  {
+   "title": "Yahoo! Finance Japan 6954.T quote",
+   "url": "https://finance.yahoo.co.jp/quote/6954.T"
+  },
+  {
+   "title": "Yahoo! Finance Japan 6954.T price history (daily and monthly)",
+   "url": "https://finance.yahoo.co.jp/quote/6954.T/history"
+  },
+  {
+   "title": "AJ Bell: Fanuc raises outlook to record highs (Oct 23, 2026)",
+   "url": "https://www.ajbell.co.uk/news/articles/fanuc-raises-outlook-record-highs-following-first-half-profit-jump"
+  },
+  {
+   "title": "TechNews: Fanuc raises forecast, shares plunge (Aug 3, 2026)",
+   "url": "https://finance.technews.tw/2026/08/03/fanuc-raises-full-year-forecast/"
+  },
+  {
+   "title": "TechNews: Fanuc FY2025 record sales, buyback, shares +9% (Apr 27, 2026)",
+   "url": "https://technews.tw/?p=1546290"
+  },
+  {
+   "title": "Bloomberg: Fanuc shares surge on agreement with Nvidia (Dec 2, 2025)",
+   "url": "https://www.bloomberg.com/news/articles/2025-12-02/fanuc-shares-surge-on-agreement-with-nvidia-to-integrate-ai"
+  },
+  {
+   "title": "TechNews: Fanuc and NVIDIA physical AI (Dec 2, 2025)",
+   "url": "https://technews.tw/2025/12/02/fanuc-stock-surges-on-nvidia-physical-ai-push/"
+  },
+  {
+   "title": "Finanztrends: Fanuc 9.17% drop (Jul 7, 2026)",
+   "url": "https://www.finanztrends.de/news/fanuc-aktie-917-prozent-absturz/"
+  },
+  {
+   "title": "Boerse Express: Fanuc record sales, shares +9% (May 8, 2026)",
+   "url": "https://www.boerse-express.com/news/articles/fanuc-aktie-8578-milliarden-yen-rekord-umsatz-902794"
+  },
+  {
+   "title": "MarketScreener Fanuc valuation",
+   "url": "https://ca.marketscreener.com/quote/stock/FANUC-CORPORATION-6492019/valuation/"
+  },
+  {
+   "title": "MarketScreener Fanuc consensus estimates",
+   "url": "https://uk.marketscreener.com/quote/stock/FANUC-CORPORATION-6492019/finances/"
+  },
+  {
+   "title": "Trading Economics Fanuc (EPS vs consensus)",
+   "url": "https://tradingeconomics.com/6954:jp"
+  },
+  {
+   "title": "stockanalysis.com Fanuc statistics",
+   "url": "https://stockanalysis.com/quote/tyo/6954/statistics/"
+  },
+  {
+   "title": "QNA: Nikkei plunges 3,318 points (Oct 15, 2026)",
+   "url": "https://qna.org.qa/en/News-Area/News/2026-10/15/japans-nikkei-index-plunges-over-3300-points-in-third-largest-drop-in-history"
+  },
+  {
+   "title": "Yahoo! Finance Japan USD/JPY",
+   "url": "https://finance.yahoo.co.jp/quote/USDJPY=FX"
+  }
+ ]
+}

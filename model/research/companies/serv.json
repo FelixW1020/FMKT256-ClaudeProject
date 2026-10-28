@@ -1,0 +1,184 @@
+{
+  "id": "serv",
+  "name": "Serve Robotics Inc.",
+  "yahoo_symbol": "SERV",
+  "exchange": "NASDAQ",
+  "reporting_currency": "USD",
+  "fiscal_year_note": "Calendar fiscal year. Q3 2026 (Jul-Sep) results are scheduled for Nov 5, 2026; Serve typically reports after the close. Spun out of Uber in 2021.",
+  "price": {
+    "value": 2.64,
+    "currency": "USD",
+    "date": "2026-10-26",
+    "source_url": "https://finance.yahoo.com/quote/SERV/history/?period1=1792800000&period2=1793145600"
+  },
+  "shares_outstanding_m": 86.71,
+  "market_cap_usd_bn": 0.229,
+  "cash_and_investments_bn": 0.240,
+  "total_debt_bn": 0,
+  "latest_quarter": {
+    "label": "Q2 2026 (Apr-Jun 2026)",
+    "report_date": "2026-08-06",
+    "revenue_bn": 0.003238,
+    "revenue_yoy_pct": 404.4,
+    "gross_margin_pct": -271.1,
+    "operating_margin_pct": -2040.3,
+    "operating_margin_basis": "GAAP",
+    "eps": -0.80,
+    "eps_basis": "GAAP basic and diluted",
+    "eps_adjusted": -0.59
+  },
+  "last_fiscal_year": {
+    "label": "FY2025 (calendar 2025)",
+    "revenue_bn": 0.002651,
+    "operating_income_bn": -0.1128,
+    "net_income_bn": -0.1014,
+    "free_cash_flow_bn": -0.1176,
+    "rnd_bn": 0.0453
+  },
+  "ltm": {
+    "label": "12 months to Jun 30, 2026",
+    "revenue_bn": 0.00779,
+    "operating_income_bn": -0.189,
+    "free_cash_flow_bn": -0.170
+  },
+  "cash_burn_annual_bn": 0.17,
+  "guidance": "FY2026 (updated Aug 6, 2026): revenue $9M-$10M, cut from about $26M (set Mar 11, 2026 and reaffirmed May 7), still about 3.5x 2025; non-GAAP operating expenses $140M-$150M (from $160M-$170M); GAAP operating expenses $193M-$208M; cost of revenue $44M-$48M; capex $15M-$17M (from about $25M); stock-based compensation $45M-$50M; intangible amortization about $8M. The cut reflects lower Uber Eats volume (first decline after 17 straight growth quarters) and removal of an expected H2 Uber ramp. Management expects software revenue to be a little softer in H2 and does not expect to renew the Uber agreement when it expires in early 2027 unless the operating model improves.",
+  "consensus_next_fy": {
+    "label": "FY2027 (calendar 2027)",
+    "revenue_bn": 0.0335,
+    "eps": -1.76,
+    "eps_basis": "non-GAAP adjusted per stockanalysis (about 7-8 analysts, updated Oct 7, 2026); FY2026 consensus: revenue $9.62M, EPS -$2.11",
+    "source_url": "https://stockanalysis.com/stocks/serv/forecast/"
+  },
+  "valuation": {
+    "pe_forward": null,
+    "ev_sales_forward": 0.1,
+    "ev_ebitda_forward": null,
+    "basis": "Loss-making, so P/E and EV/EBITDA are not meaningful. Enterprise value is roughly zero: market cap $0.229B vs $0.240B of cash and securities at Jun 30, 2026 (stockanalysis EV about $3M at the Oct 26 price using $235.4M cash and $9.7M of leases). ev_sales_forward = about $3M / 2027 consensus revenue $33.5M; treat as not meaningful. Stockanalysis forward price/sales is 13.4x.",
+    "source_url": "https://stockanalysis.com/stocks/serv/statistics/"
+  },
+  "beta_5y_monthly": 2.50,
+  "short_interest_pct_float": 36.1,
+  "geo_revenue_mix_pct": {
+    "United States": 100
+  },
+  "segment_or_end_market_mix_pct": {
+    "Hospital indoor robots (Diligent Moxi)": 46.6,
+    "Sidewalk delivery, advertising, software and other": 53.4
+  },
+  "physical_ai_exposure": {
+    "share_of_revenue_pct": 100,
+    "description": "Pure-play autonomous robotics: about 2,000 sidewalk delivery robots (Gen3 built by Magna, NVIDIA Jetson Orin compute) operating on DoorDash, Uber Eats and Grubhub across 44 US cities in 14 states, plus about 100 Moxi hospital service robots from Diligent Robotics (acquired Jan 2026) in 26 US hospitals. Revenue comes from delivery fees, branding/advertising (nearly 50% of food-delivery revenue in Q2 2026), software services (29% of Q2 revenue) and healthcare contracts.",
+    "optionality_notes": "Physical-AI platform bets bought through M&A: Vayu Robotics (robotics foundation models; closed Aug 15, 2025; about $39.5M incl. 1.54M shares and 4M warrants), Phantom Auto (low-latency teleoperation/connectivity), Diligent Robotics (closed Jan 27, 2026; about $25.7M), Vebu (kitchen automation; closed Feb 17, 2026; $3.7M). Moxi 2.0 rollout with a fleet-learning 'World Model'; Beacon countertop device to onboard restaurants without POS integration; interactive advertising 'Characters'; data monetization and autonomy software licensing. The company claims Gen3 hardware costs 65% less than Gen2 and targets 50% recurring revenue long term."
+  },
+  "backlog_or_pipeline": "No backlog disclosed. Fleet: 2,000 sidewalk robots deployed (2,000th in mid-Dec 2025, meeting the year-end 2025 target set with Uber Eats) plus about 100 Moxi hospital robots. Daily active robots averaged 792 in Q2 2026 (812 Q1 2026, 547 Q4 2025, 312 Q3 2025, 160 Q2 2025), i.e. roughly 40% of the sidewalk fleet; daily supply hours 9,809 in Q2. Footprint: 8 major US markets including Los Angeles, Miami, Dallas, Atlanta, Chicago, Washington DC and San Jose; 4,000+ restaurant partners; 26 hospitals (7 multi-year extensions and 2 new hospitals in H1 2026). 1.8M cumulative sidewalk and hospital deliveries with a 99.8% completion rate. A new delivery partner (Grubhub/Wonder) launched Aug 17, 2026 in Chicago (100+ merchants), Los Angeles (about 200) and Alexandria.",
+  "cost_and_supply_chain_notes": "Gen3 robots are contract-manufactured by Magna International; compute is NVIDIA Jetson Orin (Moxi uses NVIDIA RTX A2000); lidar comes from an unnamed supplier. Capex dropped to $2.4M in H1 2026 after $37.3M in 2025 as the 2,000-robot build-out finished; 2026 capex guide $15M-$17M. Serve received $3.6M of IEEPA tariff refunds in H1 2026, so imported components carry tariff exposure. Cost of revenue ($12.0M in Q2 2026) was about 3.7x revenue; 2026 cost of revenue guide $44M-$48M against $9M-$10M of revenue. The first Miami micro depot (staging, charging, maintenance) is meant to cut the cost of entering new markets. All operations are in the US.",
+  "debt_notes": "No borrowings; total liabilities $26.8M at Jun 30, 2026 (mostly accruals and $9.7M of operating leases). In Jan 2025 Serve said it would buy robots with cash reserves instead of financing them. Funding is equity: Jan 2025 $80M registered direct (4.2M shares, about $19 implied); a $150M ATM from Mar 2025 (7.72M shares sold for $91.2M gross, terminated May 7, 2026); Oct 2025 $100M registered direct (6.25M shares, about $16 implied); a new $150M ATM from May 11, 2026 (Evercore, Guggenheim, Oppenheimer, Northland, Wedbush) under a $300M shelf. Q2 2026 ATM sales were 9.57M shares for $83.4M net. Interest income on the securities portfolio partly offsets losses.",
+  "customer_concentration": "Small, concentrated revenue base: one unnamed customer was 22% of Q2 2026 revenue and another 11% (in Q2 2025 two customers were 39% and 31%). Delivery platforms: Uber Eats (volume fell in Q2 2026; agreement expires early 2027 and Serve does not expect to renew; Uber sold its entire Serve equity stake, reported Aug 11, 2026), DoorDash (multi-year deal from Oct 2025; revenue up about 50% QoQ in Q2 and another 50% from June to July), Grubhub/Wonder (from Aug 2026). Diligent's hospital customers contributed about $2.9M of revenue from Jan 27 to Jun 30, 2026, about 47% of H1 2026 revenue.",
+  "key_drivers": [
+    "Fleet utilization: about 792 of about 2,000 sidewalk robots were active daily in Q2 2026 (about 40%); revenue per robot is management's stated 2026 focus.",
+    "Platform mix shift from Uber Eats to DoorDash (+~50% QoQ) and Grubhub, plus new DoorDash markets in Washington DC and San Jose.",
+    "Healthcare: Diligent Moxi robots were about 47% of H1 2026 revenue; Moxi 2.0 rolling out to health systems.",
+    "Higher-margin advertising (nearly 50% of food-delivery revenue, triple-digit growth) and software services (29% of Q2 revenue).",
+    "Cost control: non-GAAP opex guide cut to $140M-$150M and capex to $15M-$17M; 2027 consensus revenue $33.5M (about 3.5x 2026E).",
+    "Catalyst: Q3 2026 results on Nov 5, 2026 (watch daily active robots, DoorDash/Grubhub volume, cash balance and ATM usage)."
+  ],
+  "key_risks": [
+    "Guidance credibility: the 2026 revenue guide was cut about 63%, from about $26M to $9M-$10M, on Aug 6, 2026.",
+    "Loss of Uber: non-renewal expected in early 2027, and Uber has exited its equity stake.",
+    "Funding and dilution: about $170M of annual cash burn vs $240M of liquidity at Jun 30, 2026 (about 1.4 years of runway); at $2.64 each $50M raised is about 19M new shares (about 22% dilution); shares outstanding are up about 44% YoY.",
+    "Unit economics: Q2 2026 gross margin was -271% and the operating loss was about 20x revenue.",
+    "Momentum and positioning: stock -79% over 52 weeks and about -43% in October 2026 alone (from $4.65 on Sep 30 to $2.64, a 52-week low); 36% of float sold short; beta about 2.5; insiders were net sellers (18 sales, 0 purchases over six months per Quiver).",
+    "Integration risk from four acquisitions in about six months (Vayu, Phantom Auto, Diligent, Vebu); goodwill $28.0M.",
+    "Municipal and regulatory limits on sidewalk robots, safety incidents and weather."
+  ],
+  "recent_events": [
+    {
+      "date": "2025-01-07",
+      "event": "$80M registered direct offering (4.2M shares); plan to deploy up to 2,000 robots by end-2025 under the Uber Eats contract; CFO said the raise extended runway through 2026.",
+      "stock_reaction": "-18.7% (22.89 to 18.61)"
+    },
+    {
+      "date": "2025-08-15",
+      "event": "Closed the Vayu Robotics acquisition (robotics foundation models; about $39.5M including 1.54M shares and 4M warrants).",
+      "stock_reaction": "not reported"
+    },
+    {
+      "date": "2025-10-09",
+      "event": "Multi-year DoorDash partnership announced, starting in Los Angeles; on Oct 10 Serve announced a $100M registered direct offering (6.25M shares).",
+      "stock_reaction": "+28.6% on Oct 9 (13.745 to 17.68); -15.7% on Oct 10 after the offering"
+    },
+    {
+      "date": "2025-11-12",
+      "event": "Q3 2025 results: revenue $687K (+209%), more than 1,000 robots deployed, 2,000th robot expected mid-December, preliminary 2026 outlook of about 10x revenue growth.",
+      "stock_reaction": "-10.0% next day (10.47 to 9.42)"
+    },
+    {
+      "date": "2026-01-20",
+      "event": "Agreed to acquire Diligent Robotics (Moxi hospital robots); closed Jan 27 for about $25.7M ($20.1M cash, 197,472 shares, earnout). Vebu (kitchen automation) followed on Feb 17.",
+      "stock_reaction": "about flat (Jan 21: -0.9%)"
+    },
+    {
+      "date": "2026-03-11",
+      "event": "Q4/FY2025 results: FY2025 revenue $2.65M (beat $2.5M guide), 2,000 robots deployed in mid-Dec 2025, 2026 revenue guidance raised to about $26M, capex about $25M.",
+      "stock_reaction": "+10.1% on Mar 11 (9.67 to 10.65) and -9.8% on Mar 12; release timing not confirmed"
+    },
+    {
+      "date": "2026-05-07",
+      "event": "Q1 2026 results: revenue $2.98M (+578% YoY), 812 daily active robots, about $26M 2026 revenue guide reaffirmed; on May 11 the old ATM was replaced by a new $150M ATM.",
+      "stock_reaction": "-3.5% next day (9.09 to 8.77)"
+    },
+    {
+      "date": "2026-08-06",
+      "event": "Q2 2026 results (after close): revenue $3.24M (+404%) but 2026 revenue guide cut to $9M-$10M on weak Uber Eats volume, Uber renewal not expected, opex and capex guides cut; Cantor Fitzgerald downgraded to Neutral and several price targets were cut.",
+      "stock_reaction": "-10.5% on Aug 7 (5.68 to 5.085)"
+    },
+    {
+      "date": "2026-08-17",
+      "event": "Launched robot delivery with Wonder/Grubhub (Chicago, Los Angeles, Alexandria), opened Washington DC and San Jose with DoorDash, opened the first Miami micro depot, began the Moxi 2.0 rollout and previewed Beacon. Uber's sale of its entire Serve stake had been reported Aug 11.",
+      "stock_reaction": "-1.8% on Aug 17 and -7.1% on Aug 18; about flat on Aug 11"
+    },
+    {
+      "date": "2026-10-26",
+      "event": "Stock hit a 52-week low after an October slide with no company-specific negative release found (the Oct 5 8-K was an investor deck for Evercore ISI's Physical AI conference); Q3 2026 results set for Nov 5.",
+      "stock_reaction": "about -43% from Sep 30 ($4.65) to Oct 26 ($2.64)"
+    }
+  ],
+  "notes": "Price is the Oct 26, 2026 close from Yahoo history ($2.64; stockanalysis showed $2.665 intraday). Shares 86.71M as of Aug 4, 2026 (10-Q cover). cash_and_investments_bn = cash $79.1M + short-term securities $156.3M + long-term securities $5.0M at Jun 30, 2026; Q3 2026 burn has not been reported yet, so current liquidity is likely about $195M-$200M plus any ATM proceeds (ESTIMATE based on H1 2026 operating cash use of about $42M per quarter). total_debt_bn 0 means no borrowings (operating leases $9.7M excluded). FY2025 operating loss is from the company release (-$112.8M; stockanalysis shows -$111.4M); FY2025 FCF = operating cash flow -$80.2M plus capex -$37.3M per stockanalysis (the company release appears to repeat the 2025 operating cash flow figure in the 2024 column). R&D from SEC XBRL ($45.3M in 2025; $39.3M in H1 2026). LTM operating income and FCF from stockanalysis. cash_burn_annual_bn 0.17 = LTM FCF of -$169.8M; H1 2026 FCF annualizes to about -$174M with unusually low capex. Q2 2026 gross and operating margins are computed from reported dollars. The end-market mix is DERIVED: Diligent revenue of about $2.9M (Jan 27-Jun 30, from the 10-Q acquisitions note) divided by H1 2026 revenue of $6.22M; by revenue type, Q2 2026 was fleet services 71% and software services 29%. Beta 2.50 is stockanalysis' 5Y figure (Yahoo did not show a 5Y monthly beta, and the trading history is short). Short interest 36.1% of float (29.86M shares) is stockanalysis' latest, undated. Company decks show '$910M' for 2026 revenue guidance, an evident typo for $9M-$10M. Not retrieved because the search budget and hourly fetch limit ran out: Phantom Auto deal terms and date, remaining capacity on the May 2026 ATM, and the exact Uber share-sale size.",
+  "sources": [
+    {"title": "Serve Robotics Q2 2026 results (company IR)", "url": "https://investors.serverobotics.com/news-releases/news-release-details/serve-robotics-announces-second-quarter-2026-results"},
+    {"title": "Serve Robotics Q2 2026 results (PDF)", "url": "https://investors.serverobotics.com/node/9896/pdf"},
+    {"title": "Serve Robotics Form 10-Q for quarter ended Jun 30, 2026", "url": "https://www.sec.gov/Archives/edgar/data/1832483/000183248326000035/serv-20260630.htm"},
+    {"title": "Serve Robotics Q2 2026 investor deck (8-K exhibit)", "url": "https://www.sec.gov/Archives/edgar/data/1832483/000183248326000034/finalserve_investorxdeck.htm"},
+    {"title": "Serve Robotics Oct 2026 investor deck (8-K, Oct 5, 2026)", "url": "https://www.sec.gov/Archives/edgar/data/1832483/000183248326000040/serve_investorxdeckx05oc.htm"},
+    {"title": "Serve Robotics Q2 2026 earnings call transcript (Webull)", "url": "https://www.webull.com/news/15739947660698624"},
+    {"title": "Serve Robotics Q1 2026 results (8-K Ex-99.1)", "url": "https://www.sec.gov/Archives/edgar/data/1832483/000183248326000017/serv-20260331_ex991earning.htm"},
+    {"title": "Serve Robotics Q4 and FY2025 results (8-K Ex-99.1)", "url": "https://www.sec.gov/Archives/edgar/data/1832483/000183248326000004/serv-20251231xex991earning.htm"},
+    {"title": "Serve Robotics Q3 2025 results (8-K Ex-99.1)", "url": "https://www.sec.gov/Archives/edgar/data/1832483/000183248325000107/serv-20250930xex991earning.htm"},
+    {"title": "Serve Robotics $100M registered direct offering (Oct 10, 2025)", "url": "https://www.sec.gov/Archives/edgar/data/1832483/000121390025097926/ea026090201ex99-1_serve.htm"},
+    {"title": "Serve Robotics 8-K: ATM termination and Diligent update (May 11, 2026)", "url": "https://www.sec.gov/Archives/edgar/data/1832483/000121390026054200/ea028960901-8k_serve.htm"},
+    {"title": "Serve Robotics Diligent pro forma financials (8-K Ex-99.1)", "url": "https://www.sec.gov/Archives/edgar/data/1832483/000121390026054200/ea028960901ex99-1.htm"},
+    {"title": "Serve Robotics 424B5 prospectus supplement for $150M ATM (May 14, 2026)", "url": "https://www.sec.gov/Archives/edgar/data/1832483/000121390026056827/ea0290442-424b5_serve.htm"},
+    {"title": "Serve launches robot delivery with Wonder/Grubhub (8-K Ex-99.1, Aug 17, 2026)", "url": "https://www.sec.gov/Archives/edgar/data/1832483/000121390026090504/ea030212201ex99-1.htm"},
+    {"title": "SEC XBRL: Serve ResearchAndDevelopmentExpense", "url": "https://data.sec.gov/api/xbrl/companyconcept/CIK0001832483/us-gaap/ResearchAndDevelopmentExpense.json"},
+    {"title": "SEC EDGAR submissions index for Serve Robotics", "url": "https://data.sec.gov/submissions/CIK0001832483.json"},
+    {"title": "TechCrunch: Uber surprised Serve by selling its entire stake (Aug 11, 2026)", "url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/"},
+    {"title": "TechCrunch: DoorDash to use Serve's sidewalk robots in Los Angeles (Oct 9, 2025)", "url": "https://techcrunch.com/2025/10/09/doordash-to-use-serve-robotics-sidewalk-robots-for-deliveries-in-los-angeles/"},
+    {"title": "TechCrunch: Serve raises additional $80M (Jan 7, 2025)", "url": "https://techcrunch.com/2025/01/07/serve-robotics-raises-additional-80m-as-it-scales-sidewalk-delivery-robots/"},
+    {"title": "Quiver Quant: Serve Q2 2026 results, insider trades and analyst actions", "url": "https://www.quiverquant.com/news/Serve%2BRobotics%2BReports%2BQ2%2B2026%2BResults%2Bwith%2B404%25%2BRevenue%2BGrowth%2Band%2BExpanded%2BAutonomous%2BDelivery%2BPartnerships"},
+    {"title": "StockAnalysis: SERV quote and news", "url": "https://stockanalysis.com/stocks/serv/"},
+    {"title": "StockAnalysis: SERV statistics", "url": "https://stockanalysis.com/stocks/serv/statistics/"},
+    {"title": "StockAnalysis: SERV forecast", "url": "https://stockanalysis.com/stocks/serv/forecast/"},
+    {"title": "StockAnalysis: SERV financials", "url": "https://stockanalysis.com/stocks/serv/financials/"},
+    {"title": "StockAnalysis: SERV cash flow statement", "url": "https://stockanalysis.com/stocks/serv/financials/cash-flow-statement/"},
+    {"title": "StockAnalysis: SERV price history", "url": "https://stockanalysis.com/stocks/serv/history/"},
+    {"title": "Yahoo Finance: SERV price history Jan 2025", "url": "https://finance.yahoo.com/quote/SERV/history/?period1=1735948800&period2=1736553600"},
+    {"title": "Yahoo Finance: SERV price history Oct 2025", "url": "https://finance.yahoo.com/quote/SERV/history/?period1=1759795200&period2=1760400000"},
+    {"title": "Yahoo Finance: SERV price history Nov 2025", "url": "https://finance.yahoo.com/quote/SERV/history/?period1=1762128000&period2=1763337600"},
+    {"title": "Yahoo Finance: SERV price history Jan 2026", "url": "https://finance.yahoo.com/quote/SERV/history/?period1=1768780800&period2=1769990400"},
+    {"title": "Yahoo Finance: SERV price history Mar 2026", "url": "https://finance.yahoo.com/quote/SERV/history/?period1=1772928000&period2=1773964800"},
+    {"title": "Yahoo Finance: SERV price history May 2026", "url": "https://finance.yahoo.com/quote/SERV/history/?period1=1777593600&period2=1778630400"},
+    {"title": "Yahoo Finance: SERV price history Aug 2026", "url": "https://finance.yahoo.com/quote/SERV/history/?period1=1785888000&period2=1786492800"},
+    {"title": "Yahoo Finance: SERV price history Oct 26, 2026", "url": "https://finance.yahoo.com/quote/SERV/history/?period1=1792800000&period2=1793145600"}
+  ]
+}

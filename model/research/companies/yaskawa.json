@@ -1,0 +1,217 @@
+{
+ "id": "yaskawa",
+ "name": "YASKAWA Electric Corporation",
+ "yahoo_symbol": "6506.T",
+ "adr_symbol": "YASKY",
+ "exchange": "Tokyo Stock Exchange (Prime)",
+ "reporting_currency": "JPY",
+ "fiscal_year_note": "Fiscal year ends end-February. Company label FY2026 = Mar 1, 2026 to Feb 28, 2027 (some data sites call it FY2027, e.g. 'Q2 2027'). Q2 FY2026 (Jun-Aug 2026) was released Oct 9, 2026 after the close; Oct 12 was a Japanese holiday, so the first reaction was Oct 13. Q3 (Sep-Nov) is normally reported in early January. IFRS reporter.",
+ "price": {
+  "value": 3980,
+  "currency": "JPY",
+  "date": "2026-10-26",
+  "source_url": "https://finance.yahoo.co.jp/quote/6506.T/history"
+ },
+ "shares_outstanding_m": 259.44,
+ "market_cap_usd_bn": 6.58,
+ "cash_and_investments": 70.2,
+ "total_debt": 125.3,
+ "amount_unit": "JPY bn",
+ "latest_quarter": {
+  "label": "Q2 FY2026 (Jun-Aug 2026)",
+  "report_date": "2026-10-09",
+  "revenue": 146.6,
+  "revenue_yoy_pct": 8.9,
+  "orders": 185.4,
+  "orders_yoy_pct": 38.0,
+  "operating_margin_pct": 9.2,
+  "net_income": 13.6
+ },
+ "last_fiscal_year": {
+  "label": "FY2025 (Mar 2025-Feb 2026)",
+  "revenue": 542.1,
+  "operating_income": 47.3,
+  "net_income": 35.2,
+  "free_cash_flow": 5.9,
+  "rnd": 21.1
+ },
+ "full_year_guidance": "FY2026 (Mar 2026-Feb 2027), revised Oct 9, 2026: revenue JPY 600.0bn (prior 580.0; +10.7% YoY), operating profit JPY 57.5bn (cut from 60.0; +21.5% YoY; 9.6% margin), profit before tax JPY 65.5bn, net profit JPY 47.5bn (prior 47.0; analyst average was 45.1), EPS JPY 183.11, DPS JPY 72 (interim 36). Segment OP: Motion Control 39.4 (prior 42.0), Robotics 17.8 (prior 21.0), System Engineering 5.6 (prior 3.2). Revenue raised on a weaker yen; OP cut mainly because the new ERP system hurt 1H production and shipments. FX assumption for Sep 2026-Feb 2027: JPY 155/USD, 180/EUR, 22.0/CNY, 0.107/KRW (April plan: 145/USD, 170/EUR, 20.5/CNY). Implied 2H: revenue JPY 314.4bn, OP JPY 35.4bn (11.3% margin) vs 1H 22.1bn (7.7%) (derived).",
+ "fx_sensitivity": "Company discloses the impact of a 1% yen move on FY2026 full-year results by currency, but the table text came through garbled. Revenue impact per 1% (fairly clear, Oct 2026 deck): USD about JPY 1.63bn, EUR 0.71bn, CNY 1.35bn, KRW 0.37bn. Operating profit per 1% (low-confidence reading): USD about JPY 0.40bn, EUR about 0.18bn, KRW about 0.09bn, CNY likely about 0.4bn; roughly JPY 1bn of OP for a 1% broad yen move. That is about JPY 0.26bn of annual OP per JPY 1 vs USD. Yen weakness alone lifted the revenue guide by JPY 20bn in October.",
+ "valuation": {
+  "pe_forward": 21.7,
+  "ev_ebitda_forward": 13.5,
+  "pb": 2.05,
+  "source_url": "https://finance.yahoo.co.jp/quote/6506.T"
+ },
+ "dividend_yield_pct": 1.81,
+ "geo_revenue_mix_pct": {
+  "Japan": 24.8,
+  "China": 23.4,
+  "Americas": 27.3,
+  "Europe": 11.7,
+  "Other Asia": 12.8
+ },
+ "segment_or_end_market_mix_pct": {
+  "Motion Control (AC servo, drives/inverters)": 48.1,
+  "Robotics": 41.5,
+  "System Engineering": 7.3,
+  "Other": 3.2
+ },
+ "physical_ai_exposure": {
+  "share_of_revenue_pct": 41.5,
+  "description": "Robotics segment (MOTOMAN industrial robots, semiconductor wafer-transfer robots) was 41.5% of 1H FY2026 revenue (45.6% of FY2025). Motion Control servos also sell into robots and semiconductor equipment. Physical AI: MOTOMAN NEXT autonomous AI robot used for physical AI validation with partners (e.g. a strawberry sorting/packing project in 2H); 'Dash 35' plan targets new markets for physical AI. Humanoids: acquired 100% of Tokyo Robotics Inc., developing humanoid-robot actuators, and plans data accumulation and robot design toward commercializing humanoids. Robot Factory No. 5 began full operation integrating servo and robot production.",
+  "optionality_notes": "The stock roughly doubled from the March 2026 low (JPY 3,987) to a record JPY 7,915 on Jun 22, 2026 on AI, semiconductor and physical-AI enthusiasm, then fell about 50% to JPY 3,980 after ERP-driven profit misses, a Goldman Sachs downgrade and the October AI-hardware sell-off, even though orders keep setting records. Humanoid work is still pre-commercial, so the market is pricing near-term execution rather than humanoid optionality."
+ },
+ "cost_and_supply_chain_notes": "Components for 2H production are secured; semiconductors are a bigger concern for FY2027. Labor availability, especially in Japan, is the main production constraint. Rare earths are monitored; long-term magnet supply is secured and rare-earth-free motor technology is in development. Management expects price pass-through to offset about 70% of material cost increases. Capacity: Motion Control capacity to rise 30-40% in 2H vs 1H with two-shift operation; semiconductor-robot capacity needs about 2.7x the 1H level (about 2x now). Footprint mentioned in materials: Japan (Robot Factory No. 5), China (could move to three shifts), Slovenia (European robot plant and logistics hub), Vietnam (PCB supply for drives). ERP (SAP S/4HANA) go-live in May 2026 disrupted output: about JPY 2.5bn OP lost in 1Q, about JPY 10bn of 2Q revenue opportunity lost, about JPY 4bn 1H OP hit; normalization expected in 3Q. US: the April 2026 Q&A says North American Drives margins could approach China's high levels if capital investment at the Franklin campus (Franklin, Wisconsin) proceeds as planned. Tariffs: no yen impact disclosed; the FY2026 plan embeds cost-increase assumptions for geopolitics, transport and petroleum-derived parts (about JPY 4bn of annual risk factors per the 1Q Q&A), and possible additional US tariffs on robots are said to be reflected in the plan. In Oct 2025 management expected no significant cost hit from steel/aluminum tariffs and planned to pass costs through; automakers' worries about Mexico/Canada tariffs held back US-bound auto robot orders.",
+ "competition_notes": "Management said in Oct 2025 it would take all necessary measures against local Chinese AC servo competitors, and in Apr 2026 that price-led expansion by local manufacturers is approaching its limits; it also restructured Motion Control in China (about JPY 0.4bn) and is exiting about JPY 20bn of low-margin Robotics projects. In China's general servo market Inovance is #1 with about 35% share (H1 2026, up from about 31% in 2025), squeezing Japanese suppliers including Yaskawa; domestic brands hold about 54% of China's industrial robot market (2025, MIR). Yaskawa is pushing its Sigma-Mx servo in China and its China orders rose 35% YoY in Q2 (fifth straight quarter of growth). Management says price revisions are becoming common across the FA industry.",
+ "key_drivers": [
+  "Record orders: Q2 FY2026 JPY 185.4bn (+38% YoY, +13% QoQ); fifth straight quarter of YoY growth",
+  "Motion Control orders JPY 91.1bn (+56%); Robotics JPY 77.6bn (+33%)",
+  "By region in Q2: Americas JPY 48.8bn (+60%), Other Asia 29.6bn (+53%), Europe 20.9bn (+36%), China 37.5bn (+35%), Japan 48.6bn (+18%)",
+  "AI, semiconductor and data-center demand: 1Q semiconductor-related AC servo orders +200% YoY and semiconductor robot orders +141%; U1000 matrix converter orders for US data-center cooling",
+  "ERP recovery: implied 2H OP JPY 35.4bn vs 1H 22.1bn; Robotics 2H margin target 9% vs 5.0% in 1H",
+  "Weak yen vs JPY 155/USD 2H assumption",
+  "Management expects order levels to hold through 3Q and 4Q"
+ ],
+ "key_risks": [
+  "Execution: ERP problems already forced an OP guidance cut (JPY 60.0bn to 57.5bn)",
+  "Robotics profitability: 1H segment margin 5.0% (OP -43%); European restructuring costs in Germany",
+  "Book-to-bill well above 1 means delivery risk if capacity, labor or chips fall short",
+  "Chinese competition in servos and robots (Inovance and other domestic brands)",
+  "Yen appreciation after BOJ hikes to 1.25%",
+  "AI-capex sentiment: -9.3% on Oct 15; Goldman Sachs downgrade to Neutral; stock about -50% from June high",
+  "Net debt position (about JPY 55bn) unlike cash-rich Fanuc"
+ ],
+ "recent_events": [
+  {
+   "date": "2025-04-02",
+   "event": "US reciprocal-tariff announcement triggers a global equity sell-off.",
+   "stock_reaction": "April 2025: -19.1% m/m (3,730 to 3,017); intraday low JPY 2,582"
+  },
+  {
+   "date": "2025-10-03",
+   "event": "Q2 FY2025 (Jun-Aug 2025) results after the close: orders turned up (+6% YoY), full-year revenue forecast raised by JPY 10bn, Motion Control margin guided back to 11%, strong AI-related semiconductor demand.",
+   "stock_reaction": "Oct 6: +19.3% (3,178 to 3,790); October 2025 +34.5% m/m (part of the move may be market-wide)"
+  },
+  {
+   "date": "2026-01-09",
+   "event": "Q3 FY2025 (Sep-Nov 2025) results: orders +15% YoY (second straight quarter of growth) while profits were still declining (FY2025 OP ended -5.7%).",
+   "stock_reaction": "Not found (January 2026 +3.3% m/m)"
+  },
+  {
+   "date": "2026-03-31",
+   "event": "Broad Japanese equity sell-off through March 2026.",
+   "stock_reaction": "March 2026: -27.1% m/m (5,515 to 4,020)"
+  },
+  {
+   "date": "2026-04-10",
+   "event": "FY2025 results (revenue JPY 542.1bn, OP 47.3bn); 4Q orders +20% YoY (Motion Control +47%); FY2026 guidance OP JPY 60.0bn (+26.8%) at JPY 145/USD; Tokyo Robotics acquisition and humanoid actuator development disclosed.",
+   "stock_reaction": "April 2026: +37.3% m/m (day reaction not found)"
+  },
+  {
+   "date": "2026-06-22",
+   "event": "Record intraday high JPY 7,915 (about +98% from the March 2026 low of JPY 3,987).",
+   "stock_reaction": "n/a"
+  },
+  {
+   "date": "2026-07-10",
+   "event": "Q1 FY2026 (Mar-May 2026): record AC servo and robot orders (total +29%) but OP -19.2% to JPY 8.5bn after the S/4HANA ERP go-live disrupted production (about JPY 2.5bn OP lost) plus JPY 1.0bn European restructuring; guidance kept.",
+   "stock_reaction": "Jul 13: -14.3% (6,972 to 5,972); Jul 14: -9.0%; July 2026 -30.7% m/m"
+  },
+  {
+   "date": "2026-10-09",
+   "event": "Q2 FY2026 results after close: record orders JPY 185.4bn (+38%); revenue forecast raised to JPY 600bn on the weak yen; OP forecast cut to JPY 57.5bn (ERP); NI raised to JPY 47.5bn vs JPY 45.1bn consensus.",
+   "stock_reaction": "Oct 13 (next session): opened +3.0%, high +4.9%, closed +1.2% at 4,840 on 11.7m shares (about 3x normal)"
+  },
+  {
+   "date": "2026-10-15",
+   "event": "Nikkei 225 -4.9% in an AI-related sell-off.",
+   "stock_reaction": "-9.3% (4,712 to 4,274)"
+  },
+  {
+   "date": "2026-10-19",
+   "event": "Goldman Sachs downgrades Yaskawa to Neutral from Buy (date approximate; GS had removed it from its APAC Conviction List about two months earlier).",
+   "stock_reaction": "Slide continued to a 2026 low of JPY 3,775 intraday on Oct 23 (-13.8% vs Oct 16 close)"
+  },
+  {
+   "date": "2026-10-26",
+   "event": "Websites restored after a suspension over a PHP vulnerability; company found no unauthorized access or data leakage.",
+   "stock_reaction": "-1.0% to JPY 3,980"
+  }
+ ],
+ "notes": "Price is the Oct 26, 2026 close; shares exclude 7.25m treasury shares (Aug 31, 2026); USD conversion at JPY 156.91/USD. Q2 standalone revenue (146.6), OP (13.6) and net income (13.6) are derived as 1H minus 1Q; the 1Q-to-2Q OP bridge (+5.1) supports the OP figure. Regional Q2 order amounts come from TechNews and sum to the company total of JPY 185.4bn. cash_and_investments = cash 66.1 + current other financial assets 4.1; non-current other financial assets of JPY 93.6bn (mostly investment securities) excluded. total_debt = bonds and borrowings 109.3 + lease liabilities 16.0. Geo and segment mixes are 1H FY2026 revenue (FY2025 geo: Japan 27.4, Americas 23.7, China 21.4, Other Asia 14.9, Europe 12.6). FY2025 R&D (21.1) and FY2026 D&A plan (24.0) are read from a hard-to-read chart; medium confidence. FCF = operating CF 52.2 less capex 46.2. Valuation computed by us at JPY 3,980: P/E on company EPS 183.11 (Yahoo Japan 21.96x at 4,022), P/B on owners' equity 504.1, EV/EBITDA = (market cap + debt - cash + NCI 10.5) / (OP 57.5 + D&A 24.0). FX OP sensitivities are a low-confidence reading of a garbled table. US Wisconsin plant: the company's Apr 2026 Q&A confirms ongoing capital investment at its Franklin campus (Franklin is in Wisconsin), tied to North American Drives margins; the size of the investment and any robot-production scope (background recollection: about USD 180m announced in 2025) were not verified this session. Goldman Sachs action dates are approximate (from relative dates on stockanalysis).",
+ "sources": [
+  {
+   "title": "Yaskawa results briefing 1H FY2026 (Oct 9, 2026)",
+   "url": "https://www.yaskawa-global.com/wp-content/uploads/2026/10/20261009_haifu_en.pdf"
+  },
+  {
+   "title": "Yaskawa consolidated results 1H FY2026",
+   "url": "https://www.yaskawa-global.com/wp-content/uploads/2026/10/20261009_en.pdf"
+  },
+  {
+   "title": "Yaskawa 2Q FY2026 results briefing Q&A",
+   "url": "https://www.yaskawa-global.com/wp-content/uploads/2026/10/262Q_QA_EN-1.pdf"
+  },
+  {
+   "title": "Yaskawa 2Q FY2026 briefing script",
+   "url": "https://www.yaskawa-global.com/wp-content/uploads/2026/10/haifu_script_e_26-2.pdf"
+  },
+  {
+   "title": "Yaskawa 1Q FY2026 results briefing Q&A",
+   "url": "https://www.yaskawa-global.com/wp-content/uploads/2026/07/261Q_QA_EN.pdf"
+  },
+  {
+   "title": "Yaskawa 1Q FY2026 supplements",
+   "url": "https://www.yaskawa-global.com/wp-content/uploads/2026/07/20260710_haifu_en.pdf"
+  },
+  {
+   "title": "Yaskawa FY2025 consolidated results",
+   "url": "https://www.yaskawa-global.com/wp-content/uploads/2026/04/20260410_en.pdf"
+  },
+  {
+   "title": "Yaskawa FY2025 supplements",
+   "url": "https://www.yaskawa-global.com/wp-content/uploads/2026/04/20260410_haifu_en.pdf"
+  },
+  {
+   "title": "Yaskawa 4Q FY2025 results briefing Q&A (Apr 2026)",
+   "url": "https://www.yaskawa-global.com/wp-content/uploads/2026/04/254Q_QA_EN.pdf"
+  },
+  {
+   "title": "Yaskawa 2Q FY2025 results briefing Q&A (Oct 2025)",
+   "url": "https://www.yaskawa-global.com/wp-content/uploads/2025/10/252Q_QA_EN.pdf"
+  },
+  {
+   "title": "Yaskawa IR materials list",
+   "url": "https://www.yaskawa-global.com/ir/materials/br"
+  },
+  {
+   "title": "Yaskawa notice of website restoration (Oct 26, 2026)",
+   "url": "https://www.yaskawa-global.com/newsrelease/267224"
+  },
+  {
+   "title": "TechNews: Yaskawa orders hit record, raises profit forecast (Oct 12, 2026)",
+   "url": "https://finance.technews.tw/2026/10/12/yaskawa-orders-hit-record-raises-profit-forecast/"
+  },
+  {
+   "title": "Yahoo! Finance Japan 6506.T quote",
+   "url": "https://finance.yahoo.co.jp/quote/6506.T"
+  },
+  {
+   "title": "Yahoo! Finance Japan 6506.T price history",
+   "url": "https://finance.yahoo.co.jp/quote/6506.T/history"
+  },
+  {
+   "title": "stockanalysis.com Yaskawa quote and news",
+   "url": "https://stockanalysis.com/quote/tyo/6506/"
+  },
+  {
+   "title": "stockanalysis.com Yaskawa statistics",
+   "url": "https://stockanalysis.com/quote/tyo/6506/statistics/"
+  },
+  {
+   "title": "Trading Economics: Nikkei plunges on tech rout (Oct 15, 2026)",
+   "url": "https://tradingeconomics.com/japan/stock-market/news/592224"
+  }
+ ]
+}

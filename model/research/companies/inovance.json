@@ -1,0 +1,208 @@
+{
+ "id": "inovance",
+ "name": "Shenzhen Inovance Technology Co., Ltd. (汇川技术)",
+ "yahoo_symbol": "300124.SZ",
+ "adr_symbol": null,
+ "exchange": "Shenzhen Stock Exchange (ChiNext)",
+ "reporting_currency": "CNY",
+ "fiscal_year_note": "Calendar fiscal year (China Accounting Standards). Q3 2026 (Jul-Sep) report dated Oct 27, 2026; Q3 is reported only as a quarter plus 9M cumulative figures. FY2026 annual report expected late April 2027. A Hong Kong listing (H-share) application was reported around April 2026 (SCMP via stockanalysis); its status was not verified.",
+ "price": {
+  "value": 55.25,
+  "currency": "CNY",
+  "date": "2026-10-26",
+  "source_url": "https://stockanalysis.com/quote/she/300124/"
+ },
+ "shares_outstanding_m": 2711.07,
+ "market_cap_usd_bn": 22.4,
+ "cash_and_investments": 9.01,
+ "total_debt": 3.18,
+ "amount_unit": "CNY bn",
+ "latest_quarter": {
+  "label": "Q3 2026 (Jul-Sep 2026)",
+  "report_date": "2026-10-27",
+  "revenue": 13.28,
+  "revenue_yoy_pct": 19.1,
+  "orders": null,
+  "orders_yoy_pct": null,
+  "operating_margin_pct": null,
+  "net_income": 1.59
+ },
+ "last_fiscal_year": {
+  "label": "FY2025 (Jan-Dec 2025)",
+  "revenue": 45.1,
+  "operating_income": 5.26,
+  "net_income": 5.05,
+  "free_cash_flow": 3.66,
+  "rnd": null
+ },
+ "full_year_guidance": "No numerical FY2026 company guidance found in the filings reviewed. 9M 2026 actuals: revenue CNY 37.96bn (+19.9%), attributable NI CNY 4.40bn (+3.4%), NI excluding non-recurring items CNY 3.91bn (+0.5%), basic EPS CNY 1.63. Board proposed a 2026 interim dividend of CNY 2.6 per 10 shares (CNY 704m) on Oct 27, 2026. Stockanalysis forward P/E of 22.76x at CNY 55.25 implies consensus forward EPS of about CNY 2.43 (derived).",
+ "fx_sensitivity": "Low direct exposure: overseas revenue was CNY 1.64bn, 6.6% of H1 2026 revenue (+24.2% YoY). FX losses turned 9M 2026 financial expenses to +CNY 28.7m from -CNY 73.3m a year earlier, and overseas fund fair-value losses cut investment income. The bigger FX effect is competitive: the yen at about JPY 23.5 per CNY (vs JPY 20.5-22.5 assumed by Japanese peers) makes Japanese servo, PLC and robot suppliers cheaper in China.",
+ "valuation": {
+  "pe_forward": 22.8,
+  "ev_ebitda_forward": null,
+  "pb": 3.9,
+  "source_url": "https://stockanalysis.com/quote/she/300124/"
+ },
+ "dividend_yield_pct": 0.9,
+ "geo_revenue_mix_pct": {
+  "Japan": null,
+  "China": 93.4,
+  "Americas": null,
+  "Europe": null,
+  "Other Asia": null,
+  "Overseas_total": 6.6
+ },
+ "segment_or_end_market_mix_pct": {
+  "Industrial automation & digitalization (servo, inverters, PLC/HMI, elevator)": 54.6,
+  "NEV powertrain (motors, controllers, power supplies)": 38.1,
+  "Emerging: intelligent robots + digital energy": 5.9,
+  "Other": 1.4
+ },
+ "physical_ai_exposure": {
+  "share_of_revenue_pct": 5.9,
+  "description": "Upper bound: the 'emerging industries' line (intelligent robots plus digital energy storage) was CNY 1.47bn, 5.9% of H1 2026 revenue, up 96%; industrial-robot revenue alone is not disclosed. Broader motion-control exposure: servo systems about CNY 4.8bn (about 19.5% of revenue), the core component of robots and automated machines. Robot market position (H1 2026): 9.2% of China industrial robots (#3; #2 among domestic brands) and about 25% of SCARA (#1). Humanoid plans: mass-production version of a 7-DoF bionic arm launched and sampled to humanoid makers and research institutes; frameless motors in small-batch use at leading humanoid OEMs; a 'pan-humanoid' industrial solution prototype in customer trials; some component design wins.",
+  "optionality_notes": "China humanoid shipments were about 20k units in H1 2026 (+314%, MIR), and Inovance sells joint motors, drives and arms into that chain, but the stock has not been rewarded: it is down about 29% over the past year (stockanalysis), slid from about CNY 72 (Jul 3) to a 52-week low of CNY 48.50 in October 2026, and peaked near CNY 91 in October 2025. JPMorgan (Oct 26) rates it Neutral and sees humanoid supply-chain value shifting toward components amid a cautious Tesla Optimus ramp; Macquarie cut it to Underperform (target CNY 48.90) on Oct 27."
+ },
+ "cost_and_supply_chain_notes": "Raw material cost pressure was flagged on the Q2 2026 call (stockanalysis summary). Inventory rose 54% YTD to CNY 12.46bn on production for growth and strategic stockpiling; 9M 2026 impairment provisions were CNY 650.5m, mostly inventory write-downs (CNY 518.1m), cutting NI by CNY 441.1m. Receivables rose to CNY 13.33bn (+15.8% YTD) and 9M operating cash flow fell 77% to CNY 0.90bn. Derived Q3 gross margin about 25.5% vs 29.7% in H1 and about 27.5% in Q3 2025. Production is mainly in China; NEV plants in Hungary and Thailand are in volume delivery. US tariff exposure is minimal because overseas sales are only 6.6% of revenue. Capex (cash) 9M 2026 CNY 2.40bn. Likely key inputs (general knowledge): rare-earth magnets, copper, power semiconductors and chips.",
+ "competition_notes": "Domestic substitution is the core story. China share by revenue in H1 2026: general servo about 35.2% (#1; about 31% in 2025), low-voltage inverters about 20.6% (#1), small PLC about 14.6% (#2), mid/large PLC about 6.7% (#3); 2025 also MV/HV inverters about 14% (#1). Robots: 9.2% of industrial robots (#3; 8.8% and #4 in 2025) and SCARA about 25% (#1). Domestic brands held about 54% of China's 2025 industrial robot market of about 334k units (MIR). Rivals in servos/PLCs are mainly Japanese and European (Yaskawa, Siemens and others). Pricing pressure is most visible in NEV powertrain: gross margin 12.8% in H1 2026, down 4.0 points YoY, while industrial automation held 41.4%.",
+ "key_drivers": [
+  "Industrial automation & digitalization revenue +29.2% YoY in H1 2026 (general automation about +36%)",
+  "Share gains: general servo share up about 4 points in a year to 35.2%",
+  "China industrial robot output +29.1% YoY Jan-Sep 2026 (NBS); semiconductor-equipment demand in China accelerating (Futu headline, Oct 22)",
+  "Emerging businesses (robots + energy storage) +96% YoY; overseas revenue +24%",
+  "Humanoid component design wins (joint motors, bionic arm)",
+  "Insider support: largest shareholder plans to buy CNY 150-200m of shares; 8th equity incentive plan granted Oct 14, 2026; buybacks with share cancellation",
+  "Net cash about CNY 5.8bn (cash and trading assets 9.0bn less debt 3.2bn)"
+ ],
+ "key_risks": [
+  "Core earnings flat despite +19% revenue: Q3 recurring NI -5.4% YoY; Q3 headline NI boosted by about CNY 437m net non-recurring gains (mostly equity-investment fair-value gains)",
+  "China automation demand slowed further in September after a Q2 peak (Futu monthly tracker headline, Oct 21)",
+  "NEV powertrain margin compression in China's auto price war (38% of revenue at 12.8% gross margin)",
+  "Working-capital strain: inventory +54% YTD, 9M operating cash flow -77%, inventory impairments CNY 518m",
+  "Possible H-share issuance dilution",
+  "Analyst downgrades (Macquarie Underperform, target CNY 48.90; JPMorgan Neutral) and humanoid hype fading"
+ ],
+ "recent_events": [
+  {
+   "date": "2025-08-26",
+   "event": "H1 2025 report: revenue about CNY 20.5bn (Q1 +38.3%, Q2 +19.0% YoY), NI about CNY 2.97bn.",
+   "stock_reaction": "Not found"
+  },
+  {
+   "date": "2026-04-27",
+   "event": "Hong Kong IPO (H-share) application reported by the South China Morning Post (date approximate: about six months before Oct 26).",
+   "stock_reaction": "Not found"
+  },
+  {
+   "date": "2026-04-28",
+   "event": "FY2025 annual report: revenue CNY 45.1bn (+21.8%), attributable NI CNY 5.05bn (+17.8%), final DPS CNY 0.50; Q1 2026: revenue CNY 10.1bn (+13.0%), NI CNY 1.01bn (-23.4%).",
+   "stock_reaction": "Not found"
+  },
+  {
+   "date": "2026-07-06",
+   "event": "Three-day slide (Jul 6-8) during a global robotics and AI-hardware sell-off.",
+   "stock_reaction": "-12.4% over Jul 6-8 (about 72.2 to 63.2), incl. -5.3% on Jul 6"
+  },
+  {
+   "date": "2026-08-29",
+   "event": "H1 2026 report: revenue CNY 24.7bn (+20.3%), attributable NI CNY 2.81bn (-5.4%), gross margin 29.7% (-0.5 pt); industrial automation +29%, NEV +4% with NEV gross margin down 4 pts to 12.8%; servo share 35.2%.",
+   "stock_reaction": "Drifted from 62.05 (Aug 28) to 51.44 (Sep 16), -17%"
+  },
+  {
+   "date": "2026-09-24",
+   "event": "Largest shareholder Shenzhen Huichuan Investment (17.2% stake) announces a plan to buy CNY 150-200m of shares; 8th equity incentive plan first grant follows on Oct 14.",
+   "stock_reaction": "Not found"
+  },
+  {
+   "date": "2026-10-16",
+   "event": "Shares near the 52-week low (low of CNY 48.50 set in October 2026; close 49.70 on Oct 16).",
+   "stock_reaction": "About -31% vs the Jul 3 close of about 72.2"
+  },
+  {
+   "date": "2026-10-23",
+   "event": "JPMorgan notes a cautious Tesla Optimus ramp (pre-sales guidance 10-20k units, external shipments targeted for end-2027); a follow-up note on Oct 26 rates Inovance Neutral.",
+   "stock_reaction": "Oct 26: +3.3% to 55.25"
+  },
+  {
+   "date": "2026-10-26",
+   "event": "Announces 9M 2026 asset impairment provisions of CNY 650.5m (inventory 518.1m, receivables 108.3m), cutting attributable NI by CNY 441.1m.",
+   "stock_reaction": "Not separable (disclosed around the Oct 26 session)"
+  },
+  {
+   "date": "2026-10-27",
+   "event": "Q3 2026 report: revenue CNY 13.28bn (+19.1%), attributable NI CNY 1.59bn (+23.6%) but recurring NI CNY 1.15bn (-5.4%); 9M operating cash flow -77%, inventory +54% YTD; interim dividend CNY 0.26/share proposed. Macquarie downgrades to Underperform (target CNY 48.90).",
+   "stock_reaction": "-1.7% to 54.31 at 13:01 CST on Oct 27 (intraday)"
+  }
+ ],
+ "notes": "Price is the Oct 26, 2026 close (stockanalysis); intraday Oct 27 after Q3 results was 54.31 (Futu, delayed). Shares = total 2,711.07m (3.57m sit in the buyback account). USD conversion at CNY 6.686/USD (Fed H.10, Oct 16, 2026). cash_and_investments = cash 6.12 + trading financial assets 2.89 (Sep 30, 2026); total_debt = short-term borrowings 0.55 + long-term borrowings 1.08 + current portion of non-current liabilities 1.34 + lease liabilities 0.20. Inovance does not disclose orders. Q3 operating margin is not disclosed; 9M operating profit (营业利润, includes fair-value gains) was CNY 4.66bn, a 12.3% margin. Q3 gross margin (25.5%) and Q3 2025 gross margin (27.5%) are derived from cumulative figures. FY2025 operating income (5.26) and FCF (3.66) are stockanalysis definitions; FY2025 R&D not found (9M 2026 R&D CNY 3.43bn, +14.4%). pe_forward is stockanalysis (22.76x); trailing P/E about 28.8x on TTM NI of CNY 5.19bn (derived); pb = market cap / owners' equity 38.47bn (Futu shows 3.83x at 54.31). ev_ebitda_forward not found; stockanalysis TTM EV/EBITDA was 19.6x at CNY 49.70 (Oct 16), about 21-22x at 55.25 (our scaling). dividend_yield_pct uses the CNY 0.50 FY2025 final dividend; including the proposed CNY 0.26 interim gives about 1.4%. Segment shares computed from H1 2026 revenue; sub-lines (general automation about 44.6%, servo 19.5%, inverters 13.4%, PLC/HMI 5.7%, elevator 9.7%) are approximate figures from the interim report text. Market shares come from the company's reports citing Frost & Sullivan (2025) and MIR. The CNY 91 October 2025 peak is inferred from Google Finance's 52-week range on Sep 28, 2026 (49.95-91.00) versus stockanalysis's range on Oct 26, 2026 (48.50-84.05). The H-share application date is approximate.",
+ "sources": [
+  {
+   "title": "Inovance 2026 Q3 report (Sina mirror of exchange filing)",
+   "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300124&id=12661114"
+  },
+  {
+   "title": "Inovance 9M 2026 impairment provision notice",
+   "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300124&id=12663719"
+  },
+  {
+   "title": "Inovance 2026 interim dividend plan",
+   "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300124&id=12661116"
+  },
+  {
+   "title": "Inovance 2026 half-year report",
+   "url": "http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300124&id=12566577"
+  },
+  {
+   "title": "Inovance 2025 annual report",
+   "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300124&id=12222830"
+  },
+  {
+   "title": "Inovance announcement list (Sina)",
+   "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllBulletin/stockid/300124.phtml"
+  },
+  {
+   "title": "10jqka Inovance financial summary by period",
+   "url": "https://basic.10jqka.com.cn/300124/finance.html"
+  },
+  {
+   "title": "stockanalysis.com Inovance quote and news",
+   "url": "https://stockanalysis.com/quote/she/300124/"
+  },
+  {
+   "title": "stockanalysis.com Inovance statistics",
+   "url": "https://stockanalysis.com/quote/she/300124/statistics/"
+  },
+  {
+   "title": "stockanalysis.com Inovance price history",
+   "url": "https://stockanalysis.com/quote/she/300124/history/"
+  },
+  {
+   "title": "stockanalysis.com Inovance quarterly financials",
+   "url": "https://stockanalysis.com/quote/she/300124/financials/?p=quarterly"
+  },
+  {
+   "title": "Futu Inovance quote",
+   "url": "https://www.futunn.com/en/stock/300124-SZ"
+  },
+  {
+   "title": "Futu Inovance news list (JPMorgan, automation tracker, shareholder purchase)",
+   "url": "https://www.futunn.com/en/stock/300124-SZ/news"
+  },
+  {
+   "title": "Sina Finance Inovance quote page (Macquarie downgrade headline)",
+   "url": "https://finance.sina.com.cn/realstock/company/sz300124/nc.shtml"
+  },
+  {
+   "title": "Google Finance 300124:SHE",
+   "url": "https://www.google.com/finance/quote/300124:SHE"
+  },
+  {
+   "title": "NBS: Industrial production operation in September 2026",
+   "url": "https://www.stats.gov.cn/english/PressRelease/202610/t20261020_1965665.html"
+  },
+  {
+   "title": "Federal Reserve H.10 exchange rates",
+   "url": "https://www.federalreserve.gov/releases/h10/current/default.htm"
+  }
+ ]
+}

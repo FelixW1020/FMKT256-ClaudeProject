@@ -1,0 +1,251 @@
+<title>Torque Robotics Simulator</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="A scenario simulator for how rates, the dollar, oil, chips, China and the humanoid race move physical AI stocks.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&display=swap">
+<style>/*__CSS__*/</style>
+
+<header class="topbar" id="top">
+  <div class="wrap">
+    <a class="brand" href="#top" aria-label="Torque, back to top">
+      <svg width="26" height="26" viewBox="0 0 26 26" aria-hidden="true"><circle cx="13" cy="13" r="11.2" fill="none" stroke="currentColor" stroke-width="2"/><path d="M13 13 L21.4 9.6" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/><circle cx="13" cy="13" r="3.2" fill="var(--yellow)" stroke="currentColor" stroke-width="1.6"/><path d="M20.2 4.6 A11.2 11.2 0 0 1 24.1 11" fill="none" stroke="var(--yellow)" stroke-width="2.4" stroke-linecap="round"/></svg>
+      Torque
+    </a>
+    <nav class="nav" aria-label="Sections">
+      <a href="#stack">Stack</a><a href="#forces">Forces</a><a href="#simulator">Simulator</a><a href="#history">History</a><a href="#method">Data and method</a>
+    </nav>
+    <div class="right">
+      <span class="asof">Data as of <b class="asof-date">Oct 26, 2026</b></span>
+      <button class="iconbtn theme-toggle" type="button" aria-label="Switch color theme">
+        <svg width="18" height="18" viewBox="0 0 18 18" aria-hidden="true"><circle cx="9" cy="9" r="7.2" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M9 1.8 A7.2 7.2 0 0 1 9 16.2 Z" fill="currentColor"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main>
+  <section class="intro" id="intro" aria-labelledby="intro-title">
+    <div class="intro-stage" id="arm-viewport" aria-hidden="true">
+      <div class="fallback" hidden>
+        <svg viewBox="0 0 320 260" width="62%" aria-hidden="true"><rect x="40" y="214" width="120" height="16" rx="8" fill="var(--ink-2)"/><rect x="70" y="180" width="60" height="36" rx="10" fill="var(--yellow)"/><path d="M100 184 L150 70 L262 120" fill="none" stroke="var(--yellow)" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/><circle cx="150" cy="70" r="18" fill="var(--ink)"/><circle cx="100" cy="184" r="18" fill="var(--ink)"/><path d="M262 120 L262 150 M250 150 L250 168 M274 150 L274 168" stroke="var(--ink)" stroke-width="8" stroke-linecap="round"/></svg>
+      </div>
+    </div>
+    <div class="wrap intro-wrap">
+      <div class="intro-copy">
+        <h1 id="intro-title">See what moves physical AI stocks.</h1>
+        <p class="intro-blurb">Set a scenario for interest rates, currencies, chips, China or humanoid robots, and see how <span class="n-stocks">16</span> robotics stocks respond and why.</p>
+        <a class="btn intro-go" href="#simulator">Take me to the simulator</a>
+        <p class="intro-by">Created by Felix and Suhanaa</p>
+      </div>
+      <p class="intro-hint" aria-hidden="true"><span class="hint-fine">Move your cursor to steer the arm</span><span class="hint-touch">Tap to steer the arm</span></p>
+    </div>
+    <a class="intro-cue" href="#backdrop" aria-label="Scroll down to the market backdrop"><svg width="20" height="20" viewBox="0 0 20 20" aria-hidden="true"><path d="M4 7.5 L10 13.5 L16 7.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+  </section>
+
+  <section class="backdrop" id="backdrop" aria-label="Market backdrop">
+    <div class="wrap bd-caption"><p class="muted" style="margin:0 0 10px">Market backdrop at the <span class="asof-long">October 26, 2026</span> close</p></div>
+    <div class="wrap bd-grid"></div>
+  </section>
+
+  <section class="band" id="stack" aria-labelledby="stack-title">
+    <div class="wrap">
+      <div class="band-head">
+        <h2 id="stack-title">The robot stack</h2>
+        <p><span class="n-stocks-word" data-cap="1">Sixteen</span> listed companies, from chip and sensor suppliers to robot makers and the companies that run robots. Each has a profile with its revenue mix, what its price already assumes and how it has moved with each factor since 2014 or since listing.</p>
+      </div>
+      <div class="stack"></div>
+    </div>
+  </section>
+
+  <section class="band" id="forces" aria-labelledby="forces-title">
+    <div class="wrap">
+      <div class="band-head">
+        <h2 id="forces-title">How each force moves each stock</h2>
+        <p>Pick a force to see which companies gain or lose, by how much, and through which part of the business. Each force is shown on its own. To combine several, use the simulator.</p>
+      </div>
+      <div class="forces">
+        <div class="map">
+          <div class="force-list" role="group" aria-label="Pick a force"></div>
+          <div class="fm-body"></div>
+          <p class="fm-note">Bars show the change in share price, averaging the history lens and the fundamentals lens. Blue is a gain, red a loss. Select a company to open its profile.</p>
+        </div>
+        <aside class="payback" aria-labelledby="payback-title">
+          <h3 id="payback-title">When a robot pays for itself</h3>
+          <p class="note" style="margin-top:-6px">A factory buys a robot when the labor it saves pays back the cost fast enough. Higher wages shorten the payback; higher financing rates lengthen it.</p>
+          <div class="pb-inputs" style="display:grid;gap:10px"></div>
+          <div class="result"><div><div class="lbl muted" style="font-size:.8125rem">Discounted payback</div><div class="v num pb-months">–</div></div><div><div class="lbl muted" style="font-size:.8125rem">Yearly return, 7‑year life</div><div class="v num pb-irr">–</div></div></div>
+          <p class="note"></p>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <section class="band" id="simulator" aria-labelledby="sim-title">
+    <div class="wrap">
+      <div class="band-head">
+        <h2 id="sim-title">Run a scenario</h2>
+        <p>Start from a preset or move any control. Both lenses run on every change, and the detail panel explains any gap between them.</p>
+      </div>
+      <div class="sim">
+        <aside class="pendant" aria-label="Scenario controls">
+          <div class="pgroup">
+            <h3>Presets <button class="chip reset" type="button" style="height:28px">Reset</button></h3>
+            <div class="presets" role="group" aria-label="Scenario presets"></div>
+          </div>
+          <div class="pgroup" data-group="rates"><h3>Rates</h3></div>
+          <details class="more" open><summary>Macro forces</summary><div class="inner" data-group="macro"></div></details>
+          <details class="more"><summary>Robotics forces</summary><div class="inner" data-group="micro"></div></details>
+          <details class="more"><summary>Model settings</summary>
+            <div class="inner">
+              <div class="range"><div class="top"><label>History window</label></div>
+                <div class="seg two lens-seg" role="group" aria-label="History window"><button type="button" data-lens="monthly" aria-pressed="true">Monthly, 2014 to 2026</button><button type="button" data-lens="weekly" aria-pressed="false">Weekly, last 3 years</button></div>
+              </div>
+              <div class="range"><div class="top"><label for="ctl-blend">Blend</label><output id="ctl-blend-out"></output></div><input type="range" id="ctl-blend" min="0" max="1" step="0.05" value="0.5"></div>
+              <div class="toggle"><label for="ctl-linked">Let the dollar and yen follow rates</label><span class="switch"><input type="checkbox" id="ctl-linked" checked><span></span></span></div>
+              <p class="hint">With this on, a rate move brings the dollar and yen moves that have come with it on average since 2014. Oil, copper, credit and the factory cycle follow the cause you pick, because their link to rates flips sign depending on why rates moved.</p>
+            </div>
+          </details>
+        </aside>
+        <div class="results">
+          <div class="card headline-card">
+            <div class="headline">
+              <div>
+                <div class="muted" style="font-size:.9375rem">Physical AI basket, equal weight</div>
+                <div class="big num">–</div>
+                <p class="sub"></p>
+              </div>
+              <div class="cmp"></div>
+            </div>
+            <div class="lensbar">
+              <span><i><svg width="14" height="14"><circle cx="7" cy="7" r="5.5" fill="var(--loss)" stroke="var(--panel)" stroke-width="2"/></svg></i>Blend, with the 80% range of model estimates</span>
+              <span><i><svg width="12" height="12"><circle cx="6" cy="6" r="4" fill="var(--panel)" stroke="var(--ink-2)" stroke-width="1.5"/></svg></i>History lens</span>
+              <span><i><svg width="12" height="12"><path d="M6 1 L11 6 L6 11 L1 6 Z" fill="var(--panel)" stroke="var(--ink-2)" stroke-width="1.5"/></svg></i>Fundamentals lens</span>
+            </div>
+            <div class="forest" style="margin-top:6px"></div>
+          </div>
+          <div class="card detail">
+            <div class="d-head"></div>
+            <div class="detail-grid" style="margin-top:14px">
+              <div>
+                <h4 class="sec">Financials, base and scenario</h4>
+                <div class="table-wrap"><table class="bridge"><thead><tr><th>Next 12 months</th><th>Base</th><th>Scenario</th><th>Change</th></tr></thead><tbody></tbody></table></div>
+                <p class="hint bridge-note" hidden></p>
+                <h4 class="sec" style="margin-top:16px">Quarterly revenue path</h4>
+                <div class="qpath"></div>
+              </div>
+              <div>
+                <h4 class="sec" style="display:flex;justify-content:space-between;gap:8px;align-items:center">What moves the price
+                  <span class="seg two wf-seg" role="group" aria-label="Breakdown" style="width:200px"><button type="button" data-mode="fund" aria-pressed="true">Channels</button><button type="button" data-mode="hist" aria-pressed="false">Factors</button></span></h4>
+                <div class="waterfall" data-mode="fund"></div>
+                <p class="hint wf-note"></p>
+              </div>
+            </div>
+            <p class="why"></p>
+          </div>
+          <div class="card ladder-card">
+            <div style="display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;align-items:baseline">
+              <h4 class="sec">Rate moves by size and cause, for <span class="ladder-target">the basket</span></h4>
+              <span class="seg two" style="width:220px"><button type="button" data-target="basket" aria-pressed="true">Basket</button><button type="button" data-target="stock" aria-pressed="false">Selected stock</button></span>
+            </div>
+            <p class="hint" style="margin:6px 0 10px">The same 10-year move, small or large, up or down, under each cause. Other settings follow the model settings above.</p>
+            <div class="ladder-wrap" data-target="basket">
+              <table class="ladder"><thead><tr><th>Cause</th><th>−200bp</th><th>−100bp</th><th>−50bp</th><th>−25bp</th><th>+25bp</th><th>+50bp</th><th>+100bp</th><th>+200bp</th></tr></thead><tbody></tbody></table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="band" id="history" aria-labelledby="hist-title">
+    <div class="wrap">
+      <div class="band-head">
+        <h2 id="hist-title">Check it against history</h2>
+        <p>Each episode feeds the factor moves that actually happened into betas estimated without that episode, so the distance between a bar and its diamond is the part macro factors could not explain.</p>
+      </div>
+      <div class="lab-grid">
+        <div class="card">
+          <div class="tabs ep-tabs" role="group" aria-label="Episodes"></div>
+          <div class="chips ep-facts" style="margin-bottom:10px"></div>
+          <div class="chart ep-chart"></div>
+          <p class="chart cap ep-cap"></p>
+        </div>
+        <div class="card">
+          <h4 class="sec">How rate sensitivity has changed</h4>
+          <p class="hint" style="margin:4px 0 10px">Price change per +100bp in the real 10-year yield, re-estimated every month on the previous 36 months. Pick up to four stocks.</p>
+          <div class="chips roll-chips" role="group" aria-label="Stocks" style="margin-bottom:8px"></div>
+          <div class="chart roll-chart"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="band" id="method" aria-labelledby="method-title">
+    <div class="wrap">
+      <div class="band-head">
+        <h2 id="method-title">Data and method</h2>
+        <p>Prices, macro series and company figures come from public sources; the driver profiles add our judgments, each shown with its basis. A scheduled job refreshes the data each weekday, and you can bring your own prices to add a company.</p>
+      </div>
+      <div class="method">
+        <div class="card">
+          <h3>How the two lenses work</h3>
+          <div class="method-text"></div>
+        </div>
+        <div class="card importer">
+          <h3>Add a company from a price file</h3>
+          <p class="muted">Download monthly or daily prices from Yahoo Finance as a CSV, then drop the file here. Torque lines it up with the factor history, estimates its sensitivities in your browser and pulls them toward peer averages.</p>
+          <label class="drop" for="csv-file" style="margin-top:12px;cursor:pointer">
+            <b>Drop a CSV here, or choose a file</b>
+            <span class="hint">Needs a Date column and a Close or Adj Close column.</span>
+            <input type="file" id="csv-file" accept=".csv,text/csv" class="sr-only">
+          </label>
+          <p style="margin-top:8px"><button class="chip sample" type="button">Try it with a sample file</button></p>
+          <p class="import-status hint" aria-live="polite" style="margin-top:8px"></p>
+          <ol class="steps">
+            <li><b>Line up the months.</b> The last close in each month becomes a monthly dollar return, matched to the factors the built-in companies use. The yen applies only to Japanese makers, so it is left out.</li>
+            <li><b>Estimate in your browser.</b> A regression with Newey-West errors gives each factor sensitivity and its uncertainty. Nothing is uploaded.</li>
+            <li><b>Pull toward peers.</b> Each estimate moves toward the peer average in proportion to how noisy it is, so a short history does not produce wild betas.</li>
+            <li><b>Add the business.</b> Pick a type and enter market cap, revenue, margin and growth. The fundamentals lens calibrates to that price the same way it does for the others.</li>
+          </ol>
+          <form id="add-form" hidden style="display:grid;gap:10px;margin-top:10px">
+            <div class="fgrid">
+              <label>Company name<input id="add-name" required></label>
+              <label>Ticker<input id="add-ticker"></label>
+              <label>Type
+                <select id="add-type"></select></label>
+              <label>Layer
+                <select id="add-layer"><option value="brain">Brain</option><option value="senses">Senses</option><option value="muscles">Muscles</option><option value="bodies" selected>Bodies</option><option value="deployers">Systems and deployers</option></select></label>
+              <label>Market cap, $bn<input id="add-mcap" type="number" step="0.1" min="0" required></label>
+              <label>Revenue next 12 months, $bn<input id="add-rev" type="number" step="0.01" min="0" required></label>
+              <label>EBIT margin, %<input id="add-margin" type="number" step="0.5" value="12"></label>
+              <label>Revenue growth next year, %<input id="add-growth" type="number" step="0.5" value="10"></label>
+              <label>Last price<input id="add-last" type="number" step="0.01"></label>
+            </div>
+            <button class="btn" type="submit" style="justify-self:start">Add to the simulator</button>
+          </form>
+        </div>
+        <div class="card" style="grid-column:1 / -1">
+          <h3>Sources and refresh</h3>
+          <div class="table-wrap"><table class="src"><thead><tr><th>Data</th><th>Source</th><th>Window</th></tr></thead><tbody class="src-body"></tbody></table></div>
+          <p class="hint refresh-note" style="margin-top:10px"></p>
+          <h3 style="margin-top:20px">Limits worth knowing</h3>
+          <ul class="limits"></ul>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>Torque was built by Felix and Suhanaa for FMKT 256 at Duke University, fall 2026, with Claude. Prices from Yahoo Finance, macro series from FRED, company figures from filings and investor relations pages.</p>
+    <p>For education only. Nothing here is investment advice.</p>
+  </div>
+</footer>
+
+<script>/*__DATA__*/</script>
+<script>/*__JS__*/</script>
+<script src="https://cdn.jsdelivr.net/npm/lenis@1.1.13/dist/lenis.min.js"></script>
+<script>/*__MAIN__*/</script>
+<script type="module">/*__HERO__*/</script>

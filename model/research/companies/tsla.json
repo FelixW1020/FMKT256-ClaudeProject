@@ -1,0 +1,176 @@
+{
+  "id": "tsla",
+  "name": "Tesla, Inc.",
+  "yahoo_symbol": "TSLA",
+  "exchange": "NASDAQ (Global Select Market)",
+  "reporting_currency": "USD",
+  "fiscal_year_note": "FY = calendar year (Jan-Dec). Latest reported quarter is Q3 2026, released Oct 21, 2026 (Q3 2026 Update and 10-Q). Q4/FY2026 results expected late January 2027. 2026 Annual Shareholder Meeting is Dec 3, 2026.",
+  "price": {
+    "value": 391.62,
+    "currency": "USD",
+    "date": "2026-10-26",
+    "source_url": "https://stockanalysis.com/stocks/tsla/statistics/"
+  },
+  "shares_outstanding_m": 3952.8,
+  "market_cap_usd_bn": 1548.0,
+  "cash_and_investments_bn": 45.45,
+  "total_debt_bn": 9.52,
+  "latest_quarter": {
+    "label": "Q3 2026 (Jul-Sep 2026)",
+    "report_date": "2026-10-21",
+    "revenue_bn": 28.046,
+    "revenue_yoy_pct": -0.2,
+    "gross_margin_pct": 19.6,
+    "operating_margin_pct": 2.6,
+    "operating_margin_basis": "GAAP (Tesla reports no non-GAAP operating income). EPS shown is non-GAAP diluted $0.48 (consensus $0.45); GAAP diluted EPS $0.22. GAAP operating income $718M, down 56% YoY from $1,624M (5.8% margin).",
+    "eps": 0.48
+  },
+  "last_fiscal_year": {
+    "label": "FY2025 (Jan-Dec 2025)",
+    "revenue_bn": 94.827,
+    "operating_income_bn": 4.355,
+    "net_income_bn": 3.794,
+    "free_cash_flow_bn": 6.22,
+    "rnd_bn": 6.411
+  },
+  "ltm": {
+    "revenue_bn": 103.57,
+    "operating_income_bn": 3.466,
+    "free_cash_flow_bn": 3.303
+  },
+  "guidance": "No numeric vehicle-volume guidance. 2026 capex cut to about $20B ('in excess of $20 billion' in the 10-Q), from 'more than $25 billion' guided since April; 9M 2026 capex $13.01B, implying about $7B in Q4. CFO says capex 'for the next few years would continue to expand'. Optimus: early production on a Fremont line designed for ~1M units/yr; Musk expects 'at least a year, maybe a little longer' to reach ~20,000 units/week; deliveries to outside (industrial) customers around end-2027; AI5 chip in Optimus around April 2027; Texas Optimus factory under construction. Autonomy: unsupervised FSD on first customer cars and owner cars joining the Robotaxi network around Q2 2027 (V15, select U.S. regions); Cybercab service to Dallas in November 2026 and more cities by year-end; first Cybercab customer deliveries targeted by end-2026; long-run robotaxi cost target $0.30/mile. Other: 400 MW of AI training compute by end-2026; Terafab chip fab equipment commissioning in 1H 2027 (first test chip ~May-June 2027, volume ~Q3 2028; 'tens of billions' through early 2028, likely >$100B long term, cost split with SpaceX undecided); Megapack nearly sold out for 2027; ~5M vehicles/yr by ~2030. Consensus Q4 2026 (Yahoo): revenue $29.33B, EPS $0.49.",
+  "consensus_next_fy": {
+    "label": "FY2027 (calendar 2027)",
+    "revenue_bn": 122.3,
+    "eps": 2.16,
+    "source_url": "https://finance.yahoo.com/quote/TSLA/analysis/"
+  },
+  "valuation": {
+    "pe_forward": 182.91,
+    "ev_sales_forward": 12.4,
+    "ev_ebitda_forward": null,
+    "source_url": "https://stockanalysis.com/stocks/tsla/statistics/"
+  },
+  "beta_5y_monthly": 1.92,
+  "geo_revenue_mix_pct": {
+    "United States": 47,
+    "China": 21,
+    "Other international": 32
+  },
+  "segment_or_end_market_mix_pct": {
+    "Automotive": 73.3,
+    "Energy generation and storage": 10.3,
+    "Services and other": 16.4
+  },
+  "physical_ai_exposure": {
+    "share_of_revenue_pct": 1,
+    "description": "Optimus humanoid: 'early production' began in Q3 2026 on a high-volume Fremont line (the deck calls them 'the first production-quality bots that we have manufactured'); most of a ~1M unit/yr line has arrived; design work continues mainly on hands and fingers; no external sales yet. Robotaxi: Model Y robotaxis run fully unsupervised in six U.S. cities, with Austin the largest fleet; Cybercab rides began in Austin on Sep 3, 2026 and Austin has 300+ Cybercabs (fleet up ~10x since launch); Cybercab capacity at Giga Texas is >125,000/yr ('Production'); cumulative unsupervised robotaxi miles reached nearly 2M (8x QoQ); Dallas logged 608,130 unsupervised miles by Oct 18. FSD (Supervised): 1.74M active paid customers (vs 1.04M a year earlier), more than half on subscriptions; over 75% of Q3 North American deliveries included paid FSD; approved in 9 EU countries, EU-wide vote expected in December. AI compute: AI5 chip in trial production at Samsung's Texas fab; ~225 MW of training compute heading to 400 MW. Direct physical-AI revenue is small: an analyst's estimate of FSD annual recurring revenue near $1B, which Tesla said was correct, is about 1% of LTM revenue; Optimus revenue is zero.",
+    "optionality_notes": "No published sum-of-the-parts with explicit Optimus/robotaxi dollar values was found in the sources reviewed. Market-implied view: at $391.62 the stock trades at ~221x 2026 consensus EPS ($1.77) and ~181x 2027 ($2.16). Illustrative estimate (my assumption, not an analyst figure): valuing the existing business at 25x 2027 EPS gives ~$54/share (~$214B), so ~86% of the $1.55T market cap is priced for autonomy, Optimus, energy growth and other optionality. Analyst datapoints: Barclays (Dan Levy, Oct 26, 2026) upgraded to Overweight with a $450 target (from $370), citing 'signs of Robotaxi inflection', a stronger core outlook and a possible SpaceX merger premium. JPMorgan Neutral, $415; CLSA Hold, $400 (from $310); Piper Sandler $475 (from $450). Bear case (Juxtaposed Ideas via TipRanks): revenue would need to compound ~39%/yr for about a decade to support recent prices. Consensus average target $410.43 (stockanalysis, 43 analysts). Merger optionality: special committees are evaluating a SpaceX-Tesla combination; Musk called it a 'good idea'; Kalshi priced 77% odds of a merger before 2028; Dan Ives puts it at 80-90% by end-2027."
+  },
+  "cost_and_supply_chain_notes": "Battery cells come from suppliers such as Panasonic and CATL plus in-house production; Megapack deliveries with in-house LFP cells began in Q3 2026; Tesla's Texas lithium refinery began operating in January 2026. Q3 2026 deliveries were limited by battery supply, not demand (passenger backlog is its largest in four years). Key raw materials named in the 10-K: aluminum, steel, lithium, nickel and copper. Factories: California (Fremont, incl. the Optimus line), Nevada (Gigafactory; Semi plant in Reno, 25,000/yr capacity, production began in Q3 2026), Texas (Giga Texas, Cybercab, Megafactory Texas 50 GWh, Optimus plant under construction, Austin research fab), New York, Shanghai and Berlin (expansion permits filed). Tariffs: the 10-K says 2025 U.S. tariff changes and retaliation 'impacted our supply chain costs'. Q1 2026 included >$200M of tariff benefits that did not repeat in Q2. In Q3 2026, IEEPA tariff refunds lifted energy gross margin (Tesla Energy GM rose from 20.4% to 33.1% on refunds and warranty adjustments) while tariff-related customer refunds cut energy revenue 16%; refunds are being reinvested in U.S. capacity. Chips: AI5 trial production at Samsung Texas; the Terafab plan carries heavy future equipment spend. Rare-earth magnets: not mentioned in the 10-K excerpts or Q3 call reviewed (see notes).",
+  "debt_notes": "Debt and finance leases totaled $9.52B at Sep 30, 2026 ($1.39B current, $8.14B noncurrent), vs $8.18B principal at Dec 31, 2025 (10-K). 9M 2026 issuance was $5.83B and repayments $4.95B. Interest expense was $90M in Q3 2026 ($263M for 9M). In September 2026 Tesla signed $30B of credit facilities: a $20B delayed-draw term loan maturing in 2029 and a $10B revolver replacing a $5B facility, both undrawn at quarter-end; management does not plan to draw this year. Fixed vs floating split and rate terms were not found (term loans and revolvers are usually floating-rate, unverified). Net cash about $35.9B ($45.45B cash and investments minus $9.52B debt).",
+  "customer_concentration": "No customer at 10% or more of revenue was disclosed in the sources reviewed. Sales go to retail buyers, fleets and Energy customers. Related-party exposure to SpaceX: Megapack billings to SpaceX of $588M not yet paid at Q3; Tesla holds a SpaceX equity stake at fair value ($2.0B purchased in 9M 2026, $863M unrealized gain over 9M, Q3 mark-down of $142M); Terafab costs are to be shared with SpaceX (split undecided).",
+  "key_drivers": [
+    "Optimus ramp: Fremont line built for ~1M units/yr; ~20,000/week targeted in 'at least a year'; first external deliveries around end-2027",
+    "Robotaxi scaling: six cities fully unsupervised, Cybercab in Austin (300+) and Dallas from Nov 2026; owner cars on the network from ~Q2 2027; Musk expects a noticeable financial effect in Q2 2027 and a 'big deal' by Q3-Q4 2027",
+    "FSD monetization: 1.74M paid customers (+67% YoY), 75%+ attach in North America, EU approval progressing (9 countries; EU-wide vote expected December)",
+    "Energy storage: 13.7 GWh deployed in Q3 2026; Megafactory Texas (50 GWh) in production; Megapack nearly sold out for 2027; Barclays sees >50% shipment growth in 2027",
+    "Services and other revenue +33% YoY to $4.6B with record $734M gross profit",
+    "Balance sheet: $45.4B cash and investments plus $30B undrawn credit lines fund ~$20B 2026 capex and rising AI spend",
+    "Possible SpaceX combination (special committees formed): Barclays sees a takeover premium; Kalshi 77% odds before 2028"
+  ],
+  "key_risks": [
+    "Profit compression: GAAP operating margin 2.6% in Q3 2026 (vs 5.8%); R&D +69% YoY to $2.76B; opex +39%",
+    "Cash burn: Q3 FCF of $1.53B relied on a $2.59B working-capital inflow and a $1.03B rise in unpaid capex (Electrek); TIKR cited consensus 2026 FCF of about -$10.2B (apparently pre-Q3; 9M 2026 FCF was +$1.88B)",
+    "Execution and timelines: unsupervised FSD slipped from Q4 2026 to ~Q2 2027; Optimus ramp expected to be 'bumpy' with hand design still changing",
+    "Valuation: ~183x forward P/E (stockanalysis) leaves the stock exposed to any autonomy or Optimus delay",
+    "Core auto: Q3 2026 deliveries -2% YoY; automotive revenue -3%; regulatory credit revenue shrinking ($113M in Q3 after a $475M reversal for contractual returns); battery supply constraints; competition from Chinese EV makers",
+    "Governance and key-person risk: Musk also runs SpaceX and xAI; a SpaceX merger would require a shareholder vote and could dilute or re-rate TSLA holders",
+    "Regulatory and safety scrutiny of unsupervised robotaxi and FSD; China FSD approval still pending",
+    "Tariffs and trade policy affecting supply-chain costs and energy-business refunds"
+  ],
+  "recent_events": [
+    {
+      "date": "2025-06-05",
+      "event": "Public falling-out between Elon Musk and President Trump (cause from background knowledge)",
+      "stock_reaction": "-14.3% (close $284.70)"
+    },
+    {
+      "date": "2025-06-22",
+      "event": "Robotaxi service launched in Austin with Model Y vehicles (10-K confirms a 2025 launch; date from background knowledge)",
+      "stock_reaction": "+8.2% next session (Jun 23, close $348.68)"
+    },
+    {
+      "date": "2025-07-23",
+      "event": "Q2 2025 results",
+      "stock_reaction": "-8.2% next session (Jul 24, close $305.30)"
+    },
+    {
+      "date": "2025-10-22",
+      "event": "Q3 2025 results: record revenue $28.1B, operating income $1.62B (5.8% margin); shares fell after hours on lower margins",
+      "stock_reaction": "+2.3% next session (Oct 23, close $448.98)"
+    },
+    {
+      "date": "2026-01-28",
+      "event": "Q4/FY2025 results: FY revenue $94.8B (-3%, first annual decline), net income $3.79B (-46%), deliveries 1.64M (-8.6%); 2026 capex plan ~$20B; Model S/X to be discontinued to free capacity for Optimus; Optimus Gen 3 debut planned",
+      "stock_reaction": "+4% after hours, then -3.5% on Jan 29 (close $416.56)"
+    },
+    {
+      "date": "2026-04-22",
+      "event": "Q1 2026 results: revenue $22.4B, net income $477M, deliveries 358,023; 2026 capex guidance raised to more than $25B",
+      "stock_reaction": "-3.6% next session (Apr 23, close $373.72)"
+    },
+    {
+      "date": "2026-07-22",
+      "event": "Q2 2026 results: revenue $28.2B (+26%), net income $1.11B incl. ~$1B SpaceX mark-to-market gain, FCF -$1.09B as capex more than doubled sequentially; capex >$25B reiterated; up to $30B of debt facilities planned; Musk said the Optimus S-curve start would be 'quite flat and long'",
+      "stock_reaction": "-14.5% next session (Jul 23, close $319.69); 2026 low $297.38 on Jul 29"
+    },
+    {
+      "date": "2026-09-03",
+      "event": "Cybercab rides began in Austin",
+      "stock_reaction": "+5.4% (close $376.37), then -5.9% on Sep 4"
+    },
+    {
+      "date": "2026-10-21",
+      "event": "Q3 2026 results: revenue $28.05B (flat), non-GAAP EPS $0.48 vs $0.45 consensus, GAAP net income $787M (-43%), FCF $1.53B; capex guide cut to ~$20B; Optimus early production in Fremont; unsupervised FSD for customers pushed to ~Q2 2027; special committees are evaluating a SpaceX combination, which Musk (around SpaceX's Oct 20 call) called a 'good idea'",
+      "stock_reaction": "-3.1% next session (Oct 22, close $374.58)"
+    },
+    {
+      "date": "2026-10-26",
+      "event": "Barclays upgrades to Overweight (target $450 from $370) on robotaxi inflection and SpaceX merger hopes; FSD (Supervised) approved in two more European countries",
+      "stock_reaction": "+5.2% (close $391.62, highest since late July)"
+    }
+  ],
+  "notes": "Price as of the Oct 26, 2026 close. Shares are from the 10-Q cover (3,952,757,946 at Oct 15, 2026); market cap = price x shares. cash_and_investments = cash $17.85B + short-term investments $27.59B. total_debt = debt and finance leases from the 10-Q; aggregators show $16.1-16.5B, probably including operating leases. FY2025 R&D ($6.411B) is derived: 9M 2025 R&D $4,628M (Q3 2026 10-Q prior-year column) + Q4 2025 $1,783M (Q3 2026 Update multi-quarter table). LTM operating income ($3.466B) = Q4'25 $1,409M + Q1'26 $941M + Q2'26 $398M + Q3'26 $718M from Tesla's table; stockanalysis shows $3.13B because its quarterly split differs. ev_sales_forward is computed: EV ~$1,512B (market cap + debt - cash) / 2027 consensus revenue $122.3B; forward EV/EBITDA not found (trailing EV / adjusted EBITDA TTM $15.0B = ~101x). 2026 consensus: revenue $107.75B, EPS $1.77. geo_revenue_mix_pct is APPROXIMATE: stockanalysis's revenue-by-geography page shows two unlabeled TTM-style rows for the period ending Jun 30, 2026 (US 46.8-47.7%, China 20.8-21.9%, Other 30.5-32.4%); the 10-K/10-Q geographic tables were not readable here. physical_ai share (1%) is an estimate built on the ~$1B FSD ARR figure. The 86% optionality share is my illustrative calculation. Background (not verified this session): shareholders approved Musk's 2025 CEO performance award at the Nov 6, 2025 AGM, with milestones reportedly including 1M Optimus robots, 1M robotaxis in commercial operation and 10M FSD subscriptions (stock -3.7% on Nov 7, 2025). EV motors and humanoid actuators generally use rare-earth (NdFeB) magnets, mostly processed in China, so Chinese export controls are a supply risk; no Tesla-specific disclosure was found. Event causes for Jun 5 and Jun 22, 2025 are background knowledge; % moves are computed from Yahoo daily closes. Stock went from $379.28 (Jan 2, 2025) to $449.72 at end-2025 (+18.6%); 2026 YTD -12.9%. The web search budget ran out mid-research, so some items (geographic split, analyst SOTP) could not be pursued further.",
+  "sources": [
+    {"title": "Tesla Q3 2026 Update (8-K Exhibit 99.1, SEC)", "url": "https://www.sec.gov/Archives/edgar/data/0001318605/000162828026066738/exhibit9914.htm"},
+    {"title": "Tesla Form 10-Q, quarter ended Sep 30, 2026 (SEC)", "url": "https://www.sec.gov/Archives/edgar/data/0001318605/000162828026066775/tsla-20260930.htm"},
+    {"title": "Tesla Form 10-K FY2025 (SEC)", "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm"},
+    {"title": "Tesla Form 10-K FY2025 (PDF, ir.tesla.com)", "url": "https://ir.tesla.com/_flysystem/s3/sec/000162828026003952/tsla-20251231-gen.pdf"},
+    {"title": "TechCrunch: Tesla starts Optimus robot production in California as profit falls 43%", "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/"},
+    {"title": "Electrek: Tesla Q3 2026 financial results", "url": "https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/"},
+    {"title": "Electrek: Tesla cuts 2026 capex guidance; Q3 cash flow", "url": "https://electrek.co/2026/10/22/tesla-cuts-2026-capex-guidance-q3-cash-flow/?extended-comments=1"},
+    {"title": "Not a Tesla App: Q3 2026 earnings call recap", "url": "https://notateslaapp.com/news/4867/tesla-q3-2026-earnings-call-recap-everything-you-need-to-know"},
+    {"title": "TeslaNorth: Q3 2026 call takeaways (Cybercab to Dallas, FSD unsupervised 2027)", "url": "https://teslanorth.com/2026/10/21/tesla-q3-2026-call-takeaways/"},
+    {"title": "StockAnalysis: Tesla Q3 2026 earnings call transcript", "url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/"},
+    {"title": "StockAnalysis: Tesla Q2 2026 earnings call transcript", "url": "https://stockanalysis.com/stocks/tsla/transcripts/653184-q2-2026/"},
+    {"title": "TIKR: Tesla fell 3% as Musk trims capex, delays Optimus ramp", "url": "https://www.tikr.com/blog/tesla-fell-3-as-musk-trims-capex-delays-optimus-ramp-for-the-biggest-product-on-earth"},
+    {"title": "TIKR: Tesla stock slides despite Q3 earnings beat", "url": "https://www.tikr.com/blog/tesla-stock-slides-after-hours-q3-earnings-revenue-beat"},
+    {"title": "TIKR: Tesla cuts 2026 capex to $20 billion", "url": "https://www.tikr.com/blog/tesla-cuts-2026-capex-to-20-billion-but-q4-could-still-be-its-biggest-spending-quarter-since-2023"},
+    {"title": "Gotrade: Tesla stock news Oct 23, 2026", "url": "https://www.heygotrade.com/en/news/tesla-tsla-stock-news-october-23-2026/"},
+    {"title": "247 Wall St: Tesla Q3 2026 thin beat (analyst targets)", "url": "https://247wallst.com/cards/tesla-q3-2026-earnings-tsla-01m5g3j5s94426a8qx6pbg3m1t"},
+    {"title": "ChinaEVHome: Tesla Q4 2025 results and 2026 capex plan", "url": "https://chinaevhome.com/2026/01/29/tesla-bets-big-on-ai-with-20-billion-capex-plan-musk-flags-china-as-key-rival/"},
+    {"title": "Hudson Labs: Tesla Q3 2026 earnings preview (Q1/Q2 2026 data)", "url": "https://www.hudson-labs.com/research/tesla-q3-2026-earnings-preview-tsla-revenue-margins-outlook"},
+    {"title": "TipRanks/TheFly: Tesla upgraded to Overweight at Barclays", "url": "https://www.tipranks.com/news/the-fly/tesla-upgraded-to-overweight-from-equal-weight-at-barclays-thefly-news"},
+    {"title": "Invezz: Why is Tesla stock gaining 5% today?", "url": "https://invezz.com/news/2026/10/26/why-is-tesla-stock-gaining-5-today/"},
+    {"title": "TipRanks: Tesla hits three-month high on hopes for SpaceX takeover", "url": "https://www.tipranks.com/news/tesla-stock-tsla-hits-three-month-high-on-hopes-for-spacex-takeover"},
+    {"title": "TipRanks: 'Don't believe the comeback' (bear case)", "url": "https://www.tipranks.com/news/article/dont-believe-the-comeback-says-top-investor-about-tesla-stock"},
+    {"title": "StockAnalysis TSLA statistics", "url": "https://stockanalysis.com/stocks/tsla/statistics/"},
+    {"title": "StockAnalysis TSLA financials", "url": "https://stockanalysis.com/stocks/tsla/financials/"},
+    {"title": "StockAnalysis TSLA forecast", "url": "https://stockanalysis.com/stocks/tsla/forecast/"},
+    {"title": "StockAnalysis TSLA revenue by geography", "url": "https://stockanalysis.com/stocks/tsla/metrics/revenue-by-geography/"},
+    {"title": "Yahoo Finance TSLA key statistics", "url": "https://finance.yahoo.com/quote/TSLA/key-statistics/"},
+    {"title": "Yahoo Finance TSLA analyst estimates", "url": "https://finance.yahoo.com/quote/TSLA/analysis/"},
+    {"title": "Yahoo Finance TSLA historical prices (2025-2026)", "url": "https://finance.yahoo.com/quote/TSLA/history/?period1=1735689600&period2=1793059200"}
+  ]
+}

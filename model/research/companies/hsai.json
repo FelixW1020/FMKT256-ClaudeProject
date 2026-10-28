@@ -1,0 +1,180 @@
+{
+  "id": "hsai",
+  "name": "Hesai Group",
+  "yahoo_symbol": "HSAI",
+  "exchange": "NASDAQ (ADS: HSAI); also Hong Kong Stock Exchange Main Board (HKEX: 2525, short name HESAI-W)",
+  "reporting_currency": "CNY",
+  "listing_date": "2023-02-09",
+  "fiscal_year_note": "Fiscal year = calendar year. US GAAP, reported in RMB with USD convenience translations; quarterly 6-K releases plus HKEX interim and annual reports. NASDAQ IPO on 2023-02-09; Hong Kong listing on 2025-09-16. A 1-for-8 share subdivision took effect 2026-07-10, with each ADS changed from 1 to 8 Class B shares, so the ADS count and ADS price were unaffected. HK trading moved to temporary counter 2983 during the changeover, board lot 160. Q3 2026 results are due Tue 2026-11-10.",
+  "price": {
+    "value": 13.69,
+    "currency": "USD",
+    "date": "2026-10-26",
+    "source_url": "https://stockanalysis.com/stocks/hsai/"
+  },
+  "shares_outstanding_m": 156.44,
+  "market_cap_usd_bn": 2.14,
+  "cash_and_investments": 7.051,
+  "total_debt": 0.638,
+  "amount_unit": "CNY bn",
+  "latest_period": {
+    "label": "Q2 2026 (Apr-Jun 2026)",
+    "report_date": "2026-08-18",
+    "revenue": 0.8608,
+    "revenue_yoy_pct": 21.9,
+    "gross_margin_pct": 40.1,
+    "operating_margin_pct": 0.3,
+    "net_income": 0.0706
+  },
+  "last_fiscal_year": {
+    "label": "FY2025 (Jan-Dec 2025)",
+    "revenue": 3.0276,
+    "operating_income": 0.1688,
+    "net_income": 0.4359,
+    "free_cash_flow": -0.1924,
+    "rnd": 0.7969
+  },
+  "cash_burn_annual": 0.056,
+  "guidance": "Q3 2026 (issued Aug 18, 2026): net revenues RMB1.10-1.15bn (US$162-169M), +38% to +45% YoY (an acceleration from +21.9% in Q2); Q3 lidar shipments ~800-850k units; Q3 SGI revenue in the 'high-eight-digit' RMB range. FY2026: lidar shipments 3.0-3.5M units (raised in Mar 2026 from 2.0-3.0M; reiterated Aug 2026; ~1.1M shipped in H1); robotics lidar >500k units (vs ~240k in 2025); gross margin near 40%; SGI (Strategic Growth Initiatives: Kosmo spatial-intelligence platform and robotic actuation modules) revenue raised to RMB200-300M from RMB100M. 2027: SGI ~US$100M revenue at breakeven. Capacity scaling to >4M lidar units/yr in 2026. Actuation modules target ~10,000/month near term and six-digit annual volumes in 2027. No full-year revenue or profit guidance.",
+  "valuation": {
+    "pe_forward": 20.7,
+    "ev_sales_forward": 1.6,
+    "price_to_sales_ltm": 4.4,
+    "source_url": "https://stockanalysis.com/stocks/hsai/statistics/"
+  },
+  "geo_revenue_mix_pct": {
+    "Mainland China": 74.3,
+    "North America": 18.3,
+    "Europe": 4.0,
+    "Other regions": 3.3
+  },
+  "segment_or_end_market_mix_pct": {
+    "Lidar (ADAS + robotics), Q2 2026": 94.8,
+    "SGI (Kosmo, robotic actuation modules), Q2 2026": 5.2
+  },
+  "unit_volumes": "Lidar shipments (total / ADAS / robotics): FY2025 1,620,406 / 1,381,133 / 239,273. Q3 2025 441,400 (+229% YoY) / 380,759 / ~60,600. Q4 2025 631,095 / ~550k / ~80k (split per Dolphin Research). Q1 2026 471,723 (+141%) / 353,441 / 118,282. Q2 2026 628,275 (+78%) / 485,904 (+60%) / 142,371 (+193%). H1 2026 1,099,998 (+101%) / 839,345 (+87%) / 260,653 (+165%), so robotics was 23.7% of H1 2026 units. Guide: FY2026 3.0-3.5M total, >500k robotics; Q3 2026 800-850k. Robotics volume in 2026 is mostly robotic-lawnmower lidar (JT series); JT-series cumulative deliveries passed 200k in the first year after launch. Robotic actuation modules: >10,000 cumulative by end-Q2 2026. Blended ASP: ~US$530 in 2024 vs ~US$260 in 2025 (company annual report); implied Q2 2026 lidar ASP ~RMB1,300 (~US$190), my calculation.",
+  "physical_ai_exposure": {
+    "share_of_revenue_pct": 35,
+    "description": "Defined narrowly as robotics lidar (lawnmowers, robotaxis and robovans, delivery and logistics robots, humanoids, quadrupeds) plus SGI (Kosmo spatial-intelligence camera, cloud and data engine; humanoid actuation modules). Hesai does not disclose the ADAS vs robotics revenue split, so 35% is my estimate for H1 2026. On the Q2 2026 call, CEO David Li said revenue from outside ADAS lidar should be 'close to or even more than half' of Q3 2026 revenue. Counting ADAS (assisted and autonomous driving) as physical AI would make the share ~100%, because lidar is ~95% of revenue.",
+    "optionality_notes": "Exclusive JT-series supply to Dreame and MOVA robotic lawnmowers: a 10-million-unit agreement signed 2026-03-19. JT128 is used by more than 50 embodied-AI companies, including Unitree, Galbot, Galaxea, Robbyant and Dexmal. Actuation modules are supplied to humanoid maker Sharpa, co-founded by Hesai's CEO, which raises related-party risk; the annual supply cap is proposed to rise from RMB100M to RMB300M. Kosmo 3D World Data Engine and spatial camera launched Oct 2026, with Galbot among the first orders. A 6D full-color lidar was announced Oct 2026. The Picasso-equipped ETX is in RFI/RFQ with leading robotaxi operators. Management targets ~40% long-term SGI gross margin."
+  },
+  "cost_and_supply_chain_notes": "In-house factories in China and Thailand. The Thai 'Galileo' manufacturing center supports Mercedes-Benz programs and offers a non-China production base. Cost-downs come from the in-house FMC500 SoC, SPAD detector integration and scale (Dolphin Research), feeding the ATX price step-down from ~US$200 to ~US$150 in 2026 (Dolphin estimate). Key inputs are lasers, SPAD/SiPM detectors, SoC/FPGA chips and optics. Actuation modules add motor, magnet and reducer content (my assessment). Capex runs ~RMB300M/yr (FY2025 capex RMB309M; TTM RMB336M). North America was 18% of H1 2026 revenue (RMB282M, roughly doubled YoY), which creates tariff and US-policy exposure. Management said the FCC's recent action on foreign-produced robotics devices has no material direct impact so far. Robotics lidar and overseas sales carry higher margins than domestic ADAS.",
+  "regulatory_notes": "US DoD Section 1260H 'Chinese military company' list: Hesai was first listed 2024-01-31, de-listed and re-listed the same day on 2024-10-15, and the US District Court for DC upheld DoD on 2025-07-11. On 2026-08-18 the DC Circuit (No. 25-5256) unanimously reversed, holding that 1260H designees are entitled to Fifth Amendment due process and that DoD had not given Hesai a meaningful chance to contest the listing, including its undisclosed evidence. The case was remanded to the district court. Hesai remains on the list for now, and the June 2026 update kept it on while adding RoboSense, BYD, Alibaba, Baidu and Unitree. From 2027-06-30, DoD may not buy goods containing components from listed companies (per drweb.de), which could reach into US customers' supply chains. A US securities class action is ongoing; on 2026-02-18 the court granted in part and denied in part the motion to dismiss. The HK dual listing was raised in Sep 2025, and shareholders approved a general issue and repurchase mandate on 2026-03-03.",
+  "key_drivers": [
+    "Volume ramp: FY2026 guide of 3.0-3.5M lidars vs 1.62M in 2025 (+85% to +116%); Q3 2026 revenue guide +38% to +45% YoY.",
+    "Robotics lidar >500k units in 2026 (vs ~240k), led by robotic lawnmowers (exclusive 10M-unit Dreame/MOVA agreement) plus 50+ embodied-AI customers.",
+    "Rising content per vehicle: ~US$200 at L2, ~US$350 for entry L3 and US$500-1,000 for advanced multi-lidar setups. Wins include Mercedes-Benz L3 (Europe and China), VW China JVs, Great Wall ETX (SOP late 2026), Li Auto (4 lidars on L8/L9), Xiaomi overseas (SOP 2027), Changan and GAC Toyota.",
+    "Market share: 44% of China's long-range ADAS lidar market in June 2026 (Gasgoo, 17th straight month as leader); ~43% global ADAS lidar share (Yole).",
+    "Profitability: five straight GAAP-profitable quarters; FY2025 was the first full-year GAAP profit (RMB436M; non-GAAP RMB551M); Q2 2026 net income +60% YoY.",
+    "SGI optionality: 2026 SGI revenue raised to RMB200-300M with ~US$100M and breakeven targeted for 2027.",
+    "Valuation: market cap ~US$2.1bn vs ~US$0.96bn net cash (RMB7.05bn cash reserve minus RMB0.64bn borrowings), ~21x forward P/E; consensus target $26.65 (19 analysts)."
+  ],
+  "key_risks": [
+    "ASP deflation: blended ASP fell from ~US$530 (2024) to ~US$260 (2025), and Q4 2025 blended ASP was down ~51% YoY (Dolphin). Revenue growth (+22% in Q2 2026) lags unit growth (+78%).",
+    "Gross margin compression: 42.5% in Q2 2025 vs 40.1% in Q2 2026; FY2026 guided only 'near 40%'.",
+    "China auto exposure: 74% of H1 2026 revenue came from mainland China; the price war and slowing China car sales hit the stock in Oct 2026, when CATL's weak Q3 drove an ~8% intraday drop.",
+    "US policy: remains on the 1260H list pending remand; DoD procurement restrictions from mid-2027; possible US limits on Chinese robotics components, FCC rules and tariffs, with North America at ~18% of revenue.",
+    "Competition from RoboSense, Huawei and others in ADAS lidar; dependence on a few large Chinese OEMs.",
+    "SGI losses: operating loss of RMB64M in Q2 2026; R&D +16% YoY to RMB231M in Q2 2026. Related-party supply to Sharpa (CEO co-founded).",
+    "Stock momentum: -47% over 52 weeks, ~-30% YTD by mid-October, trading near the 52-week low ($12.00-29.35 range). A securities class action is ongoing."
+  ],
+  "recent_events": [
+    {
+      "date": "2025-02-11",
+      "event": "Expanded partnership with BYD: Hesai lidar on 10+ BYD models entering mass production in 2025, tied to BYD's 'God's Eye' ADAS rollout; ATX entering mass production.",
+      "stock_reaction": "+9.7% to $18.75 (ADS, Feb 11, 2025)"
+    },
+    {
+      "date": "2025-07-11",
+      "event": "US District Court (DC) granted DoD summary judgment upholding Hesai's 1260H re-listing; Hesai filed a notice of appeal (Jul 14, 2025).",
+      "stock_reaction": "not found"
+    },
+    {
+      "date": "2025-09-16",
+      "event": "Hong Kong listing (HKEX: 2525) at HK$212.80/share, raising ~HK$4.16bn (US$531M) including an upsize option; retail tranche ~169x oversubscribed.",
+      "stock_reaction": "HK debut closed at HK$234, +10% vs offer (SCMP; my calculation)"
+    },
+    {
+      "date": "2025-11-11",
+      "event": "Q3 2025: revenue RMB~800M (+47.5%), record net profit RMB256M, 441k lidars (+229%), GM ~42%; FY2025 net profit guide raised to RMB350-450M; revenue missed consensus by ~US$5M.",
+      "stock_reaction": "not found"
+    },
+    {
+      "date": "2026-03-19",
+      "event": "Signed exclusive agreement to supply Dreame/MOVA robotic lawnmowers with 10 million JT-series lidars.",
+      "stock_reaction": "not found"
+    },
+    {
+      "date": "2026-03-24",
+      "event": "Q4/FY2025: Q4 revenue RMB1,000.5M (+39%); FY2025 revenue RMB3.03bn (+45.8%) and first annual GAAP profit (RMB436M); GM 41.8%; FY2026 shipment guide raised to 3.0-3.5M units; Q1 2026 guide RMB650-700M.",
+      "stock_reaction": "about -7.6% premarket (goldesel.de)"
+    },
+    {
+      "date": "2026-05-19",
+      "event": "Q1 2026: revenue RMB680.6M (+29.6%), GM 39.1% (vs 41.7%), 471,723 lidars (+141%), GAAP net income RMB18.3M; named strategic lidar partner for Mercedes-Benz L3 models; new Xiaomi overseas wins; Q2 guide RMB850-900M.",
+      "stock_reaction": "ADS -9.0% to $20.20 on May 19; HK -9.3% to HK$158 on May 20 (Dow Jones via Tiger)"
+    },
+    {
+      "date": "2026-06-08",
+      "event": "Pentagon's updated 1260H list adds Alibaba, Baidu, BYD and Unitree (RoboSense, Nio, CALB and EVE earlier in 2026); Hesai stays on the list.",
+      "stock_reaction": "not found"
+    },
+    {
+      "date": "2026-07-10",
+      "event": "1-for-8 share subdivision and ADS ratio change (1 ADS = 8 Class B shares) took effect; ADS count unchanged.",
+      "stock_reaction": "n/a (mechanical)"
+    },
+    {
+      "date": "2026-08-18",
+      "event": "Q2 2026: revenue RMB860.8M (+21.9%), GM 40.1%, GAAP net income RMB70.6M (+60%), 628k lidars (+78%); Q3 guide RMB1.10-1.15bn (+38-45%); SGI 2026 guide raised to RMB200-300M. Same day, the DC Circuit reversed the 1260H district-court ruling on due-process grounds and remanded; Hesai remains listed.",
+      "stock_reaction": "-6.1% premarket on Aug 18 (Finviz); closed $17.11, then $17.77 on Aug 19 (+3.9%)"
+    },
+    {
+      "date": "2026-10-15",
+      "event": "Launched the Kosmo 3D World Data Engine (Oct 14) and a 3D spatial camera for physical AI.",
+      "stock_reaction": "about -5% (MarketBeat headline); closes $13.94 (Oct 14) to $13.36 (Oct 15) to $12.42 (Oct 16)"
+    },
+    {
+      "date": "2026-10-21",
+      "event": "China auto supply-chain selloff after CATL's weak Q3 profit growth; Hesai fell >8% intraday toward its 52-week low and closed $12.14 on Oct 22. A 6D full-color lidar was announced around Oct 22.",
+      "stock_reaction": "-5.7% on Oct 21 and -8.0% on Oct 22; rebound +8.2% on Oct 23 and +4.3% on Oct 26 to $13.69 (stockanalysis closes, my calculation)"
+    }
+  ],
+  "notes": "(1) Share count: 156.44M is ADS-equivalent (stockanalysis), ~1.25bn ordinary shares after the split (Q2 2026 weighted basic 1,252.4M divided by 8 is ~156.6M). (2) Market cap = $13.69 x 156.44M. HKEX 2525 last checked at HK$15.47 (Oct 12, 2026), ~US$15.8 per ADS-equivalent. (3) cash_and_investments is the company-defined 'cash reserve' at Jun 30, 2026 (cash RMB1,510M + restricted RMB13M + short-term investments RMB5,140M + long-term time deposits ~RMB387M, the last implied). total_debt is bank borrowings only (short-term RMB395.5M + long-term RMB242.0M); stockanalysis's ~US$104M debt figure likely includes leases. (4) FY2025 operating income uses the company figure (RMB168.8M income from operations). Stockanalysis shows -RMB21.9M, likely excluding ~RMB190M of other operating income such as grants. (5) FCF figures come from stockanalysis: FY2025 OCF RMB117M minus capex RMB309M; TTM to Jun 2026 FCF -RMB56M, used as cash_burn_annual (small burn driven by capex). (6) Valuation: forward P/E 20.7 is from the stockanalysis overview at the Oct 26 close. P/S LTM 4.4 = $2.14bn / $491M TTM revenue (my calculation at $13.69; stockanalysis shows 3.87 at the Oct 22 price). EV/forward sales 1.6 is my calculation: EV ~$1.18bn (market cap minus ~$0.96bn net cash at 6.6861 CNY/USD) divided by ~$0.72bn forward revenue implied by stockanalysis's forward P/S of 2.64. (7) The physical-AI share (35%) is my estimate; the true figure could be 30-50%. (8) Latest-period operating margin 0.3% = RMB2.2M / RMB860.8M; non-GAAP operating income was higher. (9) Geo mix covers H1 2026 (HKEX interim results). (10) The Q4 2025 ADAS/robotics split and ATX price path come from Dolphin Research, not the company. (11) Search budget and hourly fetch limits were reached, so a few stock reactions are 'not found'. (12) FX used: 6.6861 CNY/USD and 7.8478 HKD/USD (Fed H.10, Oct 16, 2026).",
+  "sources": [
+    {"title": "Hesai Q2 2026 results (6-K)", "url": "https://hesai.gcs-web.com/node/8511/html"},
+    {"title": "Hesai interim results for six months ended June 30, 2026 (HKEX)", "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0818/2026081800438.pdf"},
+    {"title": "Hesai Q1 2026 unaudited results (Finviz/press release)", "url": "https://finviz.com/news/355406/hesai-group-reports-first-quarter-2026-unaudited-financial-results"},
+    {"title": "Hesai Q4 and FY2025 unaudited results (IR)", "url": "https://hesai.gcs-web.com/news-releases/news-release-details/hesai-group-reports-fourth-quarter-and-full-year-2025-unaudited"},
+    {"title": "Hesai 2025 Annual Report (6-K exhibit)", "url": "https://www.sec.gov/Archives/edgar/data/0001861737/000110465926048075/tm2612222d1_ex99-1.pdf"},
+    {"title": "Hesai 6-K: share subdivision and ADS ratio change effective (Jul 10, 2026)", "url": "https://hesai.gcs-web.com/node/8446/html"},
+    {"title": "HKEX trading arrangement notice: HESAI-W subdivision", "url": "https://www.hkex.com.hk/eng/market/sec_tradinfo/tradarng/tradarng_news/premonth/e2983g_260708.htm"},
+    {"title": "Benzinga: Hesai Q2 2026 earnings call transcript", "url": "https://www.benzinga.com/news/26/08/61272871"},
+    {"title": "MarketBeat: Hesai Q2 earnings call highlights", "url": "https://www.marketbeat.com/instant-alerts/hesai-group-q2-earnings-call-highlights-2026-08-18/"},
+    {"title": "Motley Fool: Hesai Q1 2026 earnings call transcript", "url": "https://www.fool.com/earnings/call-transcripts/2026/05/19/hesai-hsai-q1-2026-earnings-call-transcript/"},
+    {"title": "Stockanalysis: HSAI overview", "url": "https://stockanalysis.com/stocks/hsai/"},
+    {"title": "Stockanalysis: HSAI statistics", "url": "https://stockanalysis.com/stocks/hsai/statistics/"},
+    {"title": "Stockanalysis: HSAI financials", "url": "https://stockanalysis.com/stocks/hsai/financials/"},
+    {"title": "Stockanalysis: HSAI cash flow", "url": "https://stockanalysis.com/stocks/hsai/financials/cash-flow-statement/"},
+    {"title": "Stockanalysis: HSAI price history", "url": "https://stockanalysis.com/stocks/hsai/history/"},
+    {"title": "Stockanalysis: HKG:2525", "url": "https://stockanalysis.com/quote/hkg/2525/"},
+    {"title": "Finviz: Hesai shares drop despite strong Q2 revenue growth", "url": "https://finviz.com/news/383242/hesai-group-shares-drop-despite-strong-q2-revenue-growth"},
+    {"title": "Tiger/Dow Jones: Hesai shares fall sharply after softer Q1 margin", "url": "https://www.itiger.com/news/2636892802"},
+    {"title": "goldesel.de: Hesai FY2025 results and stock reaction", "url": "https://goldesel.de/aktien/news/hesai-meldet-gaap-jahresgewinn-und-senkt-marge-aktie-reagiert-2026-lidarziele-335-mio"},
+    {"title": "IBTimes: Hesai stock tumbles 8% toward 52-week low (Oct 2026)", "url": "https://www.ibtimes.com.au/hesai-shares-fall-chinese-auto-sector-pressure-1877141"},
+    {"title": "Bloomberg Government: Hesai wins chance to fight DOD ban", "url": "https://news.bgov.com/litigation/chinese-self-driving-firm-hesai-wins-chance-to-fight-dod-ban"},
+    {"title": "Akin Gump: DC Circuit appellate victory (Hesai v. DoD)", "url": "https://www.akingump.com/en/insights/awards-and-accolades/james-tysse-named-litigator-of-the-week-by-the-american-lawyer-for-landmark-dc-circuit-appellate-victory"},
+    {"title": "drweb.de: Hesai US military list court ruling", "url": "https://www.drweb.de/hesai-us-militaerliste-lidar-gericht/"},
+    {"title": "Hesai opening brief, DC Circuit No. 25-5256", "url": "https://storage.courtlistener.com/recap/gov.uscourts.cadc.42216/gov.uscourts.cadc.42216.01208801843.0.pdf"},
+    {"title": "TechCrunch: Pentagon says Alibaba, Baidu, BYD and Unitree support China's military", "url": "https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/"},
+    {"title": "SCMP: Hesai rises in Hong Kong debut, raises US$531 million", "url": "https://www.scmp.com/business/banking-finance/article/3325653/chinas-hesai-rises-hong-kong-share-debut-lidar-sensor-maker-raises-us531-million"},
+    {"title": "CnEVPost: Hesai launches Hong Kong offering", "url": "https://cnevpost.com/2025/09/08/hesai-launches-hong-kong-offering/"},
+    {"title": "Gasgoo: Hesai to supply Dreame with 10 million lidar units", "url": "https://autonews.gasgoo.com/articles/icv/hesai-technology-signs-agreement-to-supply-dreame-with-10-million-lidar-units-2034967176807612417"},
+    {"title": "Dolphin Research: Hesai Q4 2025 note (ASP, shipments)", "url": "https://longportapp.cn/topics/39486324"},
+    {"title": "Tiger: Hesai ADSs climb on BYD lidar deal (Feb 2025)", "url": "https://www.itiger.com/news/2510339558"},
+    {"title": "ChinaEVHome: Hesai Q3 2025 net profit", "url": "https://chinaevhome.com/2025/11/11/hesais-net-profit-reaches-36m-in-q3-hits-full-year-gaap-profitability-target-ahead-of-schedule-1/"},
+    {"title": "Seeking Alpha: Hesai reports mixed Q3 results", "url": "https://seekingalpha.com/news/4519845-hesai-group-reports-mixed-q3-results-initiates-q4-outlook"},
+    {"title": "Tiger: Hesai Q1 2026 results and annual target", "url": "https://www.itiger.com/news/1179814185"},
+    {"title": "Federal Reserve H.10 exchange rates", "url": "https://www.federalreserve.gov/releases/h10/current/"}
+  ]
+}
