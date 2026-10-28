@@ -1,0 +1,180 @@
+{
+  "id": "aur",
+  "name": "Aurora Innovation, Inc.",
+  "yahoo_symbol": "AUR",
+  "exchange": "NASDAQ",
+  "reporting_currency": "USD",
+  "fiscal_year_note": "Calendar fiscal year. Q3 2026 results and business review call are scheduled for Oct 28, 2026 after the close (one day after this snapshot), so the Q2 2026 figures below will soon be superseded. Aurora reports figures rounded to the nearest $1M.",
+  "price": {
+    "value": 4.87,
+    "currency": "USD",
+    "date": "2026-10-26",
+    "source_url": "https://stockanalysis.com/stocks/aur/"
+  },
+  "shares_outstanding_m": 2004.16,
+  "market_cap_usd_bn": 9.76,
+  "cash_and_investments_bn": 1.217,
+  "total_debt_bn": 0,
+  "latest_quarter": {
+    "label": "Q2 2026 (Apr-Jun 2026)",
+    "report_date": "2026-07-29",
+    "revenue_bn": 0.002,
+    "revenue_yoy_pct": 100,
+    "gross_margin_pct": -250,
+    "operating_margin_pct": -13300,
+    "operating_margin_basis": "GAAP (computed from figures rounded to $1M; not meaningful)",
+    "eps": -0.14,
+    "eps_basis": "GAAP basic and diluted"
+  },
+  "last_fiscal_year": {
+    "label": "FY2025 (calendar 2025)",
+    "revenue_bn": 0.003,
+    "operating_income_bn": -0.901,
+    "net_income_bn": -0.816,
+    "free_cash_flow_bn": -0.612,
+    "rnd_bn": 0.745
+  },
+  "ltm": {
+    "label": "12 months to Jun 30, 2026",
+    "revenue_bn": 0.005,
+    "operating_income_bn": -0.970,
+    "free_cash_flow_bn": -0.751
+  },
+  "cash_burn_annual_bn": 0.82,
+  "guidance": "2026 (given Feb 11, 2026; reaffirmed Jul 29, 2026): revenue $14M-$16M (more than half in Q4; about 400% growth at midpoint); more than 200 driverless trucks in operation by year-end (company says it is fully allocated under Transportation-as-a-Service contracts), implying about an $80M annualized TaaS revenue run-rate; average quarterly cash use about $190M-$220M; 2026 capex about $150M; 20-25 second-generation driverless trucks in operation by end of Q3 2026. Longer term (Sep 23, 2026 Investor Day and CFO comments to TechCrunch): Driver-as-a-Service subscriptions (customer-owned trucks, about $0.85 per mile) from 2027; breakeven gross margin on a run-rate basis in H1 2027 at about 500 trucks; more than 1,000 trucks about a year after end-2026; third-generation hardware (AUMOVIO) in production by H2/end-2027; more than 30,000 driverless trucks and about $5B of annual revenue in 2030. In Feb 2026 the company said it had sufficient liquidity to achieve positive free cash flow in 2028.",
+  "consensus_next_fy": {
+    "label": "FY2027 (calendar 2027)",
+    "revenue_bn": 0.1877,
+    "eps": -0.45,
+    "eps_basis": "non-GAAP adjusted per stockanalysis (13 analysts, updated Oct 5, 2026); the FY2027 revenue figure appears in the page summary while the detailed table is gated. FY2026 consensus: revenue $15.0M, EPS -$0.49.",
+    "source_url": "https://stockanalysis.com/stocks/aur/forecast/"
+  },
+  "valuation": {
+    "pe_forward": null,
+    "ev_sales_forward": 45.5,
+    "ev_ebitda_forward": null,
+    "basis": "Loss-making, so P/E and EV/EBITDA are not meaningful. EV about $8.54B = market cap $9.76B - liquidity $1.217B (no debt); stockanalysis shows EV $8.50B at the Oct 23 close. ev_sales_forward = EV / 2027 consensus revenue $187.7M.",
+    "source_url": "https://stockanalysis.com/stocks/aur/statistics/"
+  },
+  "beta_5y_monthly": 2.70,
+  "short_interest_pct_float": 13.8,
+  "geo_revenue_mix_pct": {
+    "United States": 100
+  },
+  "segment_or_end_market_mix_pct": {
+    "Driverless trucking services (TaaS, per-mile)": 100
+  },
+  "physical_ai_exposure": {
+    "share_of_revenue_pct": 100,
+    "description": "Pure-play Level-4 autonomous trucking. The Aurora Driver (in-house FirstLight lidar with about 1 km range, compute and software) runs on Class 8 trucks from International and Volvo, with a PACCAR platform planned for the third-generation kit. Aurora currently earns per-mile Transportation-as-a-Service revenue hauling customer freight driverlessly on Texas and Sun Belt lanes, and plans to shift to Driver-as-a-Service subscriptions on customer-owned trucks from 2027.",
+    "optionality_notes": "DaaS licensing at scale (non-binding MOUs: Hirschbach for 500 trucks from 2027; Charger Logistics for up to 500 trucks in 2027-2028); Volvo Autonomous Solutions plans driverless Volvo VNL Autonomous operations from Q1 2027 and more than 300 driverless trucks by end-2027; McLeod TMS integration; California now permits driverless trucks (Aurora applied for the required drivered testing); FMCSA five-year exemption allowing cab-mounted warning beacons instead of roadside triangles (Oct 2026); the CFO said a robotaxi/ride-hailing entry is feasible once margins mature (Toyota and Uber are partners)."
+  },
+  "backlog_or_pipeline": "No formal backlog. Aurora says it is fully allocated to exit 2026 with about 200 driverless trucks under TaaS agreements (vs 10 driverless trucks in Dec 2025). Non-binding MOUs: Hirschbach to own and operate 500 trucks under DaaS with deliveries from 2027 (Sep 2026); Charger Logistics up to 500 trucks with 2027-2028 deliveries (Oct 26, 2026); a 'leading carrier' agreed to scale to 500 trucks (Apr 30, 2026 release). Customers named: Hirschbach, Uber Freight, Werner, FedEx, Schneider, McLane (May 2026), Detmar Logistics (expanded Dec 2025; West Texas energy sites), Value Truck and Charger (second-generation trucks, Jul 2026), and DSV and AVI-SPL via Volvo Autonomous Solutions. Network: tripled to 10 driverless routes in Feb 2026, including Dallas-Houston, Fort Worth-El Paso-Phoenix, Laredo-Dallas and Midland-Monahans; Volvo opened a route to Oklahoma City in May 2026. More than 500,000 driverless miles since the 2025 launch (as of Sep 2026) with zero Aurora Driver-attributed collisions; trucks average about 225,000 annualized miles, about twice a human-driven truck.",
+  "cost_and_supply_chain_notes": "The second-generation hardware kit (in service from mid-2026) is designed for 1 million miles and cuts Aurora Driver hardware cost by more than half. The third-generation kit will be manufactured by AUMOVIO (formerly Continental), the single planned supplier, with production planned for H2 2027 and AUMOVIO helping finance the hardware. Upfitter Roush targets about 20 trucks per week (about a 1,000-truck annual run-rate) from Oct 2026. Under TaaS Aurora carries the trucks on its own balance sheet (2026 capex about $150M; H1 2026 capex $56M vs $15M a year earlier); DaaS from 2027 moves trucks onto customers' balance sheets. Cost of revenue was $7M against $2M of revenue in Q2 2026. Technology partners include NVIDIA. Tariff exposure is not quantified in the sources reviewed.",
+  "debt_notes": "No debt or credit facility disclosed. Operating lease liabilities $82M at Jun 30, 2026 ($12M current); derivative liabilities (earnout shares and warrants) about $20M at Mar 31, 2026; public warrants (AUROW) exercisable at $11.50. Liquidity $1.217B at Jun 30, 2026 ($136M cash + $1,081M short-term investments; $18M restricted cash excluded), vs $1.277B at Mar 31, 2026 (including $52M of long-term investments) and about $1.46B at Dec 31, 2025. Funding is mainly an at-the-market program with Cantor Fitzgerald, TD Securities and Allen & Co (expanded to $1.421B aggregate on Jul 30, 2025, with $1.0B then available): about 30M shares sold at about $7.50 in Q2 2026 for $215M net; about 33M shares for $229M net in H1 2026; $916M of equity proceeds in 2025. The 10-Q says liquidity is sufficient for at least 12 months.",
+  "customer_concentration": "Revenue is tiny ($2M in Q2 2026) and the 10-Q revenue note does not disclose customer concentration; revenue comes from a small group of carriers and shippers (see backlog_or_pipeline). Shareholder concentration: Uber held 186.5M Class A shares (10.9% of Class A) after selling 72M shares in a block at $6.55 on Aug 17, 2026, and said it may sell more. There are also 296.0M Class B shares.",
+  "key_drivers": [
+    "Truck ramp: from 10 driverless trucks (Dec 2025) to more than 200 by end-2026, with Roush upfitting about 20 trucks per week from Oct 2026 and more than 1,000 trucks targeted about a year later.",
+    "Revenue inflection: 2026 revenue $14M-$16M with more than half in Q4; about an $80M annualized run-rate exiting 2026; 2027 consensus revenue about $188M.",
+    "Unit economics: second-generation hardware more than 50% cheaper; trucks run about 225,000 annualized miles; TaaS at about $2 per mile including fuel surcharge vs DaaS subscriptions at about $0.85 per mile; breakeven gross margin targeted for H1 2027 at about 500 trucks.",
+    "DaaS pipeline: Hirschbach (500) and Charger (up to 500) MOUs; Volvo Autonomous Solutions targeting more than 300 driverless trucks by end-2027.",
+    "Regulation: FMCSA five-year warning-beacon exemption (Oct 7, 2026); California opened to driverless trucks.",
+    "Catalyst: Q3 2026 results Oct 28, 2026 (watch driverless truck count vs the 20-25 second-generation target, quarterly cash use vs the $190M-$220M guide, and ATM usage).",
+    "2030 vision: more than 30,000 driverless trucks and about $5B of revenue; positive free cash flow targeted in 2028."
+  ],
+  "key_risks": [
+    "Cash burn of about $0.8B per year vs $1.2B of liquidity implies about 1.5 years of runway without new capital; continued ATM issuance (shares +12% YoY; about 33M shares sold in H1 2026).",
+    "Uber overhang: sold 72M shares at $6.55 in Aug 2026 (stock -11.8% the next day), still holds 10.9% of Class A and may sell more.",
+    "Execution and safety: a serious crash could halt driverless operations; in May 2025 Aurora put an observer back in the cab of its PACCAR trucks at PACCAR's request (from prior knowledge; not re-verified in this session).",
+    "MOUs with Hirschbach and Charger are non-binding, and DaaS pricing and adoption are unproven.",
+    "Supplier and partner dependence: AUMOVIO is the single planned supplier of third-generation hardware; reliance on truck OEMs (Volvo, PACCAR, International) and upfitter Roush.",
+    "Competition from Kodiak AI (also public, also covered by the FMCSA exemption) and other autonomous-trucking developers.",
+    "Valuation and volatility: about 45x EV/2027E sales, beta about 2.7, 13.8% of float sold short; stock about 43% below its 52-week high of $8.565 and down 12.4% on Sep 28, 2026 after the investor day."
+  ],
+  "recent_events": [
+    {
+      "date": "2025-05-01",
+      "event": "Began commercial driverless trucking in Texas on the Dallas-Houston lane.",
+      "stock_reaction": "-5.0% on May 1 (7.24 to 6.88), then +18.3% on May 2"
+    },
+    {
+      "date": "2025-05-14",
+      "event": "Mid-May 2025: Aurora put an observer back in the cab of its PACCAR-built trucks at PACCAR's request (attribution from prior knowledge, not re-verified in this session).",
+      "stock_reaction": "-7.7% on May 13 and -6.3% on May 14 (7.32 to 6.86) on about 148M shares, roughly 4-6x normal volume"
+    },
+    {
+      "date": "2025-07-30",
+      "event": "Began driverless operations at night and opened a Phoenix terminal; Q2 2025 results the same day.",
+      "stock_reaction": "-3.0% on Jul 30; +0.3% on Jul 31"
+    },
+    {
+      "date": "2025-10-28",
+      "event": "Expanded driverless service from Fort Worth to El Paso, alongside Q3 2025 results.",
+      "stock_reaction": "not retrieved"
+    },
+    {
+      "date": "2026-02-11",
+      "event": "Q4 2025 results (after close): FY2025 revenue $3M, net loss $816M, about $1.46B of liquidity; tripled the driverless network to 10 routes; 2026 guide of more than 200 trucks, $14M-$16M revenue and $190M-$220M average quarterly cash use; said liquidity is sufficient to reach positive FCF in 2028.",
+      "stock_reaction": "-3.2% on Feb 12 (4.36 to 4.22), then +6.2% on Feb 13"
+    },
+    {
+      "date": "2026-05-06",
+      "event": "Q1 2026 results (revenue $1M, net loss $223M) and a McLane partnership for driverless restaurant-supply routes in Texas; a week earlier (Apr 30) a 'leading carrier' agreed to scale to 500 trucks, and Volvo opened a route to Oklahoma City (May 4).",
+      "stock_reaction": "not retrieved"
+    },
+    {
+      "date": "2026-07-29",
+      "event": "Q2 2026 results (after close): second driverless fleet on second-generation hardware deployed, Value Truck and Charger agreements, 2026 guidance reaffirmed, nearly $1.2B of liquidity after $215M of Q2 ATM proceeds.",
+      "stock_reaction": "+4.3% on Jul 30 (5.98 to 6.24); rose to 7.23 by Aug 4"
+    },
+    {
+      "date": "2026-08-17",
+      "event": "Uber sold 72M Aurora Class A shares in a block trade at $6.55 (about $472M), keeping 186.5M shares (10.9% of Class A) and saying it may sell more (Schedule 13D/A filed Aug 19).",
+      "stock_reaction": "-11.8% on Aug 18 (6.97 to 6.15)"
+    },
+    {
+      "date": "2026-09-23",
+      "event": "Analyst and Investor Day: 2030 vision of more than 30,000 driverless trucks; fully allocated for 200 trucks exiting 2026; Hirschbach intends to run 500 trucks under DaaS from 2027 (non-binding); more than 500,000 driverless miles.",
+      "stock_reaction": "-2.2% on Sep 23 (6.46 to 6.32); kept sliding, including -12.4% on Sep 28 (6.04 to 5.29)"
+    },
+    {
+      "date": "2026-10-07",
+      "event": "FMCSA granted Aurora and Kodiak a five-year exemption to use cab-mounted warning beacons instead of placing roadside triangles after a breakdown, removing a barrier to driverless operations.",
+      "stock_reaction": "-0.5% on Oct 7; +0.2% on Oct 8"
+    },
+    {
+      "date": "2026-10-26",
+      "event": "Charger Logistics signed a non-binding MOU to buy up to 500 Aurora Driver-powered trucks under DaaS, with deliveries in 2027-2028.",
+      "stock_reaction": "+1.3% (4.81 to 4.87)"
+    }
+  ],
+  "notes": "Q2 2026 figures are rounded to $1M in Aurora's filings, so revenue growth (+100%: $2M vs $1M) and margins (gross -250%, operating about -13,300%) are imprecise and not meaningful. Shares = Class A 1,708.1M + Class B 296.0M as of Jul 22, 2026 (10-Q cover); stockanalysis also shows 2.00B. cash_and_investments_bn = cash $136M + short-term investments $1,081M at Jun 30, 2026. cash_burn_annual_bn 0.82 = midpoint of the 2026 guide of $190M-$220M average quarterly cash use times four (LTM FCF was -$751M; H1 2026 operating cash use $384M plus capex $56M). FY2025 FCF of -$612M is derived (operating cash use $581M + capex $31M). LTM figures are hand-calculated from the FY2025 letter and 2026 10-Qs and match stockanalysis. The 2025 equity proceeds figure ($916M) is from the Q4 2025 shareholder letter. Beta 2.70 is stockanalysis' 5Y figure (Aurora listed via a SPAC merger in late 2021, so the history is under five years; Yahoo's key statistics page could not be loaded). Short interest 13.8% of float (209.6M shares; 10.5% of shares outstanding) is stockanalysis' latest, undated. Geography is inferred as 100% US (operations in Texas, New Mexico, Arizona and Oklahoma). The May 2025 observer-in-cab attribution comes from prior knowledge and was not re-verified here; the price and volume data are from Yahoo. Large unexplained drops: Aug 24, 2026 (-8.8%) and Oct 16, 2026 (-10.1%). Not retrieved because the search budget and hourly fetch limit ran out: price reactions to the Oct 2025 and May 2026 reports, the current driverless truck count, and remaining ATM capacity.",
+  "sources": [
+    {"title": "Aurora announces Q2 2026 results (Business Wire, Jul 29, 2026)", "url": "https://www.businesswire.com/news/home/20260729316480/en/Aurora-Announces-Second-Quarter-2026-Results"},
+    {"title": "Aurora Q2 2026 shareholder letter (8-K exhibit)", "url": "https://www.sec.gov/Archives/edgar/data/0001828108/000182810826000075/aurora26q2shareholderlet.htm"},
+    {"title": "Aurora Form 10-Q for quarter ended Jun 30, 2026", "url": "https://www.sec.gov/Archives/edgar/data/0001828108/000182810826000077/aur-20260630.htm"},
+    {"title": "Aurora 10-Q cover page (shares outstanding)", "url": "https://www.sec.gov/Archives/edgar/data/1828108/000182810826000077/R1.htm"},
+    {"title": "Aurora 10-Q revenue note (R10)", "url": "https://www.sec.gov/Archives/edgar/data/1828108/000182810826000077/R10.htm"},
+    {"title": "Aurora Form 10-Q for quarter ended Mar 31, 2026", "url": "https://www.sec.gov/Archives/edgar/data/0001828108/000182810826000052/aur-20260331.htm"},
+    {"title": "Aurora Q4 2025 shareholder letter (8-K exhibit, Feb 11, 2026)", "url": "https://www.sec.gov/Archives/edgar/data/1828108/000182810826000014/finalaurora25q4sharehold.htm"},
+    {"title": "Aurora outlines 2030 vision to scale to 30,000 driverless trucks (Business Wire, Sep 23, 2026)", "url": "https://www.businesswire.com/news/home/20260923278327/en/Aurora-Outlines-2030-Vision-to-Scale-to-30000-Driverless-Trucks-at-Analyst-and-Investor-Day"},
+    {"title": "Aurora IR: Investor Day release", "url": "https://ir.aurora.tech/news-events/press-releases/detail/152/aurora-outlines-2030-vision-to-scale-to-30000-driverless-trucks-at-analyst-and-investor-day"},
+    {"title": "Charger Logistics and Aurora to begin scaling to 500 trucks (Business Wire, Oct 26, 2026)", "url": "https://www.businesswire.com/news/home/20261026473142/en/Charger-Logistics-and-Aurora-to-Begin-Scaling-Autonomous-Fleet-to-500-Trucks"},
+    {"title": "Aurora IR press release list (pages 1-4)", "url": "https://ir.aurora.tech/news-events/press-releases"},
+    {"title": "Uber Schedule 13D/A on Aurora (Aug 19, 2026)", "url": "https://www.sec.gov/Archives/edgar/data/1828108/000155278126000453/primary_doc.xml"},
+    {"title": "SEC EDGAR submissions index for Aurora", "url": "https://data.sec.gov/submissions/CIK0001828108.json"},
+    {"title": "TechCrunch: Aurora CFO on 30,000 trucks by 2030 (Sep 28, 2026)", "url": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/"},
+    {"title": "TechCrunch Mobility: a roadblock clears for self-driving trucks (Oct 11, 2026)", "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/"},
+    {"title": "TechCrunch: Aurora Innovation tag page (2025-2026 headlines)", "url": "https://techcrunch.com/tag/aurora-innovation/"},
+    {"title": "StockAnalysis: AUR quote and news", "url": "https://stockanalysis.com/stocks/aur/"},
+    {"title": "StockAnalysis: AUR statistics", "url": "https://stockanalysis.com/stocks/aur/statistics/"},
+    {"title": "StockAnalysis: AUR forecast", "url": "https://stockanalysis.com/stocks/aur/forecast/"},
+    {"title": "StockAnalysis: AUR price history", "url": "https://stockanalysis.com/stocks/aur/history/"},
+    {"title": "Yahoo Finance: AUR price history Apr-May 2025", "url": "https://finance.yahoo.com/quote/AUR/history/?period1=1745798400&period2=1747872000"},
+    {"title": "Yahoo Finance: AUR price history Jul-Aug 2025", "url": "https://finance.yahoo.com/quote/AUR/history/?period1=1753660800&period2=1754265600"},
+    {"title": "Yahoo Finance: AUR price history Feb 2026", "url": "https://finance.yahoo.com/quote/AUR/history/?period1=1770768000&period2=1771286400"},
+    {"title": "Yahoo Finance: AUR price history Jul-Aug 2026", "url": "https://finance.yahoo.com/quote/AUR/history/?period1=1785110400&period2=1786492800"},
+    {"title": "Yahoo Finance: AUR price history Aug 17-21, 2026", "url": "https://finance.yahoo.com/quote/AUR/history/?period1=1786752000&period2=1787356800"},
+    {"title": "Yahoo Finance: AUR price history Sep-Oct 2026", "url": "https://finance.yahoo.com/quote/AUR/history/?period1=1789948800&period2=1791158400"}
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "id": "cgnx",
+  "name": "Cognex Corporation",
+  "yahoo_symbol": "CGNX",
+  "exchange": "NASDAQ",
+  "reporting_currency": "USD",
+  "listing_date": null,
+  "fiscal_year_note": "Fiscal year = calendar year (ends Dec 31); fiscal quarters end on a Sunday near calendar quarter-end (Q1 2026 ended Apr 5, 2026; Q2 2026 ended Jul 5, 2026). US GAAP. Listed long before 2020, so listing_date is null. Q3 2026 results due Wed Nov 4, 2026 after the close (call Nov 5, 8:30am ET).",
+  "price": {
+    "value": 55.63,
+    "currency": "USD",
+    "date": "2026-10-26",
+    "source_url": "https://stockanalysis.com/stocks/cgnx/"
+  },
+  "shares_outstanding_m": 168.22,
+  "market_cap_usd_bn": 9.36,
+  "cash_and_investments": 0.755,
+  "total_debt": 0.0,
+  "amount_unit": "USD bn",
+  "latest_period": {
+    "label": "Q2 FY2026 (quarter ended Jul 5, 2026; roughly Apr-Jun 2026)",
+    "report_date": "2026-08-05",
+    "revenue": 0.2913,
+    "revenue_yoy_pct": 16.9,
+    "gross_margin_pct": 70.6,
+    "operating_margin_pct": 29.4,
+    "net_income": 0.0728
+  },
+  "last_fiscal_year": {
+    "label": "FY2025 (Jan-Dec 2025)",
+    "revenue": 0.9944,
+    "operating_income": 0.163,
+    "net_income": 0.114,
+    "free_cash_flow": 0.237,
+    "rnd": 0.139
+  },
+  "cash_burn_annual": 0.0,
+  "guidance": "Q3 2026 (issued Aug 5, 2026): revenue $300-320M (~12% YoY at midpoint; ~17% excluding a $13M one-time benefit in Q3 2025), adjusted EBITDA margin 32-35%, adjusted diluted EPS $0.50-0.54. FY2026: revenue $1,130-1,150M (~15% growth at midpoint), adjusted EBITDA margin 29-31%, adjusted EPS $1.64-1.68 (includes ~$0.11 of investment income). Cost program: ~$35M of annualized net cost reductions by end-2026 (low end of the $35-40M target set in Feb 2026). End-market outlook raised in Aug 2026: semiconductor, electronics and packaging double-digit growth in 2026; logistics high-single-digit; automotive roughly flat. Through-cycle framework (June 2025 Investor Day): 13-14% revenue CAGR including ~3% from M&A, 20-30% adjusted EBITDA margin, >100% FCF conversion, double the ~30,000-customer base within five years. RealSense (close expected Q4 2026) projects $80-90M of 2026 revenue. Q3 consensus revenue ~$313M (Trefis).",
+  "valuation": {
+    "pe_forward": 31.0,
+    "ev_sales_forward": 7.2,
+    "price_to_sales_ltm": 8.6,
+    "source_url": "https://stockanalysis.com/stocks/cgnx/statistics/"
+  },
+  "geo_revenue_mix_pct": {
+    "Americas": 41,
+    "Europe": 25,
+    "Greater China": 16,
+    "Other Asia": 18
+  },
+  "segment_or_end_market_mix_pct": {
+    "Logistics, packaging, consumer electronics and automotive (combined)": 85,
+    "Semiconductor, life sciences and other (implied remainder)": 15
+  },
+  "unit_volumes": "Cognex does not disclose unit shipments. Customer metrics: >30,000 customers; ~9,000 new customer accounts added in 2025 (about 3x the prior-year pace); >4,500 new customers added in H1 2026; OneVision AI platform used by 'hundreds' of customers (Aug 2026).",
+  "physical_ai_exposure": {
+    "share_of_revenue_pct": 7,
+    "description": "Core business is AI-enabled machine vision (2D/3D smart cameras, barcode/ID readers, deep-learning inspection) sold into factory and logistics automation. That is the perception layer of automation, so nearly all revenue is automation-linked, but it is mostly fixed-camera inspection and ID rather than robot-mounted perception. The 7% is my pro-forma estimate of direct robotic-perception revenue after the RealSense deal (~$85M midpoint of RealSense's projected 2026 revenue vs ~$1.14B Cognex FY2026 guide midpoint). Cognex does not disclose revenue from its existing vision-guided-robotics products.",
+    "optionality_notes": "RealSense (spun out of Intel in 2025) depth cameras serve fixed robot arms, AMRs, quadrupeds and humanoids. Cognex sizes robotic perception at ~$600M today, growing >25%/yr to ~$1.6B by 2030, and pitches a 'full-stack visual intelligence platform for Physical AI'. Other AI levers: OneVision cloud training and deployment, edge-learning and transformer models (~20M parameters running at ~8W on embedded hardware), the SLX AI logistics system, In-Sight L38 3D, and data-center supply-chain inspection (low-single-digit % of revenue, +30% YoY in Q2 2026)."
+  },
+  "cost_and_supply_chain_notes": "Most hardware is assembled by contract manufacturers in Indonesia and Malaysia; in-house optical-component plants in Shenzhen (China) and Bac Ninh (Vietnam, from Moritex); distribution centers in Cork (Ireland), Southborough (MA) and Singapore. Key inputs are image sensors, processors and memory: rising memory prices are expected to cost ~75 bps of gross margin in Q3 2026 (possibly into Q4), which management plans to offset with price increases. US tariffs on some Chinese-sourced components raised costs but were 'not material' (FY2025 10-K), and tariff refunds were not a material factor in 2026 margins. A ~71% gross margin cushions input-cost swings. Cognex does not make actuators, so rare-earth magnets and reducers are not key inputs (my assessment).",
+  "regulatory_notes": "US export controls have reduced revenue from China-based customers (immaterial to date per the 10-K). Greater China was 16% of FY2025 revenue, so US-China tariffs and trade measures matter. The RealSense acquisition needs regulatory clearance (close expected Q4 2026), and RealSense will spin out its facial-authentication line before closing. No US government list designations. The 10-K says one customer has at times represented a material portion of total revenue.",
+  "key_drivers": [
+    "Logistics automation: 10 straight quarters of double-digit growth through Q2 2026, driven by large e-commerce customers; FY2026 logistics outlook raised to high-single-digit growth.",
+    "Semiconductor and electronics upcycle tied to AI infrastructure: both guided to double-digit growth in 2026; Greater China revenue +42% (constant currency) and Other Asia +14% in Q2 2026.",
+    "Restructuring-driven margins: adjusted gross margin 71.5% (+350 bps YoY) and adjusted EBITDA margin 32.2% in Q2 2026; FY2026 adjusted EBITDA guide of 29-31% vs a 20-30% through-cycle target; ~$35M of annualized cost savings by end-2026.",
+    "AI product cycle: OneVision generally available with hundreds of customers; In-Sight 2800/L38/3900/6900, SLX, and the In-Sight 1750 wafer reader (Sep 2026); ~9,000 new customers in 2025.",
+    "Entry into robotic perception through RealSense ($500M; $80-90M 2026 revenue, >50% growth) in a ~$600M market growing >25%/yr.",
+    "Balance sheet and capital returns: $755M of cash and investments and no debt before RealSense; $151M of buybacks in 2025 and $99M in Q1 2026; $500M added to the authorization in Feb 2026; $0.085 quarterly dividend.",
+    "Earnings momentum: FY2026 adjusted EPS guide of $1.64-1.68 vs $1.02 in FY2025 (~+63%)."
+  ],
+  "key_risks": [
+    "Automotive weakness, especially in Europe: automotive revenue fell at a high-single-digit rate in Q2 2026 and Europe revenue fell 15%.",
+    "Logistics deceleration and customer concentration: management expects logistics growth to moderate in H2 2026, and one customer has at times been a material share of revenue.",
+    "High expectations: Q3 2025 included a $13M one-time benefit, which makes for a tough Q3 comparison; Q2 2026 revenue slightly missed consensus and the stock fell ~5%; shares trade at ~53x trailing and ~31x forward earnings.",
+    "Input costs: memory price inflation is a ~75 bps gross-margin headwind in Q3 2026.",
+    "RealSense execution: ~$500M of cash (about two-thirds of cash and investments) plus ~$106M of retention cash and RSUs, integration risk, and an early-stage robotics-perception market.",
+    "China and export-control exposure (Greater China was 16% of FY2025 revenue) and cyclical factory-automation capex.",
+    "Volatility: 52-week range $34.60-$72.88; shares are ~24% below the 52-week high."
+  ],
+  "recent_events": [
+    {
+      "date": "2025-06-10",
+      "event": "Investor Day: through-cycle targets of 13-14% revenue CAGR (incl. ~3% M&A), 20-30% adjusted EBITDA margin and >100% FCF conversion; goal to double ~30,000 customers in five years; showcased AI tools (OneVision, edge learning, In-Sight L38 3D, DataMan 290).",
+      "stock_reaction": "not found"
+    },
+    {
+      "date": "2025-10-29",
+      "event": "Q3 2025: revenue $277M (+18%; +13% excluding a one-time $13M commercial-partnership benefit), adjusted EPS $0.33 (beat). The Q4 guide of $230-245M revenue and $0.19-0.24 adjusted EPS was read as soft.",
+      "stock_reaction": "approx. -12% (from $47.44 before the report to $41.80, per StockStory; my calculation)"
+    },
+    {
+      "date": "2026-02-11",
+      "event": "Q4 2025: revenue $252M (+10%); FY2025 revenue $994M (+9%) and adjusted EPS $1.02 (+38%); Q1 2026 guide of $235-255M with a 19-22% adjusted EBITDA margin; $500M buyback authorization increase; exiting ~$22M of non-core revenue; additional $35-40M of annualized cost cuts targeted by end-2026.",
+      "stock_reaction": "+39% intraday on Feb 12 to a 52-week high of $59.88 (Motley Fool); ~+36% vs the $43.03 pre-earnings price (StockStory)"
+    },
+    {
+      "date": "2026-05-06",
+      "event": "Q1 2026: revenue $268M (+24%, vs ~$246M consensus), adjusted EPS $0.34 (+113%), GAAP operating margin 22.3%; $99M of buybacks; Q2 guide $280-300M.",
+      "stock_reaction": "approx. +5% (247wallst reports +4.7% to +5.9%)"
+    },
+    {
+      "date": "2026-08-05",
+      "event": "Q2 2026: record revenue of $291M (+17%), slightly below ~$292-293M consensus; adjusted EPS $0.45 (vs $0.42 consensus); adjusted EBITDA margin 32.2%; FY2026 guide of $1.13-1.15B revenue and $1.64-1.68 adjusted EPS. Management flagged moderating logistics growth in H2 and a ~75 bps memory-cost headwind in Q3.",
+      "stock_reaction": "-5.4% post-earnings (AllInvestView); about -9.8% over the following month (Zacks, Sep 4)"
+    },
+    {
+      "date": "2026-09-22",
+      "event": "Agreed to acquire RealSense for ~$500M in cash plus a $56.5M cash retention plan and ~$50M of RSUs. RealSense projects $80-90M of 2026 revenue (>50% growth); close expected Q4 2026; framed as Cognex's entry into robotic perception and physical AI.",
+      "stock_reaction": "+0.5% premarket to $62.31 (RTT/Nasdaq) but closed at $58.97, roughly -5% on the day (my calculation)"
+    },
+    {
+      "date": "2026-09-23",
+      "event": "Launched the In-Sight 1750 wafer reader for semiconductor manufacturers.",
+      "stock_reaction": "close $58.19 (-1.3%); not clearly attributable"
+    },
+    {
+      "date": "2026-10-13",
+      "event": "Analyst moves from late Sep to mid-Oct: Baird cut its target to $70 (Neutral), Truist cut to $74 (Hold), and Barclays raised to $85 (Overweight, ~Oct 13). Shares fell from $61.82 (Oct 12 close) to $53.99 (Oct 16).",
+      "stock_reaction": "-12.7% over Oct 13-16 (my calculation from stockanalysis closes); cause not identified in sources reviewed"
+    },
+    {
+      "date": "2026-10-15",
+      "event": "Set the Q3 2026 report for Nov 4, 2026 after the close; consensus revenue ~$313M.",
+      "stock_reaction": "n/a"
+    }
+  ],
+  "notes": "Estimates and caveats: (1) total_debt = 0 because Cognex reports no borrowings; stockanalysis lists ~$72M of 'debt', likely lease liabilities. (2) cash_burn_annual = 0 because the company is free-cash-flow positive (FY2025 FCF $237M; TTM FCF ~$268M per stockanalysis). (3) ev_sales_forward 7.2 is my calculation: EV of ~$8.6B ($9.36B market cap minus $0.755B cash and investments) divided by ~$1.19B forward revenue, the figure implied by stockanalysis's forward P/S of 7.84 (Oct 23 data). Stockanalysis's own EV of $9.01B excludes $351M of non-current investments. Forward P/E 31.0 and P/S 8.6 are stockanalysis figures. (4) The 7% physical_ai_exposure figure is my pro-forma estimate including RealSense. (5) The 10-K discloses only a combined ~85% share for logistics, packaging, consumer electronics and automotive; the 15% remainder is implied. Geo mix is FY2025 from the 10-K. (6) Q2 2026 adjusted (non-GAAP) gross margin was 71.5% and adjusted operating margin 30.7%; latest_period uses GAAP figures. (7) Stock reactions marked 'my calculation' come from stockanalysis closing prices or prices quoted in articles; the RealSense-day move assumes the ~$61.99 Sep 21 close implied by the premarket quote. (8) Price is the Oct 26, 2026 close (after-hours $56.24). Consensus target $79.37 (20 analysts, 'Buy'). (9) The Investor Day date comes from the company's announcement title. (10) The search budget ran out during research, so a few items are marked 'not found'.",
+  "sources": [
+    {"title": "Cognex Q2 2026 earnings release (SEC 8-K Ex. 99.1)", "url": "https://www.sec.gov/Archives/edgar/data/0000851205/000085120526000061/a07052026-xex991xq22026ear.htm"},
+    {"title": "Cognex Q2 2026 press release (PDF)", "url": "https://s2.q4cdn.com/773500753/files/doc_earnings/2026/q2/earnings-result/cognex-press-release-q2-26.pdf"},
+    {"title": "Cognex Q1 2026 earnings release (SEC 8-K Ex. 99.1)", "url": "https://www.sec.gov/Archives/edgar/data/0000851205/000085120526000037/a04052026-xex991xq12026ear.htm"},
+    {"title": "Cognex Reports Fourth Quarter 2025 Results (Finviz/PR Newswire)", "url": "https://finviz.com/news/308123/cognex-reports-fourth-quarter-2025-results"},
+    {"title": "Cognex Q3 2025 press release (PDF)", "url": "https://s2.q4cdn.com/773500753/files/doc_earnings/2025/q3/earnings-result/cognex-press-release-q3-25.pdf"},
+    {"title": "Cognex FY2025 Form 10-K", "url": "https://www.sec.gov/Archives/edgar/data/851205/000085120526000012/cgnx-20251231.htm"},
+    {"title": "2025 Cognex Investor Day presentation", "url": "https://s2.q4cdn.com/773500753/files/doc_presentations/2025/06/2025-Cognex-Investor-Day.pdf"},
+    {"title": "MarketBeat: Cognex Q2 earnings call highlights", "url": "https://www.marketbeat.com/instant-alerts/cognex-q2-earnings-call-highlights-2026-08-06/"},
+    {"title": "Nasdaq/RTT: Cognex to buy RealSense for $500 mln", "url": "https://www.nasdaq.com/articles/cognex-buy-realsense-500-mln"},
+    {"title": "Robotics 24/7: Cognex acquires RealSense for $500M", "url": "https://www.robotics247.com/article/cognex-acquires-realsense-for-500m"},
+    {"title": "Stockanalysis: CGNX overview", "url": "https://stockanalysis.com/stocks/cgnx/"},
+    {"title": "Stockanalysis: CGNX statistics", "url": "https://stockanalysis.com/stocks/cgnx/statistics/"},
+    {"title": "Stockanalysis: CGNX price history", "url": "https://stockanalysis.com/stocks/cgnx/history/"},
+    {"title": "Cognex announces Q3 2026 earnings release and call dates (Finviz)", "url": "https://finviz.com/news/402914/cognex-announces-third-quarter-2026-earnings-release-and-conference-call-dates"},
+    {"title": "Motley Fool via Yahoo: This AI Stock Rocketed 39% to a 52-Week High (Feb 12, 2026)", "url": "https://finance.yahoo.com/news/ai-stock-bucking-bears-rocketed-171736369.html"},
+    {"title": "StockStory via Finviz: CGNX Q4 deep dive", "url": "https://finviz.com/news/309917/cgnx-q4-deep-dive-portfolio-optimization-and-ai-powered-growth-drive-outperformance"},
+    {"title": "StockStory via Finviz: CGNX Q3 2025 deep dive", "url": "https://finviz.com/news/213527/cgnx-q3-deep-dive-ai-product-rollout-and-end-market-shifts-shape-outlook"},
+    {"title": "AllInvestView: Cognex Q2 2026 earnings", "url": "https://www.allinvestview.com/earnings/CGNX/q2-2026/"},
+    {"title": "Zacks: Cognex down 9.8% since last earnings report", "url": "https://www.zacks.com/stock/news/2985273/cognex-cgnx-down-98-since-last-earnings-report-can-it-rebound"},
+    {"title": "Zacks via Eastern Progress: Cognex Q2 earnings beat on margin gains despite revenue miss", "url": "https://www.easternprogress.com/cognex-q2-earnings-beat-on-margin-gains-despite-revenue-miss/article_6568a150-8e8d-5a26-a901-8f6db6b16ad5.html"},
+    {"title": "247wallst: Cognex Q1 2026 earnings", "url": "https://247wallst.com/companies/cgnx/earnings/2026/Q1/"},
+    {"title": "247wallst: Cognex earnings trends", "url": "https://247wallst.com/companies/cgnx/earnings/trends"},
+    {"title": "Earnings Whispers: Cognex Q1 2026", "url": "https://www.earningswhispers.com/article/CGNX/2605063020"},
+    {"title": "Trefis: Cognex data", "url": "https://www.trefis.com/data/companies/cgnx"},
+    {"title": "Cognex conference call transcript, Dec 2025 (Investor Day targets restated)", "url": "https://financialfilings.com/filings/cognex-corp/call-transcript/2025/48455241/"}
+  ]
+}

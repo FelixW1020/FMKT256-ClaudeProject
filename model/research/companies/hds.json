@@ -1,0 +1,215 @@
+{
+ "id": "hds",
+ "name": "Harmonic Drive Systems Inc.",
+ "yahoo_symbol": "6324.T",
+ "adr_symbol": null,
+ "exchange": "Tokyo Stock Exchange (Prime since Feb 27, 2026)",
+ "reporting_currency": "JPY",
+ "fiscal_year_note": "Fiscal year ends March 31. Current year FY3/27 = Apr 2026 to Mar 2027 (company MTP calls it fiscal 2026). Q1 (Apr-Jun 2026) was released Aug 7, 2026 at 16:00 JST. H1 (Q2) results are expected around mid-November 2026 (prior year: Nov 12, 2025). Japanese GAAP. Overseas subsidiaries appear to be consolidated with a 3-month lag (Q1 FX rates match Jan-Mar averages).",
+ "price": {
+  "value": 5090,
+  "currency": "JPY",
+  "date": "2026-10-26",
+  "source_url": "https://finance.yahoo.co.jp/quote/6324.T"
+ },
+ "shares_outstanding_m": 94.67,
+ "market_cap_usd_bn": 3.07,
+ "cash_and_investments": 22.16,
+ "total_debt": 16.89,
+ "amount_unit": "JPY bn",
+ "latest_quarter": {
+  "label": "Q1 FY3/27 (Apr-Jun 2026)",
+  "report_date": "2026-08-07",
+  "revenue": 16.68,
+  "revenue_yoy_pct": 23.6,
+  "orders": 24.13,
+  "orders_yoy_pct": 55.7,
+  "operating_margin_pct": 11.0,
+  "net_income": 1.27
+ },
+ "last_fiscal_year": {
+  "label": "FY3/26 (Apr 2025-Mar 2026)",
+  "revenue": 59.56,
+  "operating_income": 2.57,
+  "net_income": 1.61,
+  "free_cash_flow": 0.73,
+  "rnd": null
+ },
+ "full_year_guidance": "FY3/27, raised Aug 7, 2026: net sales JPY 74.5bn (+25.1%; prior 68.0), operating profit JPY 8.5bn (11.4% margin; prior 6.2), ordinary profit JPY 8.2bn (prior 6.2), net profit JPY 6.0bn (prior 4.5), EPS JPY 63.38 (prior 47.54). H1 forecast: sales JPY 35.7bn, OP JPY 3.7bn, NP JPY 2.7bn. DPS JPY 20. FX assumptions: JPY 156.59/USD, 179.76/EUR, 22.52/CNY (prior 147.50, 170.00, 20.75). Plans: capex JPY 6.6bn (+37.6%), R&D JPY 4.0bn, D&A JPY 7.1bn. FY2030 medium-term targets (as summarized by FilingReader): sales above JPY 100bn, OP margin above 15%, ROIC/ROE above 10%.",
+ "fx_sensitivity": "No per-yen sensitivity disclosed. Q1 FY3/27 FX lifted operating profit by about JPY 269m (yen weaker vs EUR by about 14%, USD about 3%, CNY about 8% at the rates used). Our rough inference: about JPY 0.1bn of annual OP per 1% broad yen move, i.e. about 1.4% of the FY OP guide. Largest exposure is EUR via Harmonic Drive SE (Germany, about 28% of Q1 sales), then USD via the US subsidiary (about 18%). Guidance already assumes JPY 156.59/USD, close to spot.",
+ "valuation": {
+  "pe_forward": 80.3,
+  "ev_ebitda_forward": 30.5,
+  "pb": 5.92,
+  "source_url": "https://finance.yahoo.co.jp/quote/6324.T"
+ },
+ "dividend_yield_pct": 0.39,
+ "geo_revenue_mix_pct": {
+  "Japan": null,
+  "China": 6.1,
+  "Americas": 18.2,
+  "Europe": 27.5,
+  "Other Asia": null,
+  "Japan_plus_Other_Asia_est": 48.1
+ },
+ "segment_or_end_market_mix_pct": {
+  "Industrial robots (est., low confidence)": 29.5,
+  "Other applications (semiconductor equipment, machine tools, medical, AI robots, aerospace/defense, automotive, other)": 70.5
+ },
+ "physical_ai_exposure": {
+  "share_of_revenue_pct": 29.5,
+  "description": "Makes strain wave gears (HarmonicDrive), planetary reducers and mechatronic actuators used in robot joints; Toyo Keizai (Mar 2026) puts its share of the global small precision reducer market at 80-90%. A humanoid robot may use 6-10x as many reducers as a conventional industrial robot. 'AI robots' is a separate application category: in Nov 2025 the company said it was handling inquiries from about 15 AI-robot companies, one North American startup had moved to mass production, and it had started expanding North American capacity for AI robots. Industrial robots are an estimated ~30% of sales; AI/humanoid robot sales are not disclosed and appear small. Sep 2026: joint development with Riken NPR on next-generation resin strain wave gears.",
+  "optionality_notes": "The purest listed humanoid-component play in Japan. The stock ran from JPY 2,420 (Nov 2025 low) to a record JPY 9,150 on Jul 6, 2026 (about 3.8x) and still trades at about 80x forward EPS and 5.9x book. In May 2026 management replaced its medium-term plan because AI-robot adoption is running slower than assumed, while keeping the long-term view. The shares are now JPY 5,090 (-44% from the peak) and react sharply to humanoid news and AI sentiment (-11.6% on Oct 15, -9.6% on Oct 22, 2026)."
+ },
+ "cost_and_supply_chain_notes": "Operating leverage is high: OP margin went from 0.9% in Q1 FY3/26 to 11.0% in Q1 FY3/27 on +23.6% sales, helped by a better marginal profit ratio, partly offset by higher fixed manufacturing costs and SG&A. FY3/26 OP margin was only 4.3%. Capex plan JPY 6.6bn for FY3/27 (FY3/26: 4.8bn). Key inputs are special steels and precision machining capacity; the resin-gear project with Riken NPR aims at lighter, cheaper gears. Production sites (general knowledge, not verified this session): Japan (Nagano), Germany (Harmonic Drive SE, Limburg) and the US subsidiary (Massachusetts), which limits US tariff exposure for US-built product. The Q1 presentation reports Harmonic Drive SE sales +26.4%, US subsidiary +12.5%, China sales subsidiary -17.9% YoY.",
+ "competition_notes": "Chinese competitors are gaining on cost. Leaderdrive (Shanghai-listed) grew 2025 revenue 47% to CNY 570.7m with net profit CNY 124.4m; JPMorgan estimates its China strain-wave market share at 30-40%; 74% of its revenue is robotics/humanoid components and customers reportedly include UBTech and Agibot, with small R&D orders from Figure AI. Nabtesco has entered the small-to-mid-size reducer segment. HDS's China sales subsidiary revenue fell 17.9% YoY in Q1 FY3/27, which fits share pressure in China. HDS's basic patents have expired.",
+ "key_drivers": [
+  "Record orders: Q1 FY3/27 JPY 24.1bn (+55.7% YoY, +37.0% QoQ); book-to-bill 1.45",
+  "Operating leverage: OP margin 11.0% vs 0.9% a year earlier; FY guide 11.4% vs 4.3% in FY3/26",
+  "Demand from industrial robots and semiconductor equipment across all main applications (company); JARA robot orders +40% YoY in Apr-Jun 2026",
+  "Possible guidance raise at H1 results (mid-November) given orders running ahead of sales",
+  "Humanoid/AI-robot adoption: each humanoid uses many more reducers than an industrial robot",
+  "2030 targets: sales above JPY 100bn and OP margin above 15%"
+ ],
+ "key_risks": [
+  "Valuation: about 80x forward P/E, 5.9x P/B, 30x EV/EBITDA (our estimates)",
+  "Humanoid timeline slippage: MTP already revised for slower AI-robot adoption; JPMorgan sees Tesla Optimus ramp as cautious",
+  "Low-cost Chinese reducers (Leaderdrive and others) and Nabtesco in small/mid-size",
+  "Cyclicality of robot and semiconductor-equipment capex; FY3/26 OP margin was only 4.3%",
+  "Very high volatility: daily moves of 10% or more several times since July 2026",
+  "Controlling shareholder structure (company discloses an unlisted parent company)"
+ ],
+ "recent_events": [
+  {
+   "date": "2025-04-02",
+   "event": "US reciprocal-tariff announcement triggers a global equity sell-off.",
+   "stock_reaction": "April 2025: intraday low JPY 2,404 (-23.9% vs March close) before recovering; month +6.2% (3,160 to 3,355)"
+  },
+  {
+   "date": "2025-11-12",
+   "event": "H1 FY3/26 results beat company forecast (sales JPY 27.8bn vs 27.0bn; OP JPY 0.47bn vs 0.30bn). Nov 19 briefing: inquiries from about 15 AI-robot companies; one North American startup moved to mass production; North American AI-robot capacity expansion started.",
+   "stock_reaction": "Not found (52-week low JPY 2,420 set in November 2025; month +8.3%)"
+  },
+  {
+   "date": "2025-12-01",
+   "event": "Sector physical-AI rally (Fanuc-NVIDIA collaboration announced Dec 1).",
+   "stock_reaction": "December 2025: +22.3% m/m (3,090 to 3,780)"
+  },
+  {
+   "date": "2026-02-10",
+   "event": "Q3 FY3/26 results: 9M sales JPY 42.2bn (+4.5%), OP JPY 1.19bn vs a loss a year earlier; FY forecast kept (sales 57.0bn, OP 1.5bn). Moved to TSE Prime on Feb 27.",
+   "stock_reaction": "February 2026: +34.0% m/m"
+  },
+  {
+   "date": "2026-03-31",
+   "event": "Broad Japanese equity sell-off through March 2026.",
+   "stock_reaction": "March 2026: -23.9% m/m (4,555 to 3,465)"
+  },
+  {
+   "date": "2026-05-13",
+   "event": "FY3/26 results after close: record sales JPY 59.6bn (+7.0%), orders JPY 61.6bn (+16.2%), OP JPY 2.6bn; FY3/27 guidance sales JPY 68.0bn, OP 6.2bn; new FY2026-2030 plan replaces the old one because AI-robot social implementation is slower than assumed.",
+   "stock_reaction": "May 14: -7.7%; May 15: +10.4%; May 2026 +49.4% m/m"
+  },
+  {
+   "date": "2026-06-15",
+   "event": "Jefferies upgrades to Buy from Underperform, target JPY 10,000 (from 3,000); date approximate (about four months before Oct 16).",
+   "stock_reaction": "Not found"
+  },
+  {
+   "date": "2026-07-06",
+   "event": "Record intraday high JPY 9,150, followed by sharp sector sell-offs (Yaskawa's ERP-driven miss on Jul 10 hit peers).",
+   "stock_reaction": "July 2026: -21.2% m/m, incl. -10.1% on Jul 17 and -12.3% on Jul 28"
+  },
+  {
+   "date": "2026-08-07",
+   "event": "Q1 FY3/27 results (16:00): sales JPY 16.7bn (+23.6%), OP JPY 1.84bn (11.0% margin) vs 0.12bn, record orders JPY 24.1bn (+56%); FY guidance raised to sales JPY 74.5bn, OP 8.5bn, NP 6.0bn.",
+   "stock_reaction": "Aug 10 (next session): -10.9% (7,160 to 6,380)"
+  },
+  {
+   "date": "2026-09-18",
+   "event": "Joint development agreement with Riken NPR on next-generation resin strain wave gears (announced 18:00).",
+   "stock_reaction": "Sep 24 (next session after holidays): +2.4%"
+  },
+  {
+   "date": "2026-10-15",
+   "event": "Nikkei 225 -4.9% in an AI-related sell-off.",
+   "stock_reaction": "-11.6% (5,840 to 5,160)"
+  },
+  {
+   "date": "2026-10-22",
+   "event": "Robotics sell-off (cause not identified in sources; JPMorgan published a cautious note on the Tesla Optimus ramp on Oct 23).",
+   "stock_reaction": "-9.6% (5,390 to 4,875); rebounded +4.0% to 5,090 on Oct 26"
+  }
+ ],
+ "notes": "Price is the Oct 26, 2026 close (night PTS 5,250). Shares exclude 1.65m treasury shares (Jun 30, 2026); Yahoo Japan's JPY 490bn market cap uses issued shares. USD conversion at JPY 156.91/USD. Quarterly orders are read from a garbled chart and mapped by matching totals: FY3/26 quarters 15,501 / 14,018 / 14,476 / 17,617 (JPY m) sum to the reported 61,613; Q1 FY3/27 24,128. Balance sheet as of Jun 30, 2026: cash 22.07 + securities 0.09; debt = borrowings 12.25 + leases 4.64. FCF = operating CF 6.43 less PP&E purchases 5.69. FY3/26 R&D not found (FY3/27 plan JPY 4.0bn; Q1 JPY 0.93bn). Geo mix is our estimate from Q1 subsidiary sales (Harmonic Drive SE = Europe, US subsidiary = Americas, Shanghai sales subsidiary = China); the remaining 48% is parent and Japanese subsidiaries, covering Japan plus direct exports to the rest of Asia, and subsidiary figures likely run on a 3-month lag. The industrial-robot share (29.5%) assumes the first series in the garbled application chart is industrial robots (Q1 FY3/27 value 4,920 of 16,681); low confidence. pe_forward = 5,090 / company EPS 63.38 (Yahoo Japan 80.31x); pb from Yahoo Japan; ev_ebitda_forward is ours = (market cap + debt - cash) / (OP 8.5 + D&A 7.1). FX sensitivity is our inference from the Q1 FX effect. MTP numeric targets come from a FilingReader AI summary; the company notice itself did not list them in the text retrieved.",
+ "sources": [
+  {
+   "title": "HDS Q1 FY3/27 summary of consolidated results (EN)",
+   "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260807/20260807515063.pdf"
+  },
+  {
+   "title": "HDS Q1 FY3/27 results presentation (JP)",
+   "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260807/20260807515115.pdf"
+  },
+  {
+   "title": "HDS Q1 FY3/27 results presentation (EN translation)",
+   "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260819/20260819522970.pdf"
+  },
+  {
+   "title": "HDS FY3/26 summary of consolidated results (EN)",
+   "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260513/20260513529667.pdf"
+  },
+  {
+   "title": "HDS notice on revised and new medium-term plan (May 13, 2026)",
+   "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260513/20260513529751.pdf"
+  },
+  {
+   "title": "HDS 9M FY3/26 summary (EN)",
+   "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260210/20260210554165.pdf"
+  },
+  {
+   "title": "HDS H1 FY3/26 results presentation (Nov 19, 2025)",
+   "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251119/20251119506060.pdf"
+  },
+  {
+   "title": "Yahoo! Finance Japan 6324.T disclosures",
+   "url": "https://finance.yahoo.co.jp/quote/6324.T/disclosure"
+  },
+  {
+   "title": "Yahoo! Finance Japan 6324.T quote",
+   "url": "https://finance.yahoo.co.jp/quote/6324.T"
+  },
+  {
+   "title": "Yahoo! Finance Japan 6324.T price history",
+   "url": "https://finance.yahoo.co.jp/quote/6324.T/history"
+  },
+  {
+   "title": "stockanalysis.com HDS quote, news and history",
+   "url": "https://stockanalysis.com/quote/tyo/6324/"
+  },
+  {
+   "title": "FilingReader: HDS pivots to AI robotics and aerospace (May 13, 2026)",
+   "url": "https://filingreader.com/news-wire/tokyo/2026-05-13/harmonic-drive-pivots-to-ai-robotics-and-aerospace"
+  },
+  {
+   "title": "FilingReader: HDS FY3/26 results (May 19, 2026)",
+   "url": "https://filingreader.com/news-wire/tokyo/2026-05-19/harmonic-drive-sales-hit-record-despite-537-profit-drop"
+  },
+  {
+   "title": "FilingReader: HDS H1 FY3/26 beats forecasts (Nov 12, 2025)",
+   "url": "https://filingreader.com/news-wire/tokyo/2025-11-12/harmonic-drive-systems-beats-h1-forecasts-with-strong-profit-growth"
+  },
+  {
+   "title": "Toyo Keizai: HDS profile, 80-90% share (Mar 12, 2026)",
+   "url": "https://toyokeizai.net/articles/-/937653"
+  },
+  {
+   "title": "Forbes Japan: Leaderdrive and humanoid reducer demand",
+   "url": "https://forbesjapan.com/articles/detail/96356"
+  },
+  {
+   "title": "QNA: Nikkei plunges 3,318 points (Oct 15, 2026)",
+   "url": "https://qna.org.qa/en/News-Area/News/2026-10/15/japans-nikkei-index-plunges-over-3300-points-in-third-largest-drop-in-history"
+  }
+ ]
+}

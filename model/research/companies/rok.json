@@ -1,0 +1,171 @@
+{
+  "id": "rok",
+  "name": "Rockwell Automation, Inc.",
+  "yahoo_symbol": "ROK",
+  "exchange": "NYSE",
+  "reporting_currency": "USD",
+  "fiscal_year_note": "Fiscal year ends Sep 30. FY2026 = Oct 1, 2025 to Sep 30, 2026 (Q1 Oct-Dec, Q2 Jan-Mar, Q3 Apr-Jun, Q4 Jul-Sep). Q4/full-year FY2026 results and first FY2027 guidance are scheduled for Thursday Nov 5, 2026 (pre-market is Rockwell's usual timing); annual investor meeting Nov 18, 2026 alongside Automation Fair. The Sensia oil & gas JV (formerly in Lifecycle Services) was dissolved Apr 1, 2026, so reported growth trails organic growth by about 3 points in H2 FY2026.",
+  "price": {
+    "value": 429.89,
+    "currency": "USD",
+    "date": "2026-10-26",
+    "source_url": "https://stockanalysis.com/stocks/rok/"
+  },
+  "shares_outstanding_m": 111.05,
+  "market_cap_usd_bn": 47.74,
+  "cash_and_investments_bn": 0.479,
+  "total_debt_bn": 3.258,
+  "latest_quarter": {
+    "label": "Q3 FY2026 (Apr-Jun 2026, quarter ended Jun 30, 2026)",
+    "report_date": "2026-08-04",
+    "revenue_bn": 2.313,
+    "revenue_yoy_pct": 7.9,
+    "gross_margin_pct": 49.5,
+    "operating_margin_pct": 22.3,
+    "operating_margin_basis": "non-GAAP (enterprise operating margin; GAAP pre-tax margin was 20.3%)",
+    "eps": 3.65,
+    "eps_basis": "GAAP diluted",
+    "eps_adjusted": 3.49
+  },
+  "last_fiscal_year": {
+    "label": "FY2025 (Oct 1, 2024 to Sep 30, 2025)",
+    "revenue_bn": 8.342,
+    "operating_income_bn": 1.422,
+    "net_income_bn": 0.869,
+    "free_cash_flow_bn": 1.358,
+    "rnd_bn": 0.679
+  },
+  "ltm": {
+    "label": "12 months to Jun 30, 2026",
+    "revenue_bn": 8.973,
+    "operating_income_bn": 1.781,
+    "free_cash_flow_bn": 1.504
+  },
+  "cash_burn_annual_bn": 0,
+  "guidance": "FY2026 guidance (updated Aug 4, 2026): reported sales growth 7.5%-9.5% (about $9.0B at midpoint; divestitures about -1.5 pts, currency about +1.5 pts), organic growth 7.5%-9.5% (prior 5%-9%; initial Nov 2025 range 2%-6%), adjusted EPS $13.00-$13.30 (prior $12.50-$13.10; initial $11.20-$12.20), GAAP diluted EPS $12.72-$13.02, adjusted tax rate about 19.5%. On the Q3 call management added: FY26 enterprise operating margin about 21.5% (+~260 bps), about 100% free cash flow conversion, about $850M of buybacks, Q4 sales up low single digits sequentially with roughly flat enterprise margin (memory-chip inflation), FY26 capex about 3% of sales and FY27 capex higher but around 4%. FY2027 guidance due Nov 5, 2026.",
+  "consensus_next_fy": {
+    "label": "FY2027 (Oct 2026 to Sep 2027)",
+    "revenue_bn": 9.58,
+    "eps": 14.91,
+    "eps_basis": "adjusted (non-GAAP); 27-28 analysts; FY2026 consensus is revenue $9.06B and adjusted EPS $13.24",
+    "source_url": "https://stockanalysis.com/stocks/rok/forecast/"
+  },
+  "valuation": {
+    "pe_forward": 29.6,
+    "ev_sales_forward": 5.3,
+    "ev_ebitda_forward": 21.9,
+    "basis": "pe_forward from stockanalysis at the Oct 26, 2026 close (NTM basis; Yahoo shows 28.6). EV about $50.5B = market cap $47.74B + borrowings $3.26B - cash $0.48B. ev_sales_forward = EV / FY2027 consensus revenue $9.58B. ev_ebitda_forward is an ESTIMATE (see notes); trailing EV/EBITDA is 24.1x per stockanalysis.",
+    "source_url": "https://stockanalysis.com/stocks/rok/statistics/"
+  },
+  "beta_5y_monthly": 1.51,
+  "short_interest_pct_float": 3.31,
+  "geo_revenue_mix_pct": {
+    "North America": 64.1,
+    "EMEA": 17.5,
+    "Asia Pacific": 12.5,
+    "Latin America": 6.0
+  },
+  "segment_or_end_market_mix_pct": {
+    "Intelligent Devices": 46.7,
+    "Software & Control": 32.5,
+    "Lifecycle Services": 20.8
+  },
+  "physical_ai_exposure": {
+    "share_of_revenue_pct": null,
+    "description": "Industrial automation pure play: Logix controllers, drives, motion (including MagneMotion and iTRAK independent-cart technology), safety and sensing, FactoryTalk and Plex software, and OTTO/Clearpath autonomous mobile robots (AMRs). Intelligent Devices plus Software & Control were 79% of Q3 FY26 sales. Revenue from dedicated robotics (AMRs, independent cart) is not disclosed; on the Q3 FY26 call management said that business should post another year of strong double-digit growth and reach a clear path to profitability in Q4 FY26.",
+    "optionality_notes": "Picks-and-shovels supplier for physical AI in factories and warehouses: e-commerce/warehouse automation sales +30% in Q3 FY26, strong semiconductor and data-center demand (power distribution, chiller controls, Logix in central utility plants), OTTO AMR fleet software, AI software launches (FactoryTalk Conductor AI-native orchestration platform on Oct 21, 2026; NVIDIA Nemotron model support on Oct 22, 2026; generative AI across Plex), SecureOT industrial cybersecurity services, and an electrification partnership with Hitachi Energy (Oct 15, 2026)."
+  },
+  "backlog_or_pipeline": "Total backlog was $2,878M at Sep 30, 2025 (vs $3,091M a year earlier): Intelligent Devices $704M, Software & Control $654M, Lifecycle Services $1,520M (FY2025 10-K). The Jun 30, 2026 10-Q shows about $1,375M of unfulfilled performance obligations (about $820M within 12 months); this is a narrower measure than backlog, and Sensia's backlog left with the JV. Q3 FY26 book-to-bill was inside the normal range (Lifecycle Services 0.97); organic ARR +6% (below expectations), software ARR up high single digits. No order dollar figures are disclosed.",
+  "cost_and_supply_chain_notes": "About 10 principal manufacturing facilities, the most significant in the US, Mexico, Poland, India, Canada and Singapore; principal distribution centers in the US and the Netherlands; about 26,000 employees at Sep 30, 2025 (9k North America, 5k EMEA, 7k Asia Pacific, 5k Latin America). Broad supplier base but several single-source suppliers; rare-earth minerals flagged as a supply risk. Tariffs are managed with pricing, alternative sourcing and redundant manufacturing; the company expected tariff costs to be EPS-neutral in FY2026. FY26 price realization about 250 bps (about 100 bps tariff-related, about 150 bps underlying). Guidance excludes any IEEPA tariff refunds tied to the Supreme Court decision. Memory-chip inflation driven by data-center demand is a growing double-digit-million headwind in H2 FY26, concentrated in Software & Control margins. FY27 capex about 4% of sales includes a greenfield facility in New Berlin, Wisconsin.",
+  "debt_notes": "At Jun 30, 2026: short-term debt $686M, of which commercial paper $684M at a 3.89% weighted average rate with about 25-day average maturity (floating, rolls monthly); current portion of long-term debt $2M; long-term debt $2,570M (senior notes; coupon and maturity schedule not retrieved). Interest expense $33M in Q3 FY26 (vs $41M) and $101M for 9M FY26 (vs $119M); FY2025 interest expense, net $143M. In Nov 2025 the company replaced its $1.5B revolver with a new five-year $1.5B unsecured facility expiring Nov 2030 (SOFR-based, expandable by $750M). Sensia's $75M credit line and SLB loans were settled or assumed by SLB at the JV dissolution. Net debt about $2.8B, roughly 1.3x trailing EBITDA of $2.09B. Lease liabilities of about $0.35B are excluded from total_debt_bn.",
+  "customer_concentration": "No single end customer is disclosed as material. About 65% of global sales go through independent distributors; the two largest distributors were about 20% of total sales in each of FY2023-FY2025. Sales outside the US are less than half of the total; the largest non-US markets are Canada, China, Italy, the UK and Mexico.",
+  "key_drivers": [
+    "US manufacturing investment and reshoring: North America is 64% of sales and grew 12% organically in Q3 FY26; management expects it to be the fastest-growing region in FY26 and cites labor shortages and reshoring as automation drivers.",
+    "Discrete end markets: Q3 FY26 discrete sales up high teens, with e-commerce/warehouse +30%, strong semiconductor and data-center demand, and automotive up low double digits with early signs of renewed project activity; hybrid up mid-single digits (life sciences +10%); process up high single digits, led by energy.",
+    "Software & Control: organic sales +18% in Q3 FY26 with a 34.8% segment margin (31.6% a year earlier).",
+    "Margin expansion from productivity and pricing: enterprise operating margin 22.3% in Q3 FY26 vs 19.5%; FY26 target about 21.5% (+~260 bps); price about 250 bps in FY26.",
+    "Capital returns: about $850M of FY26 buybacks, about $1.2B of authorization left after Q3, dividend $1.38 per quarter (about 1.3% yield).",
+    "Catalyst: FY2027 guidance on Nov 5, 2026 against consensus FY27 revenue of $9.58B (+5.8%) and adjusted EPS of $14.91 (+12.7%).",
+    "Macro sensitivity: orders track US manufacturing capex and the ISM Manufacturing PMI (no current PMI reading was retrieved for this file); in the last industrial downturn FY2024 sales fell 8.8%.",
+    "AI and software product cycle: FactoryTalk Conductor (Oct 2026), NVIDIA Nemotron support, Plex generative AI, CompactLogix 5390 controller launch (Oct 13, 2026)."
+  ],
+  "key_risks": [
+    "Valuation: about 40x trailing GAAP EPS and about 29.6x forward P/E; the stock fell 7.4% on Aug 4, 2026 despite a beat and raise, and 5.4% on Feb 5, 2026 when the guidance midpoint sat below consensus.",
+    "Input inflation: memory-chip costs were called a growing double-digit-million headwind in H2 FY26, mainly in Software & Control, and management expects inflation to persist into FY27.",
+    "Project delays: greenfield projects are being delayed by tariffs and geopolitical uncertainty; Latin America fell 3% organically in Q3 FY26 and mining was down mid-single digits.",
+    "Weak recurring/services growth: Lifecycle Services -2% organic in Q3 FY26 with book-to-bill 0.97; organic ARR growth of 6% was below expectations.",
+    "Trade policy: plants in Mexico, Poland, India and Singapore; rare-earth supply risk; tariff pricing is meant to be EPS-neutral but customers may push back.",
+    "Channel concentration: the two largest distributors are about 20% of sales.",
+    "Cyclicality: FY2024 sales fell 8.8%, and backlog fell from $3.09B to $2.88B during FY2025.",
+    "Leadership transitions announced Sep 24, 2026 (details not retrieved)."
+  ],
+  "recent_events": [
+    {
+      "date": "2025-11-06",
+      "event": "Q4 FY2025 results: sales $2.316B (+14%, +13% organic), adjusted EPS $3.34 vs about $2.94 consensus; FY2025 sales $8.342B (+1%), adjusted EPS $10.53, FCF $1.358B. Initial FY2026 guidance: organic growth 2%-6%, adjusted EPS $11.20-$12.20.",
+      "stock_reaction": "+2.7% close to close (362.60 to 372.50); about +5% premarket"
+    },
+    {
+      "date": "2026-02-05",
+      "event": "Q1 FY2026 results: sales $2.105B (+12%, +10% organic), adjusted EPS $2.75 (+49%) vs about $2.46 consensus; FY26 adjusted EPS guidance moved to $11.40-$12.20, with the midpoint below the about $12.02 consensus.",
+      "stock_reaction": "-5.4% close to close (429.84 to 406.70); about -6.5% intraday"
+    },
+    {
+      "date": "2026-04-01",
+      "event": "Dissolution of the Sensia oil & gas JV with SLB completed; Rockwell received a $40M cash payment and booked a $20M pre-tax gain; Sensia had been part of Lifecycle Services.",
+      "stock_reaction": "not reported"
+    },
+    {
+      "date": "2026-05-05",
+      "event": "Q2 FY2026 results: sales $2.239B (+12%, +9% organic), adjusted EPS $3.30 vs $2.50 a year earlier; FY26 guidance raised to 5%-9% organic growth and adjusted EPS $12.50-$13.10.",
+      "stock_reaction": "+8.9% close to close (400.31 to 435.93)"
+    },
+    {
+      "date": "2026-06-09",
+      "event": "Board authorized a $1.0B share repurchase program (per MarketBeat).",
+      "stock_reaction": "not reported"
+    },
+    {
+      "date": "2026-08-04",
+      "event": "Q3 FY2026 results: sales $2.313B (+8%, +10% organic) vs about $2.24B consensus, adjusted EPS $3.49 vs about $3.38; FY26 guidance raised to 7.5%-9.5% growth and adjusted EPS $13.00-$13.30 (midpoint roughly in line with about $13.06 consensus).",
+      "stock_reaction": "-7.4% close to close (480.98 to 445.23) despite the beat and raise"
+    },
+    {
+      "date": "2026-09-24",
+      "event": "Announced executive leadership role transitions (details not retrieved).",
+      "stock_reaction": "flat (432.89 to 432.93)"
+    },
+    {
+      "date": "2026-10-21",
+      "event": "Launched FactoryTalk Conductor, an AI-native orchestration platform; on Oct 22 added NVIDIA Nemotron model support and announced Q4 FY26 results and FY27 guidance for early November (Nov 5).",
+      "stock_reaction": "+2.5% on Oct 21 and -3.3% on Oct 22 (sources did not attribute the moves to the news)"
+    }
+  ],
+  "notes": "Price, share count and market cap from stockanalysis.com (close Oct 26, 2026); the 10-Q cover shows 111,048,676 shares at Jun 30, 2026. total_debt_bn = short-term debt $0.686B + current long-term debt $0.002B + long-term debt $2.570B at Jun 30, 2026, excluding about $0.35B of lease liabilities (stockanalysis total debt including leases is $3.61B). cash_and_investments_bn is cash and equivalents only. cash_burn_annual_bn is 0 because free cash flow is positive (LTM +$1.50B). Q3 revenue growth is 7.9% reported (8% rounded) and 10% organic. last_fiscal_year.operating_income_bn ($1.422B) is stockanalysis' standardized operating income; Rockwell itself reports FY2025 segment operating earnings of $1.703B (20.4% margin) and GAAP pre-tax income of $0.917B, the latter depressed by about $0.26B of Lifecycle Services purchase accounting D&A and impairment. ltm figures are from stockanalysis and match hand calculations from company releases. R&D of $0.679B for FY2025 is from SEC XBRL data; the FY2025 10-K recast earlier years upward (FY2024 $0.658B vs $0.477B originally reported). ev_ebitda_forward 21.9x is an ESTIMATE: EV about $50.5B divided by an assumed FY2027 EBITDA of about $2.3B (about 22% enterprise margin on consensus revenue plus about $0.2B of non-acquisition D&A, scaled from Q3 FY26 adjusted EBITDA of $565M vs enterprise operating profit of $516M). Beta 1.51 is Yahoo 5Y monthly (stockanalysis 5Y: 1.50). Short interest 3.31% of float is stockanalysis' latest (undated); Yahoo shows 3.75% as of Aug 31, 2026. Geographic and segment mix are Q3 FY26 sales; full-year FY2025 mix was North America 63.2%, EMEA 17.8%, Asia Pacific 12.3%, Latin America 6.7% and Intelligent Devices 45.0%, Software & Control 28.6%, Lifecycle Services 26.4% (pre-Sensia exit). 52-week range $347.53-$497.36; 52-week change about +20%. Not retrieved because the search budget and hourly fetch limit ran out: Q1-Q3 FY2025 events, the bond coupon/maturity ladder, end-market mix percentages and a current ISM PMI reading.",
+  "sources": [
+    {"title": "Rockwell Automation Q3 FY2026 results (8-K Ex-99, Aug 4, 2026)", "url": "https://www.sec.gov/Archives/edgar/data/0001024478/000102447826000028/q3fy26ex99.htm"},
+    {"title": "Rockwell Automation Q2 FY2026 results (8-K Ex-99, May 5, 2026)", "url": "https://www.sec.gov/Archives/edgar/data/0001024478/000102447826000020/q2fy26ex99.htm"},
+    {"title": "Rockwell Automation Q1 FY2026 results (8-K Ex-99, Feb 5, 2026)", "url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447826000003/q1fy26ex99.htm"},
+    {"title": "Rockwell Automation Q4 and FY2025 results, FY2026 guidance (8-K Ex-99, Nov 6, 2025)", "url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447825000112/fy2025ex99.htm"},
+    {"title": "Rockwell Automation Form 10-K FY2025", "url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447825000116/rok-20250930.htm"},
+    {"title": "Rockwell Automation Form 10-Q for quarter ended Jun 30, 2026", "url": "https://www.sec.gov/Archives/edgar/data/0001024478/000102447826000030/rok-20260630.htm"},
+    {"title": "SEC XBRL: Rockwell ResearchAndDevelopmentExpense", "url": "https://data.sec.gov/api/xbrl/companyconcept/CIK0001024478/us-gaap/ResearchAndDevelopmentExpense.json"},
+    {"title": "Rockwell Automation Q3 FY2026 earnings call transcript (Earnings Whispers)", "url": "https://earningswhispers.com/transcript/ROK/Q32026"},
+    {"title": "StockAnalysis: ROK quote and news", "url": "https://stockanalysis.com/stocks/rok/"},
+    {"title": "StockAnalysis: ROK statistics", "url": "https://stockanalysis.com/stocks/rok/statistics/"},
+    {"title": "StockAnalysis: ROK forecast", "url": "https://stockanalysis.com/stocks/rok/forecast/"},
+    {"title": "StockAnalysis: ROK financials", "url": "https://stockanalysis.com/stocks/rok/financials/"},
+    {"title": "StockAnalysis: ROK price history", "url": "https://stockanalysis.com/stocks/rok/history/"},
+    {"title": "Yahoo Finance: ROK key statistics", "url": "https://finance.yahoo.com/quote/ROK/key-statistics/"},
+    {"title": "Yahoo Finance: ROK price history Nov 2025", "url": "https://finance.yahoo.com/quote/ROK/history/?period1=1762128000&period2=1762905600"},
+    {"title": "Yahoo Finance: ROK price history Feb 2026", "url": "https://finance.yahoo.com/quote/ROK/history/?period1=1769990400&period2=1770768000"},
+    {"title": "Yahoo Finance: ROK price history May 2026", "url": "https://finance.yahoo.com/quote/ROK/history/?period1=1777593600&period2=1778630400"},
+    {"title": "MarketBeat: Rockwell shares gap down (Aug 4, 2026)", "url": "https://www.marketbeat.com/instant-alerts/rockwell-automation-nyserok-shares-gap-down-heres-what-happened-2026-08-04/"},
+    {"title": "Finviz: Rockwell shares drop despite strong Q3 beat", "url": "https://finviz.com/news/376888/rockwell-automation-shares-drop-despite-strong-third-quarter-earnings-beat"},
+    {"title": "CoinCentral: ROK slides as profit outlook misses expectations (Feb 5, 2026)", "url": "https://coincentral.com/rockwell-automation-inc-rok-stock-slides-as-profit-outlook-misses-expectations/"},
+    {"title": "Seeking Alpha: Rockwell rises on earnings beat (Nov 6, 2025)", "url": "https://seekingalpha.com/news/4517241-rockwell-automation-rises-on-earnings-beat-from-factory-systems-and-software"},
+    {"title": "Zacks via Finviz: Rockwell Q4 earnings beat estimates (Nov 6, 2025)", "url": "https://finviz.com/news/221743/rockwell-automation-q4-earnings-beat-estimates-revenues-rise-yy"},
+    {"title": "Rockwell up 8.6% after raising 2026 guidance on strong Q2", "url": "https://insights.munich-startup.de/news/feed/rockwell-automation-up-8-6-after-raising-2026-guidance-on-strong-q2-results"},
+    {"title": "VectorShift: Rockwell financials (R&D and debt cross-check)", "url": "https://vectorshift.ai/research/companies/rockwell-automation/financials.html"}
+  ]
+}

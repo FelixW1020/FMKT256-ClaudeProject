@@ -1,0 +1,173 @@
+{
+  "id": "ter",
+  "name": "Teradyne, Inc.",
+  "yahoo_symbol": "TER",
+  "exchange": "NASDAQ (Global Select Market)",
+  "reporting_currency": "USD",
+  "fiscal_year_note": "FY = calendar year; fiscal quarters end on a Sunday near calendar quarter-end (Q1 2026 ended Mar 29, Q2 2026 ended Jun 28). Latest reported quarter is Q2 2026 (released Jul 28, 2026). Q3 2026 results are scheduled for today, Tue Oct 27, 2026, at or after 4:30 p.m. ET, with the call on Oct 28 at 8:30 a.m. ET, so they were not available for this file.",
+  "price": {
+    "value": 309.0,
+    "currency": "USD",
+    "date": "2026-10-26",
+    "source_url": "https://stockanalysis.com/stocks/ter/statistics/"
+  },
+  "shares_outstanding_m": 156.34,
+  "market_cap_usd_bn": 48.3,
+  "cash_and_investments_bn": 0.517,
+  "total_debt_bn": 0.0,
+  "latest_quarter": {
+    "label": "Q2 2026 (Apr-Jun 2026; quarter ended Jun 28, 2026)",
+    "report_date": "2026-07-28",
+    "revenue_bn": 1.329,
+    "revenue_yoy_pct": 103.9,
+    "gross_margin_pct": 59.8,
+    "operating_margin_pct": 33.7,
+    "operating_margin_basis": "non-GAAP (applies to operating margin and EPS; gross margin is 59.8% on both bases). GAAP operating margin 32.9% ($437.8M); GAAP diluted EPS $2.38 vs non-GAAP $2.47 (consensus ~$2.06-2.09).",
+    "eps": 2.47
+  },
+  "last_fiscal_year": {
+    "label": "FY2025 (Jan-Dec 2025)",
+    "revenue_bn": 3.19,
+    "operating_income_bn": 0.684,
+    "net_income_bn": 0.554,
+    "free_cash_flow_bn": 0.45,
+    "rnd_bn": null
+  },
+  "ltm": {
+    "revenue_bn": 4.464,
+    "operating_income_bn": 1.372,
+    "free_cash_flow_bn": 0.8
+  },
+  "guidance": "Q3 2026 (given Jul 28, 2026): revenue $1.20-1.30B; GAAP EPS $1.79-2.09; non-GAAP EPS $1.85-2.15; gross margin 58%-59%; non-GAAP operating margin 28%-30%. The midpoint was ~21% above the ~$1.03B consensus at the time. Management expects 2H 2026 growth over 1H in memory, auto/industrial, Integrated Systems Test, Product Test and Robotics, partly offset by mobile softness and compute order timing; it said in April that 1H would be 55%-60% of 2026 revenue. It expects 'renewed growth in 2027' (VIP compute next generation in early 2027; meaningful production share at a second cloud hyperscaler in 2027). Target model: ~$6B revenue and $9.50-11.00 non-GAAP EPS, 59%-61% gross margin, opex growth under half of revenue growth. Robotics: breakeven targeted for 2026 (Feb 2026 call) and expected to grow roughly in line with the company over the medium term. Street consensus for Q3 2026 (Yahoo): revenue $1.26B, EPS $2.05; Q4 2026: revenue $1.26B, EPS $2.02.",
+  "consensus_next_fy": {
+    "label": "FY2027 (calendar 2027)",
+    "revenue_bn": 6.3,
+    "eps": 11.75,
+    "source_url": "https://finance.yahoo.com/quote/TER/analysis/"
+  },
+  "valuation": {
+    "pe_forward": 32.6,
+    "ev_sales_forward": 7.6,
+    "ev_ebitda_forward": null,
+    "source_url": "https://stockanalysis.com/stocks/ter/statistics/"
+  },
+  "beta_5y_monthly": 1.75,
+  "geo_revenue_mix_pct": {
+    "Asia Pacific": 87.2,
+    "Americas": 8.2,
+    "EMEA": 4.6
+  },
+  "segment_or_end_market_mix_pct": {
+    "Semiconductor Test (SoC $843M, Memory $212M, Integrated Systems Test $67M)": 84.4,
+    "Product Test": 8.1,
+    "Robotics (Universal Robots + MiR)": 7.5
+  },
+  "physical_ai_exposure": {
+    "share_of_revenue_pct": 7.5,
+    "description": "Teradyne Robotics (Universal Robots collaborative arms and MiR autonomous mobile robots) had Q2 2026 revenue of $100M (+33% YoY, +9% QoQ; 7.5% of revenue; CEO calls it 'about 10%'). Trend: Q2 2025 $74.9M, Q3 2025 $75M (UR $62M, MiR $13M; flat QoQ and down YoY), Q4 2025 $89M (+19% QoQ), Q1 2026 $91M (+32% YoY), Q2 2026 $100M, five straight quarters of growth. Electronics manufacturing/semiconductor (incl. data-center hardware assembly) became the largest and fastest-growing robotics end market (+50% QoQ in Q2 2026). U.S. sales were 32% of Robotics, and a U.S. robotics manufacturing center is due to open in late 2026. A marquee e-commerce logistics customer's revenue tripled from 2025 to 2026, and management expects it to 'triple again' in 2027. Products and partners: UR Gen 7 platform launched Sep 14, 2026 (CB7 controller with 40% more compute, PolyScope X with open APIs/ROS2, AI-ready tool flange, new g-Series arms); Sereact partnership (Oct 21, 2026) running Cortex AI on UR arms with NVIDIA Jetson Thor, Isaac Sim and Cosmos, with hundreds of UR dual-arm systems already shipped; strategic investment in Bright Machines (Oct 5, 2026) for robotic assembly of AI-infrastructure hardware; UR claims 100,000+ industrial deployments. The larger AI exposure is indirect: AI drove over 60% of Q2 2026 revenue through testing GPUs, custom AI accelerators, HBM/DRAM and networking chips.",
+    "optionality_notes": "No analyst sum-of-the-parts valuing Robotics separately was found in the sources reviewed. Robotics is ~7.5% of revenue and has not been reported as profitable (breakeven targeted in 2026), so the ~$48B valuation rests mainly on AI-driven semiconductor test. Management calls physical AI 'probably the most important trend' for robotics over the next few years. Illustrative estimate (my assumption, not an analyst figure): at 2-4x LTM robotics sales (~$355M), Robotics would be worth ~$0.7-1.4B, or about 1.5%-3% of market cap."
+  },
+  "cost_and_supply_chain_notes": "Revenue is heavily Asia-weighted (Asia Pacific 87% in Q2 2026) because testers ship to OSAT and foundry test floors in Asia; Americas 8%, EMEA 5%. Robotics is building a U.S.-based manufacturing center (opening later in 2026), which reduces tariff exposure on U.S. robot sales (32% of Robotics revenue). Tariff costs were not quantified in the sources reviewed. Gross margin is mix-driven: 60.9% in Q1 2026, 59.8% in Q2, guided to 58%-59% for Q3 on product mix and new launches. Recent deals: MultiLane Test Products JV (75% controlling stake, $157.8M, Apr 8, 2026); Quantifi Photonics ($127.2M, May 31, 2025); Infineon ATE technology (EUR 17.6M, Jan 31, 2025); Technoprobe investment (amortization excluded from non-GAAP); agreed $300M strategic equity investment in FormFactor (October 2026, subject to approvals); undisclosed investment in Bright Machines (Oct 5, 2026). New products: Magnum E2 memory tester (Sep 29), Titan HP burn-in for AI data-center devices (Oct 6), UltraFLEXplus S for edge AI (Oct 12), Iris 100 for microLED.",
+  "debt_notes": "No borrowings at Jun 28, 2026. The revolving credit facility had $200M drawn at Dec 31, 2025; in 1H 2026 Teradyne borrowed $350M and repaid $550M, leaving zero outstanding. Interest expense was $3.0M in Q2 2026 ($6.1M for 1H) vs $0.8M a year earlier. Facility size, rate basis and maturity were not found (revolvers are usually floating-rate, unverified). Aggregators list $100.1M of 'total debt', probably lease liabilities. Liquidity is thin relative to new commitments: $517M of cash and marketable securities vs the $300M FormFactor investment; Q2 2026 free cash flow was $378M ($579M in 1H). Q2 2026 capital return: $69M buybacks, $20M dividends ($0.13/quarter).",
+  "customer_concentration": "High. In 2025 Teradyne had two customers above 10% of revenue as 'specifying' customers and one above 10% as a 'purchasing' customer, roughly 10% each (Q4 2025 call); the same three still exceeded 10% in Q1 2026. Compute (~70%-75% of SoC revenue) depends on a few AI chip programs: majority tester share at one cloud hyperscaler's custom XPU (dual-sourced since 2024), second-source qualification at a second hyperscaler (meaningful production share expected in 2027), and second-source status on a merchant GPU (initial part released early 2026 on a small tester fleet; ~$50M line of sight for 2026; goal of up to ~30% of that account's compute test over 3-5 years). Management says the segment is 'very concentrated, with only a few players driving significant ATE purchases' and has about 13 weeks of visibility.",
+  "key_drivers": [
+    "AI compute test: compute revenue up nearly 600% YoY in Q2 2026; AI drove >60% of Q2 revenue (nearly 70% in Q1)",
+    "Hyperscaler custom-silicon wins: majority share at one hyperscaler, production share at a second from 2027; each opportunity worth 'hundreds of millions of dollars of TAM to $1 billion of TAM' per year",
+    "Memory: record $212M in Q2 2026 with book-to-bill above 2; 2026 memory test TAM seen >40% above 2025; HBM 2027 expected to keep growing, 'not going to be a digestion'",
+    "Rising test intensity: semi test ~8% of semiconductor capex in early 2026 vs ~4% in 2023; ATE market seen reaching $20B+ over time; co-packaged optics test TAM ~$100M in 2026 rising to $300-700M by 2028",
+    "Robotics recovery: +33% YoY in Q2 2026; data-center electronics and e-commerce logistics demand; UR Gen 7; physical-AI partners on NVIDIA platforms; breakeven targeted in 2026",
+    "Target model: ~$6B revenue and $9.50-11.00 non-GAAP EPS vs 2026 consensus $5.14B and $9.10; 2027 consensus $6.3B and $11.75"
+  ],
+  "key_risks": [
+    "Order lumpiness and short visibility (~13 weeks); compute is 1H-weighted in 2026 with the next VIP generation in early 2027, so 2H 2026 and early 2027 could dip",
+    "Customer concentration: three customers at ~10% each, plus heavy reliance on a few AI accelerator programs",
+    "Competition from the incumbent tester vendor on GPU and accelerator programs; share gains are gradual over 3-5 years",
+    "Extreme stock volatility: beta 1.75; 58 trading days with moves of 6% or more since Jan 2025; -36.7% from the 52-week high of $487.91",
+    "AI capex cycle risk: chip stocks sold off in October 2026 (TER -30.5% from Oct 5 to Oct 22)",
+    "Geopolitics: 87% of revenue from Asia Pacific; export controls and tariffs could hit tester shipments or robot costs",
+    "Robotics profitability: still around breakeven at best; cobot demand tied to industrial capex; restructuring costs ($16.9M in 1H 2025, $6.5M in 1H 2026)",
+    "Capital allocation: $300M FormFactor stake and other investments against $517M of cash"
+  ],
+  "recent_events": [
+    {
+      "date": "2025-03-11",
+      "event": "Investor Day 2025 (cause of the drop not verified in sources reviewed)",
+      "stock_reaction": "-17.1% (close $87.07)"
+    },
+    {
+      "date": "2025-07-29",
+      "event": "Q2 2025 results (revenue $651.8M; Robotics $74.9M)",
+      "stock_reaction": "+18.9% next session (Jul 30, close $107.65)"
+    },
+    {
+      "date": "2025-10-28",
+      "event": "Q3 2025 results: revenue $769M; Robotics $75M (UR $62M, MiR $13M); Q4 guide $920M-1.0B; 2H 2025 view >50% above three months earlier on AI compute and memory",
+      "stock_reaction": "+20.5% next session (Oct 29, close $173.94)"
+    },
+    {
+      "date": "2026-02-02",
+      "event": "Q4/FY2025 results: Q4 revenue $1.083B, FY $3.19B (+13%); AI >60% of Q4 revenue; Robotics $89M (+19% QoQ) with breakeven targeted for 2026; Q1 2026 guide $1.15-1.25B",
+      "stock_reaction": "+13.4% next session (Feb 3, close $282.98)"
+    },
+    {
+      "date": "2026-04-28",
+      "event": "Q1 2026 results: revenue $1.282B (+87%), non-GAAP EPS $2.56; Robotics $91M (+32%); Q2 guide $1.15-1.25B; said 1H would be 55%-60% of 2026 revenue (implying a softer 2H) with limited 2H merchant-GPU visibility; $6B revenue target model",
+      "stock_reaction": "-19.4% next session (Apr 29, close $306.33), then +12.1% on Apr 30"
+    },
+    {
+      "date": "2026-07-28",
+      "event": "Q2 2026 results: revenue $1.329B (+104%) vs $1.22B consensus; non-GAAP EPS $2.47 vs ~$2.06; Q3 guide $1.20-1.30B vs ~$1.03B consensus; record memory revenue; Robotics $100M (+33%)",
+      "stock_reaction": "+4.4% premarket but -0.4% on Jul 29 (close $319.41), then +14.4% on Jul 30 (close $365.49)"
+    },
+    {
+      "date": "2026-09-14",
+      "event": "Universal Robots unveils Gen 7 platform at IMTS; Teradyne opens India office (cause of the drop not reported in sources reviewed)",
+      "stock_reaction": "-13.3% (close $329.20)"
+    },
+    {
+      "date": "2026-10-05",
+      "event": "Strategic investment in Bright Machines (Oct 5), Titan HP burn-in launch (Oct 6), UltraFLEXplus S launch (Oct 12), and an agreed $300M strategic equity investment in FormFactor (~Oct 12-13)",
+      "stock_reaction": "Shares slid from $444.53 (Oct 5) to $380.29 (Oct 13), -14.5%, amid chip-sector weakness"
+    },
+    {
+      "date": "2026-10-22",
+      "event": "Broad chip-stock selloff (Investopedia: 'Chip Stocks Tumble, Crushing Investor Hopes for a Long-Term Rebound'), a day after the Teradyne Robotics-Sereact physical AI partnership at NVIDIA GTC Berlin (Oct 21, +2.6%)",
+      "stock_reaction": "-10.6% (close $308.75); flat through Oct 26 ($309.00)"
+    },
+    {
+      "date": "2026-10-27",
+      "event": "Q3 2026 results scheduled after market close (consensus revenue ~$1.26B, EPS ~$2.05-2.08)",
+      "stock_reaction": "pending"
+    }
+  ],
+  "notes": "Price as of the Oct 26, 2026 close. Shares are from the Q2 2026 10-Q cover (156,340,750 at Jul 27, 2026); market cap = price x shares. cash_and_investments = cash $349.5M + current marketable securities $5.3M + noncurrent marketable securities $162.3M at Jun 28, 2026 (matches the CFO's $517M). total_debt is 0 borrowings; aggregators show $100.1M, probably leases. The latest quarter is Q2 2026 because Q3 2026 reports after today's close; anyone using this after Oct 27 should refresh latest_quarter, guidance and recent_events. FY2025 R&D (engineering and development) was not found; partial data: 1H 2025 $236.6M, 1H 2026 $291.8M, Q2 2026 $156.3M. FY2025 operating income ($0.684B) is the stockanalysis figure (Yahoo shows $0.689B). LTM figures are through Q2 2026 (stockanalysis). ev_sales_forward is computed: EV ~$47.8B / 2027 consensus revenue $6.3B (9.3x on 2026's $5.14B); forward EV/EBITDA not found (trailing 32.3x per stockanalysis). Forward P/E 32.6 is stockanalysis's; on 2026 consensus EPS ($9.10) it is 34.0x and on 2027 ($11.75) 26.3x. Yahoo key statistics showed a stale $62.3B market cap from an earlier price. 2026 consensus: revenue $5.14-5.15B, EPS $9.10; average target $445.47 (stockanalysis, 17 analysts, Buy) vs MarketBeat's $396.80 (Moderate Buy). Robotics FY2025 revenue is an estimate of ~$308M (~9.7% of revenue): Q1 2025 ~$69M backed out from Q1 2026's +32%, plus Q2 $74.9M, Q3 $75M and Q4 $89M. LTM robotics ~$355M (Q3 2025 to Q2 2026) is also derived. Robotics operating profit/loss was not disclosed in the sources reviewed. Background (not verified this session): Teradyne restructured the Robotics group in early 2025 with workforce reductions, which matches the higher 1H 2025 restructuring charges. The 'incumbent' merchant-GPU tester vendor is not named in the transcript (likely Advantest). The finanztrends.de 'Q3 Zahlen' article found in search covers Q3 2024 despite its label and was not used. The CEO sold 4,000 shares on Oct 15, 2026 under a 10b5-1 plan at ~$341. Stock went from $126.56 (Jan 2, 2025) to $193.56 at end-2025 (+52.9%); 2026 YTD +59.6%; 52-week range $135.83-$487.91.",
+  "sources": [
+    {"title": "Teradyne Q2 2026 results press release (8-K Exhibit 99.1, SEC)", "url": "https://www.sec.gov/Archives/edgar/data/0000097210/000119312526321933/ter-ex99_1.htm"},
+    {"title": "Teradyne Q1 2026 results press release (8-K Exhibit 99.1, SEC)", "url": "https://www.sec.gov/Archives/edgar/data/0000097210/000119312526188706/ter-ex99_1.htm"},
+    {"title": "Teradyne Form 10-Q, quarter ended Jun 28, 2026 (SEC)", "url": "https://www.sec.gov/Archives/edgar/data/0000097210/000119312526327715/ter-20260628.htm"},
+    {"title": "Business Wire: Teradyne Reports Second Quarter 2026 Results", "url": "https://www.businesswire.com/news/home/20260728522201/en/"},
+    {"title": "Ariva/Business Wire: Teradyne to Announce Third Quarter 2026 Results", "url": "https://www.ariva.de/news/teradyne-to-announce-third-quarter-2026-results-12168177"},
+    {"title": "MarketBeat: Teradyne Q2 2026 earnings call highlights", "url": "https://www.marketbeat.com/instant-alerts/teradyne-q2-earnings-call-highlights-2026-07-29/"},
+    {"title": "MarketBeat: Teradyne set to post Q3 earnings (consensus, analyst targets)", "url": "https://www.marketbeat.com/instant-alerts/upcoming-teradyne-ter-set-to-post-earnings-on-tuesday-2026-10-20/"},
+    {"title": "Finviz: Teradyne shares rise after record quarterly results and strong Q3 outlook", "url": "https://finviz.com/news/373906/teradyne-shares-rise-after-record-quarterly-results-and-strong-q3-outlook"},
+    {"title": "StockAnalysis: Teradyne Q2 2026 earnings call transcript", "url": "https://stockanalysis.com/stocks/ter/transcripts/656882-q2-2026/"},
+    {"title": "StockAnalysis: Teradyne Q1 2026 earnings call transcript", "url": "https://stockanalysis.com/stocks/ter/transcripts/550842-q1-2026/"},
+    {"title": "StockAnalysis: Teradyne Q4 2025 earnings call transcript", "url": "https://stockanalysis.com/stocks/ter/transcripts/396509-q4-2025/"},
+    {"title": "StockAnalysis: Teradyne Q3 2025 earnings call transcript", "url": "https://stockanalysis.com/stocks/ter/transcripts/368652-q3-2025/"},
+    {"title": "StockAnalysis: Teradyne at Goldman Sachs Communacopia + Technology Conference 2026", "url": "https://stockanalysis.com/stocks/ter/transcripts/740941-goldman-sachs-communacopia-technology-conference-2026/"},
+    {"title": "Business Wire: Universal Robots unveils Gen 7", "url": "https://www.businesswire.com/news/home/20260914974443/en/Universal-Robots-Unveils-Gen-7-a-New-Platform-for-Industrial-Automation-and-Physical-AI-Deployment/"},
+    {"title": "Business Wire: Teradyne Robotics and Sereact partner to scale physical AI", "url": "https://www.businesswire.com/news/home/20261021114068/en/Teradyne-Robotics-and-Sereact-Partner-to-Scale-Physical-AI-Solutions-for-Retail-and-Logistics/"},
+    {"title": "GlobeNewswire: Teradyne makes strategic investment in Bright Machines", "url": "https://www.globenewswire.com/news-release/2026/10/05/3374581/0/en/teradyne-makes-strategic-investment-in-bright-machines-to-advance-ai-infrastructure-manufacturing.html"},
+    {"title": "TipRanks/TheFly: FormFactor announces $300M investment from Teradyne", "url": "https://www.tipranks.com/news/the-fly/formfactor-announces-300m-investment-from-teradyne-thefly-news"},
+    {"title": "TipRanks/TheFly: Teradyne falls 9.8%", "url": "https://www.tipranks.com/news/the-fly/teradyne-falls-9-8-thefly-news"},
+    {"title": "StockAnalysis TER overview and news", "url": "https://stockanalysis.com/stocks/ter/"},
+    {"title": "StockAnalysis TER statistics", "url": "https://stockanalysis.com/stocks/ter/statistics/"},
+    {"title": "StockAnalysis TER financials", "url": "https://stockanalysis.com/stocks/ter/financials/"},
+    {"title": "StockAnalysis TER forecast", "url": "https://stockanalysis.com/stocks/ter/forecast/"},
+    {"title": "StockAnalysis TER price history", "url": "https://stockanalysis.com/stocks/ter/history/"},
+    {"title": "Yahoo Finance TER key statistics", "url": "https://finance.yahoo.com/quote/TER/key-statistics/"},
+    {"title": "Yahoo Finance TER analyst estimates", "url": "https://finance.yahoo.com/quote/TER/analysis/"},
+    {"title": "Yahoo Finance TER income statement", "url": "https://finance.yahoo.com/quote/TER/financials/"},
+    {"title": "Yahoo Finance TER historical prices (2025-2026)", "url": "https://finance.yahoo.com/quote/TER/history/?period1=1735689600&period2=1793059200"}
+  ]
+}

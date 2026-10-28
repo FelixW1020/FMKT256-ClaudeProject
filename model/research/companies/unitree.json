@@ -1,0 +1,160 @@
+{
+  "id": "unitree",
+  "name": "Unitree Robotics (Hangzhou Yushu Technology Co., Ltd.; listed as Yushu Technology)",
+  "yahoo_symbol": "688836.SS",
+  "exchange": "Shanghai Stock Exchange - STAR Market (SSE: 688836)",
+  "reporting_currency": "CNY",
+  "listing_date": "2026-08-19",
+  "fiscal_year_note": "Fiscal year = calendar year. Chinese Accounting Standards; STAR Market companies file Q1, H1, Q3 and annual reports. The latest reported period is Q2/H1 2026 (to Jun 30, 2026). The Q3 2026 report (due by Oct 31, 2026) was not yet out in the sources checked on Oct 27. STAR Market daily price limit is +/-20%. Quarterly figures come from stockanalysis.com. Q2 2025 contained a large loss (-RMB128M), likely share-based compensation (my inference): 2025 GAAP net income was RMB278M vs ~RMB600M adjusted per the prospectus coverage.",
+  "price": {
+    "value": 672.0,
+    "currency": "CNY",
+    "date": "2026-10-26",
+    "source_url": "https://stockanalysis.com/quote/sha/688836/history/"
+  },
+  "shares_outstanding_m": 404.46,
+  "market_cap_usd_bn": 40.65,
+  "cash_and_investments": 8.09,
+  "total_debt": 0.098,
+  "amount_unit": "CNY bn",
+  "latest_period": {
+    "label": "Q2 2026 (Apr-Jun 2026); H1 2026 revenue RMB1.152bn (+48.5%), net income RMB0.274bn",
+    "report_date": null,
+    "revenue": 0.7294,
+    "revenue_yoy_pct": 39.0,
+    "gross_margin_pct": 55.0,
+    "operating_margin_pct": 37.6,
+    "net_income": 0.224
+  },
+  "last_fiscal_year": {
+    "label": "FY2025 (Jan-Dec 2025)",
+    "revenue": 1.699,
+    "operating_income": 0.328,
+    "net_income": 0.2782,
+    "free_cash_flow": 0.6196,
+    "rnd": 0.13
+  },
+  "cash_burn_annual": 0.0,
+  "guidance": "No formal revenue or profit guidance found. The prospectus plan (filed 2026-03-20) targets capacity over five years of ~75,000 humanoids and ~115,000 quadrupeds per year, funded by IPO proceeds for R&D and manufacturing. Founder and CEO Wang Xingxing (World Physical AI Conference, Hangzhou, 2026-10-22) predicted a physical-AI breakthrough from large models within 1-2 years if things go well, otherwise 2-3 years. Per BigGo, he also said G1 output so far totals 10,000-20,000 units. JPMorgan (upgrade dated Oct 25, 2026) forecasts Unitree humanoid sales of 14,163 units in 2026, 31,701 in 2027 and 111,554 in 2028, with a Dec-2027 price target of RMB995 (raised from RMB300).",
+  "valuation": {
+    "pe_forward": 307,
+    "ev_sales_forward": null,
+    "price_to_sales_ltm": 131,
+    "source_url": "https://stockanalysis.com/quote/sha/688836/statistics/"
+  },
+  "geo_revenue_mix_pct": {
+    "Overseas (2022-2024 cumulative; 'over 55%')": 55,
+    "Mainland China (2022-2024, implied)": 45
+  },
+  "segment_or_end_market_mix_pct": {
+    "Humanoid robots (FY2025, % of core revenue)": 51.5,
+    "Quadruped robots, components and other (FY2025, implied remainder)": 48.5
+  },
+  "unit_volumes": "Humanoids: ~5,500 sold in 2025, >70% to research and education customers (prospectus coverage, Rest of World). Average humanoid selling price was ~RMB593,400 (~US$85k) in 2023 and ~RMB167,600 (~US$25k) in 2025. The CEO put cumulative G1 output at 10,000-20,000 units (Oct 2026, BigGo). Quadrupeds: >30,000 shipped cumulatively from 2022 to Sep 2025. Market position: AgiBot overtook Unitree as the top global humanoid vendor in H1 2026, shipping ~8,400 units for a 44% share (Smart Analytics Global via SCMP); Unitree's H1 2026 unit count was not found. JPMorgan forecasts 14,163 humanoid units in 2026.",
+  "physical_ai_exposure": {
+    "share_of_revenue_pct": 100,
+    "description": "Pure-play legged and humanoid robot maker. Humanoids were 51.5% of core revenue in 2025 (1.9% in 2023); the rest is quadrupeds (Go2, B2, A2, AS2), robot arms, joint motors and perception components. List prices on unitree.com (checked 2026-10-27, USD excluding tax and shipping): Go2 Air $1,600, Go2 Pro $2,800, Go2 X $4,500 (EDU by quote); G1 humanoid $13,500 base (EDU by quote; ~$16,000 at its 2024 launch); R1 Air $4,900, R1 $5,900; H2 (1.82 m, ~70 kg, 31 DOF) $29,900; H1 and H1-2 have no list price.",
+    "optionality_notes": "Lowest-cost humanoid platform at scale, so it benefits if large AI models can control robots (the 'physical AI' thesis behind the Oct 2026 rally). The installed base in research and education creates developer lock-in. It is a component supplier to other robot makers (joint motors, its own 4D LiDAR L2) and an ecosystem partner, for example using Hesai's JT128 lidar. IPO proceeds of ~RMB6.1bn fund capacity toward 75k humanoids and 115k quadrupeds per year."
+  },
+  "cost_and_supply_chain_notes": "Headquartered and manufacturing in Hangzhou. Core components are self-developed and made in-house: joint motors, reducers, controllers and Unitree-branded 4D LiDAR L2. Key inputs are NdFeB rare-earth permanent magnets in joint motors, compute chips, batteries and sensors (Hesai JT128 lidar on some platforms). Domestic magnet supply makes China's rare-earth export controls a smaller direct issue than for foreign rivals (my assessment). Capex was small at RMB50M in FY2025 and RMB103M TTM, giving a very asset-light, high-FCF model so far. Exports were >55% of revenue in 2022-2024 and still more than doubled in 2025, although domestic sales became the majority. That leaves real exposure to US/EU tariffs, potential US bans and FCC equipment rules, and to security-driven procurement restrictions. Researchers have flagged a vulnerability that streams audio, video and spatial data to outside servers without notice (Decrypt/DigitalToday).",
+  "regulatory_notes": "US: added to the Pentagon's Section 1260H 'Chinese military company' list in the June 8, 2026 update (TechCrunch). From 2027-06-30, DoD may not procure goods containing components from 1260H-listed companies (per drweb.de reporting on the 1260H regime). In May 2025 the House Select Committee on the CCP asked the FCC, Commerce and DoD to investigate Unitree's alleged PLA ties (Wikipedia). Reuters (Aug 18, 2026) reported on how US military funding propelled China's robot dogs (headline only). China: reports say regulators curbed or slowed humanoid-robot IPOs after Unitree's volatile debut (Reuters, Sep 9 and Sep 21, 2026, citing The Information; headlines only, articles not accessible). After a 30.5% cumulative price deviation over three sessions, Unitree filed an abnormal-volatility notice and warned of valuation risk on Oct 26, 2026, citing early-stage commercialization and technical hurdles (Caixin). Lock-ups: the 12-month lock-up on pre-IPO and most strategic holders expires in August 2027 (Caixin).",
+  "key_drivers": [
+    "Profitable hypergrowth: FY2025 revenue RMB1.70bn (+333%), GAAP net income RMB278M (~RMB600M adjusted), gross margin 59.5% and FCF RMB620M. H1 2026 revenue RMB1.15bn (+48.5%) with net income RMB274M; Q2 2026 operating margin 37.6%.",
+    "Price and cost leadership: G1 at $13.5k, R1 from $4.9k, H2 at $29.9k and Go2 from $1.6k. The average humanoid price fell ~72% from 2023 to 2025 while gross margin held at ~55-60%.",
+    "Physical-AI narrative and sell-side support: JPMorgan's double upgrade to Overweight (PT RMB995, implying ~48% upside from RMB672) and the founder's 1-3 year breakthrough call. Shares rose ~66% from the Oct 15 close (RMB405.10) to Oct 26 (RMB672) as 23 robot stocks hit limit-up on Oct 26.",
+    "Capacity expansion funded by ~RMB6.1bn of IPO proceeds, with a five-year plan of ~75k humanoids and ~115k quadrupeds per year.",
+    "Unit growth forecasts: JPMorgan sees humanoid sales of 14.2k (2026), 31.7k (2027) and 111.6k (2028).",
+    "Retail and thematic demand: 9.8M retail accounts bid for ~9.7M IPO shares (0.0181% allotment rate); RMB23.2bn traded on day one."
+  ],
+  "key_risks": [
+    "Extreme valuation: ~465x trailing P/E (vs an industry average of 38.5 per Caixin) and ~131x TTM sales. Market cap of ~RMB272bn is ~4.5x the RMB61bn IPO valuation.",
+    "Volatility: fell ~63% from the RMB1,100 day-one peak to the RMB404.03 intraday low on Oct 15, then rebounded ~66% in eight sessions. Oct 26 turnover was 37.7%, and the company itself warned of valuation risk.",
+    "Demand quality and margins: >70% of 2025 humanoid sales went to research and education rather than industrial deployment. Gross margin fell from 61.3% (Q2 2025) to 55.0% (Q2 2026) as prices dropped.",
+    "Competition: AgiBot overtook Unitree in H1 2026 humanoid shipments; UBTech, Tesla Optimus (Fremont production started) and a pipeline of Chinese humanoid IPOs compete.",
+    "US geopolitical exposure: 1260H listing, House scrutiny, security-vulnerability allegations and historically >55% export revenue raise tariff, ban and procurement risk.",
+    "Supply overhang and regulation: the lock-up expiry in Aug 2027 and Chinese regulators' caution on humanoid IPOs and speculation."
+  ],
+  "recent_events": [
+    {
+      "date": "2025-07-18",
+      "event": "Unitree started its IPO process (pre-listing tutoring filing), per a Reuters report cited by Wikipedia.",
+      "stock_reaction": "n/a (private)"
+    },
+    {
+      "date": "2026-03-20",
+      "event": "Filed its STAR Market prospectus seeking RMB4.2bn. Disclosed 2025 revenue of ~RMB1.71bn, ~RMB600M adjusted net profit, ~5,500 humanoids sold and humanoids at 51.5% of core revenue.",
+      "stock_reaction": "n/a (private)"
+    },
+    {
+      "date": "2026-06-08",
+      "event": "Added to the Pentagon's 1260H list of Chinese military companies (with Alibaba, Baidu and BYD).",
+      "stock_reaction": "n/a (pre-listing)"
+    },
+    {
+      "date": "2026-08-10",
+      "event": "IPO priced at RMB150.80/share, raising RMB6.1bn (US$904M) at a RMB60.99bn valuation. The retail allotment rate was 0.0181% (~1 in 5,500). IPO approval came in July 2026 per the task brief; the exact date was not verified.",
+      "stock_reaction": "n/a"
+    },
+    {
+      "date": "2026-08-19",
+      "event": "STAR Market debut: opened at RMB1,100 (+629% vs IPO price; ~RMB445bn / US$66bn value at the open) and closed at RMB845 (+460%; ~RMB342bn). About RMB23.2bn of shares traded.",
+      "stock_reaction": "+460% day one close vs IPO price (SCMP)"
+    },
+    {
+      "date": "2026-08-26",
+      "event": "Hit a record low of RMB571 intraday, 48% below the peak and ~RMB200bn of value lost; rebounded to RMB615.03 on Aug 27. SCMP said the slump stoked fears of a humanoid bubble.",
+      "stock_reaction": "-48% peak to trough in one week; +4.0% on Aug 27"
+    },
+    {
+      "date": "2026-09-09",
+      "event": "Reports said China curbed humanoid-robot IPOs after Unitree's volatile debut (Reuters/The Information); SCMP (~Sep 15) cited a 'US$30 billion stock wipe-off' spurring regulatory caution.",
+      "stock_reaction": "close RMB513.93 (-1.9%); slid to RMB470.00 by Sep 14 (stockanalysis closes)"
+    },
+    {
+      "date": "2026-10-15",
+      "event": "Post-IPO low: intraday RMB404.03, close RMB405.10 (still +169% vs the IPO price).",
+      "stock_reaction": "-3.5% on the day; ~-63% from the RMB1,100 peak"
+    },
+    {
+      "date": "2026-10-22",
+      "event": "At the World Physical AI Conference in Hangzhou, founder Wang Xingxing predicted a physical-AI breakthrough from large models within 1-3 years. On Oct 23 the stock hit the 20% daily limit.",
+      "stock_reaction": "+1.0% on Oct 22 (RMB520.00); +20.0% limit-up to RMB624.00 on Oct 23"
+    },
+    {
+      "date": "2026-10-26",
+      "event": "JPMorgan double upgrade from Underweight to Overweight (PT raised to RMB995 from RMB300) after the Hangzhou event. The stock hit an intraday high of RMB737.5 and turnover was 37.7%. After hours, the company filed an abnormal-volatility notice and warned of valuation risk.",
+      "stock_reaction": "+7.69% to RMB672.00 (market cap ~RMB271.8bn / ~US$40.7bn); about -2% to -3% midday Oct 27 (RMB651-658)"
+    }
+  ],
+  "notes": "(1) cash_and_investments 8.09 is my pro forma estimate: reported total cash and short-term investments of RMB1.986bn at Jun 30, 2026 (pre-IPO) plus RMB6.1bn gross IPO proceeds from Aug 2026, before issuance costs. Stockanalysis's EV (RMB180bn on Sep 30) excludes the IPO cash. (2) Shares: 404.46M post-IPO (stockanalysis), consistent with the RMB60.99bn IPO valuation / RMB150.80 = ~404.4M. Pre-IPO shares were 364.02M at Jun 30, so ~40.4M new shares were issued (my calculation). Market cap = RMB672.00 x 404.46M = RMB271.8bn; US$40.65bn at 6.6861 CNY/USD (Fed H.10, Oct 16). (3) Valuation (my calculations at RMB672): trailing P/E ~465x (RMB271.8bn / TTM net income RMB584M, matching Caixin's 465.2). Forward P/E ~307x, scaled from stockanalysis's 206x at RMB450.40. P/S LTM ~131x on TTM revenue RMB2.08bn; EV/TTM sales ~127x using pro forma net cash. Forward revenue consensus was not found, so ev_sales_forward is null. (4) FY2025 R&D of 0.13 is an estimate: Rest of World reported R&D at 7.7% of 2025 revenue and 19% of operating costs, both implying ~RMB130M, but garbled the absolute figure. (5) The latest-period report date is null because the H1 2026 report date was not verified. The +39.0% YoY growth and 55.0% gross margin are for Q2 2026 standalone. (6) Geo mix uses only the disclosed 2022-2024 export share ('over 55%'). In 2025 domestic revenue exceeded overseas, but the exact split was not found. (7) Financial history (CNY): revenue 2022 RMB123M, 2023 RMB159M, 2024 RMB393M (net income +RMB95M, first profitable year), 2025 RMB1,699M (Rest of World says RMB1.71bn); gross margin 2023 39.5%, 2024 54.6%, 2025 59.5%. Q1 2026 revenue RMB423M (+68.5%), net income RMB50M; Q2 2026 revenue RMB729M (+39.0%), net income RMB224M. TTM to Jun 2026: revenue RMB2.08bn, net margin 28.2%, operating margin 30.8%. (8) Product prices were checked directly on unitree.com on 2026-10-27; no list price is shown for H1/H1-2. (9) Employees: 516 (stockanalysis); 480 including 175 in R&D per prospectus coverage. (10) Caixin's AI-generated sidebar mentions a 36-month lock-up for DeepSeek, and an SCMP headline calls Unitree 'backed by DeepSeek'. Neither was verified. (11) Several SCMP, Reuters and CNBC articles could not be opened (blocked), so their items are marked as headlines. Search and fetch budgets were exhausted.",
+  "sources": [
+    {"title": "Stockanalysis: SHA:688836 (Yushu Technology) overview", "url": "https://stockanalysis.com/quote/sha/688836/"},
+    {"title": "Stockanalysis: SHA:688836 price history", "url": "https://stockanalysis.com/quote/sha/688836/history/"},
+    {"title": "Stockanalysis: SHA:688836 statistics", "url": "https://stockanalysis.com/quote/sha/688836/statistics/"},
+    {"title": "Stockanalysis: SHA:688836 annual financials", "url": "https://stockanalysis.com/quote/sha/688836/financials/"},
+    {"title": "Stockanalysis: SHA:688836 quarterly financials", "url": "https://stockanalysis.com/quote/sha/688836/financials/?p=quarterly"},
+    {"title": "Stockanalysis: SHA:688836 balance sheet (quarterly)", "url": "https://stockanalysis.com/quote/sha/688836/financials/balance-sheet/?p=quarterly"},
+    {"title": "Stockanalysis: SHA:688836 cash flow", "url": "https://stockanalysis.com/quote/sha/688836/financials/cash-flow-statement/"},
+    {"title": "Stockanalysis: SHA:688836 company profile", "url": "https://stockanalysis.com/quote/sha/688836/company/"},
+    {"title": "Yahoo Finance: 688836.SS", "url": "https://finance.yahoo.com/quote/688836.SS/"},
+    {"title": "Google Finance: 688836:SHA", "url": "https://www.google.com/finance/quote/688836:SHA?hl=en&window=5D"},
+    {"title": "SCMP: Unitree Robotics surges 629% to US$66 billion valuation in Shanghai debut", "url": "https://www.scmp.com/tech/tech-trends/article/3364499/unitree-robotics-surges-629-us66-billion-valuation-shanghai-share-debut"},
+    {"title": "SCMP: From chasing robots to chasing profits (IPO price, raise, valuation)", "url": "https://www.scmp.com/business/markets/article/3363998/chasing-robots-chasing-profits-numbers-moving-markets"},
+    {"title": "SCMP: Unitree's stock slump since IPO stokes fears of a bubble", "url": "https://www.scmp.com/tech/tech-trends/article/3365459/unitrees-stock-slump-ipo-stokes-fears-bubble-chinese-humanoid-robotics"},
+    {"title": "SCMP: AgiBot overtakes Unitree as top global humanoid robot vendor in first half", "url": "https://www.scmp.com/tech/tech-trends/article/3363544/agibot-overtakes-unitree-top-global-humanoid-robot-vendor-first-half-amid-ipo-push"},
+    {"title": "Rest of World: The world's largest humanoid robot maker is going public (prospectus coverage)", "url": "https://restofworld.org/2026/unitree-china-humanoid-robot-shanghai-ipo/"},
+    {"title": "Caixin Global: Unitree warns of valuation risks after shares surge more than 65%", "url": "https://www.caixinglobal.com/2026-10-27/unitree-warns-of-valuation-risks-after-shares-surge-more-than-65-102497621.html"},
+    {"title": "Decrypt via Yahoo Finance: Unitree stock jumps as investors bet chatbot AI will give robots a brain", "url": "https://finance.yahoo.com/technology/ai/articles/unitree-stock-jumps-investors-bet-211603763.html"},
+    {"title": "Digital Today: Unitree shares surge over 60% since mid-October after JPMorgan upgrade", "url": "https://www.digitaltoday.co.kr/en/view/119801/unitree-shares-surge-over-60-since-mid-october-after-jpmorgan-upgrade"},
+    {"title": "BigGo Finance: China's robot stocks surge, Unitree jumps 65% in 7 sessions", "url": "https://finance.biggo.com/news/635fd6a2-d409-48db-bbe5-9ff00ad51289"},
+    {"title": "TechCrunch: Pentagon says Alibaba, Baidu, BYD and Unitree support China's military", "url": "https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/"},
+    {"title": "Wikipedia: Unitree Robotics", "url": "https://en.wikipedia.org/wiki/Unitree_Robotics"},
+    {"title": "Unitree G1 product page", "url": "https://www.unitree.com/g1"},
+    {"title": "Unitree R1 product page", "url": "https://www.unitree.com/R1"},
+    {"title": "Unitree Go2 product page", "url": "https://www.unitree.com/go2"},
+    {"title": "Unitree H2 product page", "url": "https://www.unitree.com/H2"},
+    {"title": "Unitree H1 product page", "url": "https://www.unitree.com/h1"},
+    {"title": "Hesai Q2 2026 results (Unitree named as JT128 customer)", "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0818/2026081800438.pdf"},
+    {"title": "Federal Reserve H.10 exchange rates", "url": "https://www.federalreserve.gov/releases/h10/current/"}
+  ]
+}

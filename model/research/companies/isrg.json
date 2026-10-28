@@ -1,0 +1,151 @@
+{
+  "id": "isrg",
+  "name": "Intuitive Surgical, Inc.",
+  "yahoo_symbol": "ISRG",
+  "exchange": "NASDAQ (Global Select Market)",
+  "reporting_currency": "USD",
+  "fiscal_year_note": "FY = calendar year (Jan-Dec). Latest reported quarter is Q3 2026, released Oct 20, 2026. Next report (Q4/FY2026 and 2027 guidance) expected Jan 21, 2027 (Yahoo earnings date).",
+  "price": {
+    "value": 451.63,
+    "currency": "USD",
+    "date": "2026-10-26",
+    "source_url": "https://stockanalysis.com/stocks/isrg/statistics/"
+  },
+  "shares_outstanding_m": 346.64,
+  "market_cap_usd_bn": 156.6,
+  "cash_and_investments_bn": 6.8,
+  "total_debt_bn": 0.0,
+  "latest_quarter": {
+    "label": "Q3 2026 (Jul-Sep 2026)",
+    "report_date": "2026-10-20",
+    "revenue_bn": 3.0487,
+    "revenue_yoy_pct": 21.7,
+    "gross_margin_pct": 69.9,
+    "operating_margin_pct": 41.6,
+    "operating_margin_basis": "non-GAAP (applies to gross margin, operating margin and EPS). GAAP gross margin 68.4%; GAAP operating margin 19.4% ($592.6M) after a $450M antitrust settlement charge ($454.9M booked in SG&A); GAAP diluted EPS $1.49 (non-GAAP $3.00, vs $2.40 a year earlier).",
+    "eps": 3.0
+  },
+  "last_fiscal_year": {
+    "label": "FY2025 (Jan-Dec 2025)",
+    "revenue_bn": 10.065,
+    "operating_income_bn": 2.946,
+    "net_income_bn": 2.856,
+    "free_cash_flow_bn": 2.491,
+    "rnd_bn": null
+  },
+  "ltm": {
+    "revenue_bn": 11.578,
+    "operating_income_bn": 3.285,
+    "free_cash_flow_bn": 3.598
+  },
+  "guidance": "FY2026 (updated Oct 20, 2026): worldwide da Vinci procedure growth 14%-15%, expected near the midpoint (narrowed from 13.5%-15.5% in April and 13%-15% in January); non-GAAP gross margin 68.7%-69.3%, including ~0.9% of revenue net tariff impact after refunds (January guide was 67%-68% with a 1.2% tariff hit; April was 67.5%-68.5% with 1.0%); non-GAAP opex growth 11%-13%; stock-based comp $860-870M; other income $300-310M; Q4 non-GAAP tax rate 22% +/-0.5 pt. Pricing changes ahead: (1) China charge-code policy changes will cut I&A prices in China 'significantly' starting November 2026; (2) an expanded extended-use instrument program starting 1H 2027 (U.S. first, pending 510(k) clearance; Europe 2H 2027) will lower da Vinci I&A revenue per procedure by ~3%-5% on a constant-mix basis once fully implemented, building through 2027. Long-term non-GAAP operating margin framework 35%-40% (1H 2026 ran at 41%), so excess margin may be reinvested. 2027 guidance will come in January 2027. Consensus Q4 2026 (Yahoo): revenue $3.23B, EPS $2.95.",
+  "consensus_next_fy": {
+    "label": "FY2027 (calendar 2027)",
+    "revenue_bn": 13.33,
+    "eps": 12.43,
+    "source_url": "https://finance.yahoo.com/quote/ISRG/analysis/"
+  },
+  "valuation": {
+    "pe_forward": 37.49,
+    "ev_sales_forward": 11.2,
+    "ev_ebitda_forward": null,
+    "source_url": "https://stockanalysis.com/stocks/isrg/statistics/"
+  },
+  "beta_5y_monthly": 1.46,
+  "geo_revenue_mix_pct": {
+    "United States": 67.7,
+    "Outside the U.S.": 32.3
+  },
+  "segment_or_end_market_mix_pct": {
+    "Instruments and accessories": 59.0,
+    "Systems": 25.2,
+    "Services": 15.8
+  },
+  "physical_ai_exposure": {
+    "share_of_revenue_pct": 100,
+    "description": "All revenue comes from robot-assisted surgery and robotic bronchoscopy: da Vinci multiport (Xi and da Vinci 5), da Vinci SP, and Ion. Installed base at Sep 30, 2026: 12,094 da Vinci systems (+12%, including 2,000+ da Vinci 5) and 1,152 Ion (+21%); customers averaged 10,000+ procedures per day in Q3. Q3 2026: 546 da Vinci placements (+28%; U.S. 335, OUS 211), including 315 da Vinci 5 and a record 42 SP; 56 Ion placements; 291 placements under operating leases (160 usage-based). da Vinci 5 handled more than a quarter of U.S. procedures in Q3 (13% a year earlier) and runs above installed-base utilization. Average purchased system price is ~$1.6M. Recurring revenue (instruments, services, leases) was 86% of revenue in Q1 2026. Q3 procedure growth: da Vinci +14% (U.S. +10%, OUS +20%; Europe +20%, Asia +19%, rest of world +22%), Ion +31%.",
+    "optionality_notes": "Robotics is the whole business, so there is no separate 'robotics optionality' to carve out. Upside optionality: AI features (voice-activated UI, automated fourth-arm control); CEO Dave Rosa said 'AI controlled motion and surgery has the potential to improve efficiency and outcomes' but that adoption is early and must earn the confidence of regulators and surgeons; several telesurgery clearances are expected in 1H 2028; da Vinci 5 is cleared for cardiac procedures in the U.S., Europe, India, Japan and Korea; Intuitive plans to accelerate expansion into countries it does not serve today in 2027. No analyst sum-of-the-parts was found in the sources reviewed. The market pays ~37.5x forward earnings (40x 2026 and 36x 2027 consensus EPS), a premium to typical medtech, for the durability of the procedure-driven razor/razor-blade model."
+  },
+  "cost_and_supply_chain_notes": "Tariff-related risk factors name Mexico (where most instruments and accessories are made), Germany (endoscopes) and China (certain imported materials). The 2026 gross margin guide includes ~0.9% of revenue net tariff impact (down from 1.2% guided in January); Q3 2026 included a $28M one-time refund of IEEPA tariffs ($22M after tax, $0.06/share). Guidance assumes tariffs in effect persist through year-end; the company warns additional tariffs could be material. In April 2026 higher freight and semiconductor memory costs partly offset lower tariffs. In China, products are made and sold through the Intuitive Surgical-Fosun Medical Technology (Shanghai) joint venture (majority-owned; $131.6M noncontrolling interest). On Mar 1, 2026 Intuitive acquired its da Vinci and Ion distributors in Italy, Spain, Portugal, Malta and San Marino for ~$533M net, moving to direct sales there.",
+  "debt_notes": "No borrowings: no debt on the balance sheet and no interest expense line (leases not counted here). Interest and other income, net, was $75.8M in Q3 2026 ($243.6M for 9M); 2026 other income guided at $300-310M. Cash, cash equivalents and investments fell to $6.80B at Sep 30, 2026 (from $9.03B at Dec 31, 2025) after heavy buybacks: 7.8M shares for $2.94B in Q3 2026 (average ~$377/share).",
+  "customer_concentration": "No customer at 10% or more of revenue was disclosed in the sources reviewed; customers are hospitals and health systems worldwide. Geographic concentration: the U.S. was 67.7% of Q3 2026 revenue ($2.063B, +20% YoY); OUS $0.986B (+25%). U.S. bariatrics is now 'a little bit over 2%' of global da Vinci procedures. The pending $450M class settlement covers U.S. customers' claims about third-party instrument remanufacturing and servicing.",
+  "key_drivers": [
+    "Procedure growth: da Vinci +14% in Q3 2026 and 14%-15% guided for 2026, with OUS (+20%) outpacing the U.S. (+10%)",
+    "da Vinci 5 upgrade cycle: 315 of 546 Q3 placements; 870 placed in 2025; 2,000+ installed; >25% of U.S. procedures; OUS da Vinci 5 placements rose from 12 to 41 YoY",
+    "Capital strength: Q3 systems revenue +30% to $769M; U.S. net placements +41%; record SP placements (42)",
+    "Ion lung biopsy: procedures +31%, installed base +21%",
+    "Margins: non-GAAP gross margin 69.9% and operating margin 41.6% in Q3 2026; tariff headwind easing (1.2% of revenue guided in Jan to ~0.9%)",
+    "Japan reimbursement changes in June 2026 are accelerating procedure growth; direct distribution in Italy/Spain/Portugal since March 2026",
+    "Capital return: $2.94B buyback in Q3 2026 near the July lows"
+  ],
+  "key_risks": [
+    "Pricing: China I&A price cut from November 2026 plus 2027 extended-use instruments (~3%-5% lower I&A revenue per procedure) will weigh on 2027 revenue growth",
+    "U.S. deceleration: U.S. da Vinci procedure growth slowed to 10% in Q3 2026 (15% in 2025); the U.S. is ~60% of procedures",
+    "GLP-1 drugs: U.S. da Vinci bariatric procedures fell ~10% in Q1 2026, attributed to GLP-1 use; management calls it a 'stable decline' that 'hasn't yet approached zero'",
+    "China: low tender volumes, intense local robotic competition and lower win rates; only 4 placements in Q1 2026 (17 in Q4 2025); ~250 systems left in the current quota",
+    "Competition: Medtronic Hugo (U.S. urology launch), modular systems in ambulatory surgery centers, and Chinese local players",
+    "Tariffs on Mexico-made instruments and German endoscopes; legal: the $450M antitrust settlement still needs court approval (decision expected 2027)",
+    "Hospital capital budgets and U.S. policy (management says it is too early to judge 340B effects on capital); 2026 YTD stock is down ~20%"
+  ],
+  "recent_events": [
+    {
+      "date": "2025-04-09",
+      "event": "U.S. 'reciprocal' tariff announcements (Apr 2) then 90-day pause (Apr 9); Intuitive flagged tariff costs on Mexico-made instruments (event causes from background knowledge)",
+      "stock_reaction": "-8.7% on Apr 4 (close $451.58); +14.3% on Apr 9 (close $522.95)"
+    },
+    {
+      "date": "2025-10-21",
+      "event": "Q3 2025 results: revenue $2.51B; 427 da Vinci placements including 240 da Vinci 5",
+      "stock_reaction": "+13.9% next session (Oct 22, close $527.03), then +4.6% on Oct 23"
+    },
+    {
+      "date": "2026-01-22",
+      "event": "Q4/FY2025 results: FY revenue $10.1B (+21%), da Vinci procedures +18% (U.S. +15%, OUS +23%), 870 da Vinci 5 placed in 2025; 2026 guide 13%-15% procedure growth, 67%-68% gross margin incl. 1.2% tariff hit; China competition 'intensified'",
+      "stock_reaction": "Under 4% either way on Jan 23 (not caught by a >=4% screen of Yahoo daily closes)"
+    },
+    {
+      "date": "2026-03-01",
+      "event": "Closed acquisition of da Vinci/Ion distribution businesses in Italy, Spain, Portugal, Malta and San Marino (~$533M net cash)",
+      "stock_reaction": "n/a"
+    },
+    {
+      "date": "2026-04-21",
+      "event": "Q1 2026 results: revenue $2.77B (+23%); da Vinci procedures +16%; raised 2026 procedure guide to 13.5%-15.5% and gross margin to 67.5%-68.5%; tariff hit cut to 1.0%; U.S. bariatrics -10% on GLP-1s; only 4 China placements",
+      "stock_reaction": "+7.2% next session (Apr 22, close $483.62)"
+    },
+    {
+      "date": "2026-07-16",
+      "event": "Q2 2026 results. Around this report management described China charge-code policy changes that will cut China I&A prices and was preparing the 2027 extended-use instrument program (announced May, quantified in Q3); the drop's exact cause was not confirmed in sources reviewed",
+      "stock_reaction": "-14.1% next session (Jul 17, close $345.42); stock had also fallen 6.8% on Jul 14"
+    },
+    {
+      "date": "2026-09-09",
+      "event": "Wells Fargo Healthcare Conference: U.S. bariatrics down to ~2% of global da Vinci procedures; reaffirmed 35%-40% long-term operating margin target; ~250 systems left in China quota; Medtronic urology launch not yet changing U.S. selling cycles",
+      "stock_reaction": "+0.9% (close $353.24)"
+    },
+    {
+      "date": "2026-10-20",
+      "event": "Q3 2026 results: revenue $3.05B (+22%), non-GAAP EPS $3.00 (+25%), da Vinci procedures +14%, 546 placements (+28%); $450M one-time antitrust class settlement plus injunctive relief; extended-use program quantified at 3%-5% lower I&A revenue per procedure in 2027; 2026 procedure guide narrowed to 14%-15%",
+      "stock_reaction": "-2.3% next session (Oct 21, close $428.12), then +3.7% Oct 22 and +1.9% Oct 23"
+    }
+  ],
+  "notes": "Price as of the Oct 26, 2026 close (an intraday Yahoo quote on Oct 27 showed $455.52). Shares are from the 10-Q cover (346,643,718 at Oct 15, 2026). cash_and_investments = cash $2,978.1M + short-term investments $1,064.4M + long-term investments $2,757.9M. total_debt is 0: no borrowings appear on the balance sheet; aggregators show 'n/a'. FY2025 R&D was not found; partial data: R&D was $958.9M in 9M 2025, $1,140.8M in 9M 2026 (+19%) and $408.3M in Q3 2026. FY2025 operating income ($2.946B) is GAAP (Yahoo shows $2,945.5M). LTM operating income ($3.285B GAAP) is computed: FY2025 $2,946M - 9M 2025 $2,081.2M + 9M 2026 $2,419.8M; it includes the ~$455M Q3 2026 litigation charge. Stockanalysis shows $3.67B (different treatment). LTM FCF ($3.598B) is from stockanalysis and was not checked against the cash flow statement. ev_sales_forward is computed: EV ~$149.8B (market cap - $6.80B cash; no debt) / FY2027 consensus revenue $13.33B. Forward EV/EBITDA was not found (trailing EV/EBITDA 34.1x per stockanalysis). FY2026 consensus: revenue $11.92B (+18.4%), EPS $11.25. Average price target $478.30 (Yahoo); stockanalysis shows a Buy consensus, median target $485.5, range $324-$685. The GLP-1 commentary comes from the Q1 2026 call and the Sep 2026 Wells Fargo conference; neither the Q3 2026 release nor the call mentioned GLP-1. Event causes for Apr 2025 are background knowledge; % moves are computed from Yahoo daily closes. The Q2 2026 call transcript could not be retrieved, so the Jul 17, 2026 drop is not fully explained. Stock went from $524.03 (Jan 2, 2025) to $566.36 at end-2025 (+8.1%); 2026 YTD -20.3%, but up ~31% from the Jul 17 close.",
+  "sources": [
+    {"title": "Intuitive Q3 2026 earnings release (8-K Exhibit 99.1, SEC)", "url": "https://www.sec.gov/Archives/edgar/data/0001035267/000103526726000067/q326ex-991earningsrelease.htm"},
+    {"title": "Intuitive Form 10-Q, quarter ended Sep 30, 2026 (SEC)", "url": "https://www.sec.gov/Archives/edgar/data/0001035267/000103526726000071/isrg-20260930.htm"},
+    {"title": "BioSpace: Intuitive announces third quarter 2026 earnings", "url": "https://www.biospace.com/press-releases/intuitive-announces-third-quarter-2026-earnings"},
+    {"title": "Earnings Whispers: ISRG Q3 2026 call transcript", "url": "https://www.earningswhispers.com/transcript/ISRG/Q32026"},
+    {"title": "StockAnalysis: ISRG Q3 2026 earnings call transcript", "url": "https://stockanalysis.com/stocks/isrg/transcripts/709779-q3-2026/"},
+    {"title": "StockAnalysis: ISRG Q1 2026 earnings call transcript", "url": "https://stockanalysis.com/stocks/isrg/transcripts/544923-q1-2026/"},
+    {"title": "StockAnalysis: ISRG Q4 2025 earnings call transcript", "url": "https://stockanalysis.com/stocks/isrg/transcripts/400878-q4-2025/"},
+    {"title": "StockAnalysis: ISRG at Wells Fargo 21st Annual Healthcare Conference", "url": "https://stockanalysis.com/stocks/isrg/transcripts/737703-wells-fargo-21st-annual-healthcare-conference/"},
+    {"title": "StockAnalysis ISRG statistics", "url": "https://stockanalysis.com/stocks/isrg/statistics/"},
+    {"title": "StockAnalysis ISRG financials", "url": "https://stockanalysis.com/stocks/isrg/financials/"},
+    {"title": "StockAnalysis ISRG forecast", "url": "https://stockanalysis.com/stocks/isrg/forecast/"},
+    {"title": "StockAnalysis ISRG price history", "url": "https://stockanalysis.com/stocks/isrg/history/"},
+    {"title": "Yahoo Finance ISRG quote", "url": "https://finance.yahoo.com/quote/ISRG/"},
+    {"title": "Yahoo Finance ISRG analyst estimates", "url": "https://finance.yahoo.com/quote/ISRG/analysis/"},
+    {"title": "Yahoo Finance ISRG income statement", "url": "https://finance.yahoo.com/quote/ISRG/financials/"},
+    {"title": "Yahoo Finance ISRG historical prices (2025-2026)", "url": "https://finance.yahoo.com/quote/ISRG/history/?period1=1735689600&period2=1793059200"}
+  ]
+}

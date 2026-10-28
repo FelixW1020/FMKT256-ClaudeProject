@@ -1,0 +1,166 @@
+{
+  "id": "nvda",
+  "name": "NVIDIA Corporation",
+  "yahoo_symbol": "NVDA",
+  "exchange": "NASDAQ (Global Select Market)",
+  "reporting_currency": "USD",
+  "fiscal_year_note": "FY ends on the last Sunday of January. FY2026 ended Jan 25, 2026; FY2027 ends Jan 31, 2027; FY2028 roughly equals calendar 2027. Latest reported quarter is Q2 FY2027 (ended Jul 26, 2026); Q3 FY2027 report expected Nov 17, 2026 (Yahoo earnings date).",
+  "price": {
+    "value": 216.00,
+    "currency": "USD",
+    "date": "2026-10-26",
+    "source_url": "https://stockanalysis.com/stocks/nvda/statistics/"
+  },
+  "shares_outstanding_m": 24150,
+  "market_cap_usd_bn": 5216.4,
+  "cash_and_investments_bn": 56.6,
+  "total_debt_bn": 33.4,
+  "latest_quarter": {
+    "label": "Q2 FY2027 (May-Jul 2026; quarter ended Jul 26, 2026)",
+    "report_date": "2026-08-26",
+    "revenue_bn": 96.221,
+    "revenue_yoy_pct": 105.9,
+    "gross_margin_pct": 75.0,
+    "operating_margin_pct": 66.5,
+    "operating_margin_basis": "non-GAAP (applies to operating margin and EPS; gross margin is 75.0% on both bases). GAAP operating margin 66.2% (GAAP operating income $63.734B); GAAP diluted EPS $2.46, lifted above non-GAAP by $7.77B of gains on equity securities. Since Q1 FY2027 NVIDIA's non-GAAP figures include stock-based compensation.",
+    "eps": 2.22
+  },
+  "last_fiscal_year": {
+    "label": "FY2026 (Feb 2025-Jan 2026; ended Jan 25, 2026)",
+    "revenue_bn": 215.938,
+    "operating_income_bn": 130.387,
+    "net_income_bn": 120.067,
+    "free_cash_flow_bn": 96.676,
+    "rnd_bn": 18.497
+  },
+  "ltm": {
+    "revenue_bn": 302.97,
+    "operating_income_bn": 197.58,
+    "free_cash_flow_bn": 127.01
+  },
+  "guidance": "Q3 FY2027 (Aug-Oct 2026), given Aug 26, 2026: revenue $108.0B +/-2% (assumes no China data center compute revenue); GAAP and non-GAAP gross margin 74.0% +/-50 bp; GAAP opex ~$9.2B, non-GAAP opex ~$9.0B. On the Aug 26 call CFO Colette Kress said NVIDIA expects revenue to grow ~70% in FY2028 (calendar 2027), its first full-year outlook; XTB says investors had expected ~44%. Street consensus for Q3 FY2027 (Yahoo): revenue $108.98B, EPS $2.47. Prior guide for Q2 FY2027 was $91.0B +/-2% (actual $96.2B).",
+  "consensus_next_fy": {
+    "label": "FY2028 (Feb 2027-Jan 2028)",
+    "revenue_bn": 692.21,
+    "eps": 15.91,
+    "source_url": "https://finance.yahoo.com/quote/NVDA/analysis/"
+  },
+  "valuation": {
+    "pe_forward": 17.86,
+    "ev_sales_forward": 7.5,
+    "ev_ebitda_forward": null,
+    "source_url": "https://stockanalysis.com/stocks/nvda/statistics/"
+  },
+  "beta_5y_monthly": 2.22,
+  "geo_revenue_mix_pct": {
+    "United States": 62.4,
+    "Taiwan": 28.0,
+    "China (incl. Hong Kong)": 8.2,
+    "Other": 1.3
+  },
+  "segment_or_end_market_mix_pct": {
+    "Data Center - Hyperscale": 50.6,
+    "Data Center - AI Clouds, Industrial & Enterprise": 41.9,
+    "Edge Computing (PCs, game consoles, workstations, AI-RAN, robotics, automotive)": 7.5
+  },
+  "physical_ai_exposure": {
+    "share_of_revenue_pct": 1.1,
+    "description": "Physical AI stack: Jetson Thor robot computer (base of the open Isaac GR00T Reference Humanoid design), Isaac simulation and robot-learning frameworks with Isaac GR00T N humanoid foundation models, Cosmos world foundation models (Cosmos 3, billed as the first fully open frontier omnimodel for physical AI), Omniverse/OpenUSD simulation, IGX Thor (general availability announced May 2026), Halos safety system for robotics, and DRIVE Hyperion plus Alpamayo reasoning models for autonomous vehicles. BYD, Geely, Isuzu and Nissan are building level-4-ready vehicles on DRIVE Hyperion; the robotaxi ecosystem added Foxconn, VinFast, Uber and HUMAIN (Q2 FY2027). Revenue: 'Automotive and Robotics' was $2.3B in FY2026 (+39% YoY; Q4 FY2026 $604M, +6%), about 1.1% of revenue. From Q1 FY2027 NVIDIA stopped reporting it separately; it now sits inside Edge Computing ($7.2B in Q2 FY2027, +27% YoY, 7.5% of revenue), which also holds PCs, game consoles, workstations and AI-RAN. Third parties build on the stack: Teradyne Robotics and Sereact (Oct 21, 2026) train in Isaac Sim with Cosmos and run inference on Jetson Thor.",
+    "optionality_notes": "No analyst sum-of-the-parts assigning a share of NVIDIA's market value to robotics or autonomy was found in the sources reviewed. At about 1% of revenue the direct robotics/automotive business is immaterial to a ~$5.2T valuation that rests on data center (92.5% of Q2 FY2027 revenue). Physical AI mainly shows up as data-center demand: AWS plans to deploy an additional 2 million NVIDIA GPUs in 2027-2028 'primarily for agentic and physical AI' (XTB, Aug 2026)."
+  },
+  "cost_and_supply_chain_notes": "Wafers from TSMC and Samsung; memory including HBM from SK Hynix, Micron and Samsung; CoWoS advanced packaging; assembly/test/packaging partners include Hon Hai (Foxconn), Wistron and Fabrinet. The supply chain is mainly in Asia and expanding into the U.S. and Latin America, with growing U.S.-based manufacturing (FY2026 10-K). Inventory provisions were $784M in Q2 FY2027 ($1.6B in 1H). China: NVIDIA says it is effectively foreclosed from China data-center compute; the U.S. granted H200 licenses but the PRC restricted purchases, leading to a $0.4B H200 charge in 1H FY2027, and Hopper shipments to China were under 1% of Q2 Data Center revenue. H200s shipped under the U.S. licensing program carry a 25% tariff on import into the U.S. that NVIDIA says it has not been able to pass on. Prior-year H20 charge: $4.5B (Q1 FY2026). NVIDIA also carries long-term capacity purchase obligations and provides financial guarantees and other credit support for customers' and partners' data-center buildouts (10-Q).",
+  "debt_notes": "All debt is fixed-rate senior unsecured notes: $33.5B principal ($33.37B carrying) at Jul 26, 2026, up from $8.5B at Jan 25, 2026 after a $25.0B seven-tranche issue in June 2026. Coupons range from 1.55% to 5.625%. Maturities: $1.0B 3.20% 2026 (current), $4.75B 2028, $3.5B 2029, $1.5B 2030, $5.25B 2031, $3.5B 2033, $4.0B 2036, $1.0B 2040, $3.0B 2046, $2.0B 2050, $3.5B 2056, $0.5B 2060. Interest expense $227M in Q2 FY2027 ($329M in 1H). Large net cash position: $56.6B cash plus marketable debt securities, plus $42.8B of marketable equity securities. No floating-rate borrowings identified.",
+  "customer_concentration": "FY2026: two direct customers at 22% and 14% of revenue, both mainly Compute & Networking. Q2 FY2027: one direct customer at 16% of revenue; NVIDIA estimates some indirect customers (end buyers such as cloud providers) individually exceed 10%. Five direct customers held 22%, 14%, 13%, 11% and 10% of accounts receivable at Jul 26, 2026. The Hyperscale sub-market was 50.6% of Q2 FY2027 revenue.",
+  "key_drivers": [
+    "Data Center revenue $89.0B in Q2 FY2027 (+117% YoY, +18% QoQ); Q3 guide of $108B implies ~89% YoY growth vs $57.0B a year earlier",
+    "Management outlook of ~70% revenue growth in FY2028; consensus FY2027 revenue $411.65B (+91%) and FY2028 $692.21B (+68%), EPS $9.31 and $15.91",
+    "AWS to deploy an additional 2 million NVIDIA GPUs in 2027-2028, mainly for agentic and physical AI, plus 100,000 GPUs for U.S. government data centers",
+    "Gross margin 75.0% in Q2 FY2027, guided to 74.0% for Q3; LTM operating income $197.6B on $303.0B revenue (~65% margin); LTM free cash flow $127.0B",
+    "Capital returns: ~$26.0B returned in Q2 FY2027; extra $80B buyback authorized May 18, 2026 ($99.3B remaining at Jul 26, 2026); quarterly dividend now $0.25/share (forward $1.00/yr per Yahoo)",
+    "Edge Computing $7.2B (+27% YoY) on Blackwell workstation demand, partly offset by slower consumer PC sales",
+    "Physical AI product cadence (Cosmos 3, GR00T reference humanoid on Jetson Thor, Halos, Alpamayo 2 Super, DRIVE Hyperion wins with BYD, Geely, Isuzu, Nissan) seeds future robotics and AV compute demand"
+  ],
+  "key_risks": [
+    "China: effectively shut out of China data-center compute; guidance assumes zero; PRC is restricting H200 purchases despite U.S. licenses",
+    "Customer concentration: one direct customer was 16% of Q2 FY2027 revenue and hyperscalers 50.6%, so results track a few AI capex budgets and their shift toward custom accelerators",
+    "Trade policy: 25% U.S. import tariff on licensed H200 shipments not passed through; further export-rule changes possible",
+    "Supply: dependence on TSMC CoWoS capacity and HBM suppliers; inventory provisions of $1.6B in 1H FY2027; purchase obligations and credit support/guarantees for customers' buildouts",
+    "High beta (2.22) and sentiment swings: -17.0% on Jan 27, 2025; the stock fell after 6 of its 8 earnings reports before Aug 2026; -4.4% in the Oct 22, 2026 chip selloff",
+    "GAAP earnings volatility from $42.8B of marketable equity securities (Q2 FY2027 gains $7.8B; 1H $23.7B)"
+  ],
+  "recent_events": [
+    {
+      "date": "2025-01-27",
+      "event": "DeepSeek's low-cost AI model sparks fears about AI compute spending (cause from background knowledge)",
+      "stock_reaction": "-17.0% (close $118.42)"
+    },
+    {
+      "date": "2025-02-26",
+      "event": "Q4 FY2025 results (quarterly revenue $39.3B)",
+      "stock_reaction": "-8.5% next session (Feb 27, 2025)"
+    },
+    {
+      "date": "2025-04-09",
+      "event": "U.S. pauses most 'reciprocal' tariffs; broad market rally (cause from background knowledge)",
+      "stock_reaction": "+18.7% (close $114.33)"
+    },
+    {
+      "date": "2025-04-15",
+      "event": "U.S. requires licenses for H20 exports to China (background knowledge); NVIDIA later booked a $4.5B H20 excess-inventory and purchase-obligation charge in Q1 FY2026 (FY2026 10-K)",
+      "stock_reaction": "-6.9% next session (Apr 16, 2025)"
+    },
+    {
+      "date": "2025-11-19",
+      "event": "Q3 FY2026 results (quarterly revenue $57.0B, per Yahoo's year-ago figure)",
+      "stock_reaction": "-3.2% next session (Nov 20, 2025)"
+    },
+    {
+      "date": "2026-02-25",
+      "event": "Q4/FY2026 results: FY revenue $215.9B (+65%), Q4 $68.1B (+73%); Automotive & Robotics FY $2.3B (+39%); Q1 FY2027 guide $78.0B; non-GAAP to include stock comp from Q1 FY2027",
+      "stock_reaction": "-5.5% next session (Feb 26), then -4.2% on Feb 27, 2026"
+    },
+    {
+      "date": "2026-05-20",
+      "event": "Q1 FY2027: revenue $81.6B (+85%); switch to Data Center/Edge Computing reporting; Q2 guide $91.0B; $80B added buyback (May 18); IGX Thor GA, new Cosmos and Isaac GR00T N models; BYD, Geely, Isuzu, Nissan building L4-ready vehicles on DRIVE Hyperion",
+      "stock_reaction": "-1.8% next session (May 21, 2026)"
+    },
+    {
+      "date": "2026-08-26",
+      "event": "Q2 FY2027: revenue $96.2B (+106%) vs $92.2B consensus, EPS $2.22 vs $2.10; Q3 guide $108B vs $104.2B consensus; CFO sees ~70% FY2028 growth; AWS to deploy 2M more NVIDIA GPUs in 2027-28",
+      "stock_reaction": "+8.7% next session (Aug 27, close $227.98; market cap +$442B)"
+    },
+    {
+      "date": "2026-10-21",
+      "event": "GTC Berlin 2026 keynote; partners announce physical AI deployments on the NVIDIA stack (e.g., Teradyne Robotics and Sereact on Jetson Thor, Isaac Sim, Cosmos)",
+      "stock_reaction": "+2.5% (close $221.97)"
+    },
+    {
+      "date": "2026-10-22",
+      "event": "Broad semiconductor selloff (Investopedia headline 'Chip Stocks Tumble...'; Teradyne -10.6% the same day)",
+      "stock_reaction": "-4.4% (close $212.21); recovered to $216.00 by Oct 26"
+    }
+  ],
+  "notes": "Prices and market data are as of the Oct 26, 2026 close. Market cap = $216.00 x 24.15B shares (10-Q cover: 24.1B at Aug 21, 2026). cash_and_investments = cash $22.4B + marketable debt securities $34.1B at Jul 26, 2026; it excludes $42.8B of marketable equity securities. total_debt = carrying value of notes; aggregators show $38.86B total debt (likely including leases) and $62.47B cash. pe_forward 17.86 is stockanalysis 'Forward PE', which appears to use next-12-month EPS; on FY2027 consensus EPS ($9.31) the P/E is 23.2x and on FY2028 ($15.91) 13.6x; Yahoo shows 13.37x. ev_sales_forward is computed: EV ~$5,193B (market cap + debt - cash and debt securities) / FY2028 consensus revenue $692.2B = 7.5x (12.6x on FY2027 $411.65B). Forward EV/EBITDA was not found; trailing EV/EBITDA is 25.8x (stockanalysis) or 21.9x (Yahoo). Current-year consensus (FY2027): revenue $411.65B, EPS $9.31; average 1-year price target $328.95 (Strong Buy, 62 analysts). Geographic mix is the Q2 FY2027 10-Q table (US $60.1B, Taiwan $27.0B, China incl. HK $7.9B, other $1.3B); the FY2026 10-K says 31% of revenue came from outside the U.S. Physical AI share (1.1%) is FY2026 'Automotive and Robotics', the last separate disclosure. Event causes for Jan 27, Apr 9 and Apr 15, 2025 come from background knowledge; all % moves are computed from Yahoo daily closes. Stock went from $138.31 (Jan 2, 2025) to $186.50 at end-2025 (+34.8%); 2026 YTD +15.8%.",
+  "sources": [
+    {"title": "NVIDIA Q2 FY2027 results press release (Finviz copy)", "url": "https://finviz.com/news/385939/nvidia-announces-financial-results-for-second-quarter-fiscal-2027"},
+    {"title": "NVIDIA Q2 FY2027 results press release (MFN copy, balance sheet and cash flow)", "url": "https://mfn.se/all/a/nvidia/nvidia-announces-financial-results-for-second-quarter-fiscal-2027-0d0c3f31"},
+    {"title": "NVIDIA Q1 FY2027 results press release (investor.nvidia.com)", "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-First-Quarter-Fiscal-2027/default.aspx"},
+    {"title": "NVIDIA Q4 and FY2026 results press release (Finviz copy)", "url": "https://finviz.com/news/322510/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026"},
+    {"title": "NVIDIA Form 10-Q, quarter ended Jul 26, 2026 (SEC)", "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000075/nvda-20260726.htm"},
+    {"title": "NVIDIA Form 10-Q Q2 FY2027 text (OpenCapital mirror: platform, geography, customers, notes)", "url": "https://www.opencapital.sh/filings/0001045810-26-000075.md"},
+    {"title": "NVIDIA Form 10-K, fiscal year ended Jan 25, 2026 (SEC)", "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm"},
+    {"title": "StockAnalysis NVDA statistics", "url": "https://stockanalysis.com/stocks/nvda/statistics/"},
+    {"title": "StockAnalysis NVDA income statement", "url": "https://stockanalysis.com/stocks/nvda/financials/"},
+    {"title": "StockAnalysis NVDA cash flow statement", "url": "https://stockanalysis.com/stocks/nvda/financials/cash-flow-statement/"},
+    {"title": "StockAnalysis NVDA forecast", "url": "https://stockanalysis.com/stocks/nvda/forecast/"},
+    {"title": "StockAnalysis NVDA price history", "url": "https://stockanalysis.com/stocks/nvda/history/"},
+    {"title": "Yahoo Finance NVDA quote", "url": "https://finance.yahoo.com/quote/NVDA/"},
+    {"title": "Yahoo Finance NVDA key statistics", "url": "https://finance.yahoo.com/quote/NVDA/key-statistics/"},
+    {"title": "Yahoo Finance NVDA analyst estimates", "url": "https://finance.yahoo.com/quote/NVDA/analysis/"},
+    {"title": "Yahoo Finance NVDA historical prices (2025-2026)", "url": "https://finance.yahoo.com/quote/NVDA/history/?period1=1735689600&period2=1793059200"},
+    {"title": "Herald Corp: Nvidia share price jumps 8.74% after earnings report", "url": "https://biz.heraldcorp.com/article/10855133"},
+    {"title": "XTB: Nvidia shares react to solid earnings report and stronger guidance", "url": "https://www.xtb.com/en/market-analysis/nvidia-shares-react-to-solid-earnings-report-and-stonger-guidance-what-s-next-for-the-ai-giant"},
+    {"title": "S&P Global Market Intelligence: Nvidia post-Q growth outlook resets expectations", "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/09/nvidia-postq-growth-outlook-resets-expectations-well-above-preq-consensus"},
+    {"title": "Business Wire: Teradyne Robotics and Sereact partner to scale physical AI (NVIDIA Jetson Thor, Isaac, Cosmos)", "url": "https://www.businesswire.com/news/home/20261021114068/en/Teradyne-Robotics-and-Sereact-Partner-to-Scale-Physical-AI-Solutions-for-Retail-and-Logistics/"}
+  ]
+}

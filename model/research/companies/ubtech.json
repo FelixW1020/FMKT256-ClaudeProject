@@ -1,0 +1,176 @@
+{
+  "id": "ubtech",
+  "name": "UBTech Robotics Corp Ltd",
+  "yahoo_symbol": "9880.HK",
+  "exchange": "Hong Kong Stock Exchange Main Board (H shares)",
+  "reporting_currency": "CNY",
+  "listing_date": "2023-12-29",
+  "fiscal_year_note": "Fiscal year = calendar year. Reports semi-annually (interim to Jun 30, annual to Dec 31) with no quarterly P&L. Interim results for H1 2026 were released 2026-08-28 and FY2025 results on 2026-03-31. Net loss figures below are attributable to shareholders unless noted; total net loss including minorities is higher. Zhejiang Fenglong Electric (43.01% stake, Shenzhen-listed) has been consolidated since April 2026 and adds a non-robot garden-machinery, auto and hydraulic-components segment.",
+  "price": {
+    "value": 68.5,
+    "currency": "HKD",
+    "date": "2026-10-26",
+    "source_url": "https://www.google.com/finance/quote/9880:HKG?hl=en&window=5D"
+  },
+  "shares_outstanding_m": 503.4,
+  "market_cap_usd_bn": 4.39,
+  "cash_and_investments": 2.651,
+  "total_debt": 0.997,
+  "amount_unit": "CNY bn",
+  "latest_period": {
+    "label": "H1 2026 (Jan-Jun 2026)",
+    "report_date": "2026-08-28",
+    "revenue": 1.2691,
+    "revenue_yoy_pct": 104.2,
+    "gross_margin_pct": 44.7,
+    "operating_margin_pct": -22.0,
+    "net_income": -0.3115
+  },
+  "last_fiscal_year": {
+    "label": "FY2025 (Jan-Dec 2025)",
+    "revenue": 2.001,
+    "operating_income": -0.722,
+    "net_income": -0.7032,
+    "free_cash_flow": -1.193,
+    "rnd": 0.5
+  },
+  "cash_burn_annual": 1.19,
+  "guidance": "No revenue or profit guidance. Targets: 2026 annual production target of 10,000 full-size humanoid robots (H1 2026 interim report), versus 1,079 full-size units sold in 2025 and 921 in H1 2026. Walker S industrial capacity was >6,000/yr at end-2025, with targets of 5,000 industrial humanoids in 2026 and 10,000 in 2027 (Nov 2025 statements) and 'tens of thousands' of capacity in 2026 (Jan 2026). A Siemens-partnered factory is planned at 10,000 units/yr. Walker, Cruzr and U1 series are expected to reach full production and begin deliveries in H2 2026; U1 companion-humanoid deliveries started 2026-09-16 against 13,361 pre-orders (RMB119,800-990,000 per unit). FY2026 R&D is planned at ~RMB700M. The Thinker-WM 2.0 world model is due in H2 2026 and PC30 pool robots enter mass production by end-2026.",
+  "valuation": {
+    "pe_forward": null,
+    "ev_sales_forward": null,
+    "price_to_sales_ltm": 11.1,
+    "source_url": "https://stockanalysis.com/quote/hkg/9880/statistics/"
+  },
+  "geo_revenue_mix_pct": {
+    "Mainland China": 78.2,
+    "Hong Kong and overseas": 21.8
+  },
+  "segment_or_end_market_mix_pct": {
+    "Full-size embodied humanoid robots": 46.5,
+    "Other smart hardware devices (consumer: lawn mowers, pool cleaners, robot vacuums)": 20.4,
+    "Other smart robots (logistics, education, etc.)": 19.4,
+    "Garden machinery, automotive and hydraulic components (Fenglong, from Apr 2026)": 11.0,
+    "Non-embodied humanoid robots": 2.6,
+    "Others": 0.1
+  },
+  "unit_volumes": "Full-size humanoids sold: 3 units in 2024 (implied by +35,866.7%), 1,079 in 2025 and 921 in H1 2026 (+1,946.7% vs ~45 in H1 2025). Non-embodied (small) humanoids: 12,759 in 2025. All humanoid categories: 16,123 units in H1 2026 (+268.3%). Walker S2: mass production began mid-Nov 2025; the 1,000th unit came off the Liuzhou line on 2025-12-30 with >500 delivered. Orders: ~RMB1.4bn of humanoid orders in 2025 (Shenzhen gov't, Jan 2026), including a RMB250M order (Sep 2025), RMB264M (Fangchenggang), RMB159M (Zigong) and >RMB100M (Midea Auto). U1 companion humanoid: 13,361 pre-orders by 2026-06-30, deliveries from 2026-09-16. Context: AgiBot shipped ~8,400 humanoids in H1 2026, a 44% global share (Smart Analytics Global via SCMP).",
+  "physical_ai_exposure": {
+    "share_of_revenue_pct": 89,
+    "description": "Almost a pure-play robot maker. In H1 2026, full-size embodied humanoids (Walker S/S2 for factories, data-collection centers and research) were 46.5% of revenue and small humanoids 2.6%. Logistics and education robots were 19.4% and consumer robot hardware (lawn mowers, pool cleaners, robot vacuums) 20.4%. The 89% excludes only Fenglong's garden-machinery, auto and hydraulic parts (11%).",
+    "optionality_notes": "Consumer and companion humanoids (U1 Lite, Pro, Ultra; 88 DOF; silicone skin) carry 13,361 pre-orders. Overseas industrial pilots include an Airbus Walker S2 purchase (Jan 2026) and Texas Instruments as a strategic partner. Customers in autos and logistics include BYD, Geely, FAW-VW, Audi FAW, Dongfeng Liuzhou, BAIC, Foxconn and SF Express. Vertical integration: Fenglong (end-effectors, servo drives), the Xiyuan Chuangzhi JV with GPU maker MetaX for embodied-AI edge chips, a Siemens digital-factory partnership, and the Thinker-WM world model. Patents: 3,112 granted (530 overseas) at 2026-06-30."
+  },
+  "cost_and_supply_chain_notes": "Manufacturing is in China: the Walker S2 line in Liuzhou (Guangxi), Chitu logistics vehicles at Foxconn's Zhengzhou plant, and a planned Siemens-partnered 10,000-unit/yr factory. The robot compute platform relies on domestic computing chips, a second-source domain controller is in development, and the MetaX chip JV is meant to secure edge compute. Key BOM items are servo actuators (motors with rare-earth magnets), reducers, batteries, sensors and chips. Fenglong was bought partly to internalize end-effectors and servo drives. In H1 2026, raw materials and consumables used were RMB359.5M, and payables for raw materials rose to RMB862.4M from RMB648.2M at end-2025, suggesting stretched supplier payments. In Aug 2026, HK$386.77M of unused placement proceeds was reallocated from M&A to paying suppliers 'to strengthen core supply-chain stability'. Fenglong passes raw-material price swings through to customers. Overseas revenue was 21.8% in H1 2026, so tariff exposure is moderate (my assessment).",
+  "regulatory_notes": "Not among the companies TechCrunch reported as added to the Pentagon 1260H list in June 2026 (that update named Unitree, BYD, Alibaba and Baidu); I did not check further. Equity has been raised repeatedly through discounted H-share placements under general mandates. Customer concentration: one customer contributed RMB308.5M, 24% of H1 2026 revenue. Many large Walker orders come from government-linked data-collection and training centers (Zigong, Fangchenggang). The Dec 2024 expiry of major shareholders' lock-ups triggered a >30% one-day drop; the chairman extended his own 70.4M-share lock-in by a year. The U1 companion robot raises privacy and ethics questions (Börse Express). An EGM was held 2026-08-26 on the reallocation of placement proceeds.",
+  "key_drivers": [
+    "Humanoid revenue hypergrowth: full-size humanoid revenue of RMB590.3M in H1 2026 (+1,445% YoY; 46.5% of revenue) vs RMB821M for all of 2025 and RMB35.6M in 2024.",
+    "Scale-up: 2026 production target of 10,000 full-size humanoids vs 1,079 sold in 2025; Walker S capacity >6,000 at end-2025.",
+    "Orders: ~RMB1.4bn of humanoid orders in 2025 (largest globally per the company and Shenzhen gov't), with auto OEMs, Foxconn, SF Express, Airbus and government data-collection centers.",
+    "Margin expansion: gross margin 44.7% in H1 2026 vs 35.0% a year earlier and 28.7% in FY2024; adjusted EBITDA loss narrowed 45.9% to RMB174M; net loss narrowed 23%.",
+    "Consumer humanoid optionality: 13,361 U1 pre-orders (RMB119,800-990,000), deliveries from Sep 16, 2026.",
+    "Revenue doubled: H1 2026 revenue RMB1.27bn (+104%), including RMB139M from the newly consolidated Fenglong; TTM revenue ~RMB2.65bn."
+  ],
+  "key_risks": [
+    "Persistent losses and cash burn: FY2025 net loss RMB790M (total) and FCF -RMB1.19bn; H1 2026 net loss RMB339M (total). Cash and equivalents fell from RMB4.92bn (Dec 2025) to RMB2.33bn (Jun 2026), mainly due to the Fenglong deal.",
+    "Dilution: three H-share placements in 2025 (Feb at HK$90, Jul at HK$82, Nov/Dec at HK$98.80; ~HK$6.3bn net in total) at 9-11% discounts, each greeted by ~4% intraday drops. More raises are likely given the burn rate.",
+    "Execution gap: 10,000-unit production target and 13,361 U1 pre-orders vs 921 full-size units sold in H1 2026.",
+    "Quality of demand: one customer was 24% of H1 2026 revenue, and much humanoid demand comes from state-linked data-collection centers rather than proven factory ROI.",
+    "Valuation and momentum: ~11x TTM sales while loss-making; the stock is down ~56% from the Feb 20, 2026 peak of HK$156.40 and ~51% over 52 weeks, with closes near HK$62.65-68.50 in October.",
+    "Competition: AgiBot (44% global humanoid share in H1 2026), Unitree, Tesla Optimus (Fremont production started) and a wave of China humanoid IPOs.",
+    "Legacy segments are shrinking: other smart robots fell 18.8% in H1 2026."
+  ],
+  "recent_events": [
+    {
+      "date": "2025-07-22",
+      "event": "Placing of ~30.16M new H shares at HK$82 (9.1% discount), raising ~HK$2.41bn net for operations and debt repayment.",
+      "stock_reaction": "about -4% intraday (Tiger)"
+    },
+    {
+      "date": "2025-09-03",
+      "event": "Won a RMB250M embodied humanoid order (Walker S2), billed as the largest single humanoid contract globally at the time; deliveries due within 2025.",
+      "stock_reaction": "shares at HK$103.4, +88% YTD at the time (no same-day move given)"
+    },
+    {
+      "date": "2025-11-17",
+      "event": "Walker S2 mass production and delivery began; Walker-series orders >RMB800M in 2025; targeted 500 deliveries in 2025 and capacity of 5,000 in 2026 and 10,000 in 2027.",
+      "stock_reaction": "not found"
+    },
+    {
+      "date": "2025-11-25",
+      "event": "Placing of 31.468M H shares at HK$98.80 (11.4% discount to the HK$111.50 close), raising ~HK$3.06bn gross, 75% earmarked for M&A/JVs; Walker 2025 contracts reached RMB1.1bn.",
+      "stock_reaction": "initially -4%, then +2.9% to HK$114.7 by midday"
+    },
+    {
+      "date": "2025-12-30",
+      "event": "1,000th Walker S2 rolled off the Liuzhou plant; >500 units delivered; 2025 orders ~RMB800M (Walker S2 per Interesting Engineering).",
+      "stock_reaction": "not found"
+    },
+    {
+      "date": "2026-01-18",
+      "event": "Airbus agreed to buy Walker S2 robots for aircraft manufacturing; UBTech cited ~RMB1.4bn of 2025 humanoid orders and a plan to mass-produce 10,000 units in 2026 (announced on a Sunday per the Shenzhen report).",
+      "stock_reaction": "not found"
+    },
+    {
+      "date": "2026-02-20",
+      "event": "Shares hit a record/52-week high of HK$156.40 amid the China humanoid rally.",
+      "stock_reaction": "peak; since down ~56%"
+    },
+    {
+      "date": "2026-03-31",
+      "event": "FY2025 results: revenue RMB2.0bn (+53%), full-size humanoid revenue RMB821M (41% of total; 1,079 units), gross margin 37.7%, net loss RMB790M (-32%), Walker S capacity >6,000.",
+      "stock_reaction": "+17.1% to HK$100.00 on Apr 1 (Yicai)"
+    },
+    {
+      "date": "2026-06-30",
+      "event": "U1 companion humanoid (launched June 2026) reached 13,361 pre-orders priced RMB119,800-990,000; deliveries scheduled from Sep 16.",
+      "stock_reaction": "not found; by Jul 24 the shares were ~40% below their YTD peak (Börse Express, Frankfurt line -5.8% that day)"
+    },
+    {
+      "date": "2026-08-10",
+      "event": "Proposed reallocating HK$386.77M of unused Dec 2025 placement proceeds from M&A to supplier payments after closing the Fenglong acquisition (EGM Aug 26).",
+      "stock_reaction": "not found"
+    },
+    {
+      "date": "2026-08-28",
+      "event": "H1 2026 results: revenue RMB1.27bn (+104%), full-size humanoid revenue RMB590M (+1,445%; 921 units), gross margin 44.7%, net loss RMB339M (-23%), cash and equivalents RMB2.33bn (from RMB4.92bn); target of 10,000 full-size humanoids in 2026.",
+      "stock_reaction": "+0.7% on Aug 28 (HK$82.95 to HK$83.50) and +1.6% on Aug 31 (to HK$84.80); my calculation from stockanalysis closes"
+    },
+    {
+      "date": "2026-10-15",
+      "event": "Shares closed at HK$62.65, the lowest close in the Aug-Oct window, down from HK$94.80 on Aug 18. They lagged the Oct 19-26 A-share robot rally that lifted Unitree ~65%.",
+      "stock_reaction": "-34% from Aug 18 to Oct 15 (my calculation); HK$68.50 on Oct 26, then ~HK$65.95 (-3.7%) midday Oct 27"
+    }
+  ],
+  "notes": "(1) Price HK$68.50 is the Oct 26, 2026 close, derived from Google Finance's Oct 27 midday quote of HK$65.95 (-2.55, -3.72%). The stockanalysis close on Oct 23 was HK$68.20. (2) Shares: 503,401,373 in issue at 2026-06-30 (interim report); stockanalysis shows 502.59M. Market cap = HK$68.50 x 503.4M = HK$34.5bn, or US$4.39bn at 7.8478 HKD/USD. (3) cash_and_investments = cash at bank and on hand RMB2,381.2M + trading financial assets RMB270.1M at Jun 30, 2026. Total debt is bank borrowings of RMB997.3M; stockanalysis shows RMB1,044M including leases. (4) FY2025 operating income -RMB722M and attributable net loss -RMB703M are from stockanalysis; the company's headline FY2025 net loss was RMB789.8M including minorities. H1 2026: attributable loss RMB311.5M; total RMB338.8M; company operating loss RMB279.1M (stockanalysis shows -RMB222M under a different definition). (5) FY2025 R&D of 0.5 is approximate: the Shenzhen government reported 'over 500 million yuan'. H1 2026 R&D was RMB303.1M (+38.9%). (6) cash_burn_annual = FY2025 FCF of -RMB1.19bn (OCF -RMB784M, capex -RMB409M, per stockanalysis). Stockanalysis's TTM FCF of -HK$1.91bn (about -RMB1.6bn) suggests the burn rose in H1 2026. (7) P/S LTM 11.1 is my calculation: HK$34.5bn / TTM revenue RMB2.649bn (HK$3.11bn); EV/TTM sales is ~10.5x. No consensus forward revenue was found, so forward metrics are null. If FY2026 revenue reached ~RMB3.5bn (my illustrative assumption, not a forecast), EV/sales would be ~8x. (8) The listing date (2023-12-29, HK IPO at HK$90) is from my background knowledge and was not verified in this session. It is consistent with the one-year lock-up expiring Dec 30, 2024 (Stockopedia). (9) Physical-AI share of 89% is my categorization of disclosed segments. (10) Interesting Engineering says 2025 Walker orders were ~RMB800M (Dec 30), itiger says Walker contracts were RMB1.1bn (Nov 25), and the Shenzhen gov't says total humanoid orders were ~RMB1.4bn (Jan 2026). These are different scopes and dates. (11) The Airbus event date is approximate: the article was dated Jan 21, 2026 and said the announcement came on a Sunday (Jan 18). (12) FX: 7.8478 HKD/USD and 6.6861 CNY/USD (Fed H.10, Oct 16, 2026).",
+  "sources": [
+    {"title": "UBTech interim results announcement, six months ended 30 June 2026 (HKEX)", "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082801691.pdf"},
+    {"title": "Gasgoo: UBTech H1 2026 revenue RMB1.27bn, 921 full-size humanoids", "url": "https://autonews.gasgoo.com/articles/market-industry/ubtech-reports-127-billion-yuan-in-first-half-revenue-sells-921-full-size-humanoid-robots-2094660109459607553"},
+    {"title": "KrASIA: UBTech full-size humanoid revenue jumps 1,445% in H1 2026", "url": "https://kr-asia.com/ubtechs-full-size-humanoid-robot-revenue-jumps-1445-in-h1-2026"},
+    {"title": "Tiger: UBTech H1 2026 revenue surges past 1 billion yuan", "url": "https://www.itiger.com/news/1125961068"},
+    {"title": "Gasgoo: UBTech 2025 report card", "url": "https://autonews.gasgoo.com/articles/icv/ubtech-2025-report-card-revenue-from-full-size-humanoid-robots-grows-over-22-fold-2039900685372407808"},
+    {"title": "Humanoid.guide: UBTech humanoid revenue surges in 2025 results", "url": "https://humanoid.guide/ubtech-humanoid-revenue-surges-in-2025-results/"},
+    {"title": "Yicai Global: UBTech pops after 23-fold leap in annual humanoid sales", "url": "https://www2.yicaiglobal.com/news/chinas-ubtech-pops-after-posting-23-fold-leap-in-annual-humanoid-robot-sales"},
+    {"title": "Shenzhen Government Online: UBTech 2025 results", "url": "https://www.sz.gov.cn/en_szgov/business/news/content/post_12723911.html"},
+    {"title": "EyeShenzhen: UBTech Airbus deal and 2025 orders", "url": "https://www.eyeshenzhen.com/content/2026-01/21/content_31910723.htm"},
+    {"title": "UBTech press release: Walker S2 mass production, orders >800M yuan (AAP/Cision)", "url": "https://www.aap.com.au/aapreleases/cision20251117ae25955/"},
+    {"title": "Tiger: UBTech placement and Walker orders (Nov 25, 2025)", "url": "https://www.itiger.com/news/1107163743"},
+    {"title": "Tiger: UBTech drops 4% on HK$2.41bn placement (Jul 2025)", "url": "https://www.itiger.com/news/1124107664"},
+    {"title": "Tiger: UBTech RMB250M humanoid order (Sep 2025)", "url": "https://www.itiger.com/news/1141828171"},
+    {"title": "Tiger: UBTech reallocation of placement proceeds (Aug 2026)", "url": "https://www.itiger.com/news/1124196198"},
+    {"title": "Interesting Engineering: UBTech builds 1,000th Walker S2", "url": "https://interestingengineering.com/ai-robotics/china-ubtech-builds-1000-humanoid-robots"},
+    {"title": "Crypto Briefing: UBTech U1 presales", "url": "https://cryptobriefing.com/ubtech-humanoid-robot-334-million-presales/"},
+    {"title": "Humanoid.guide: UBTech lines up September deliveries for U1", "url": "https://humanoid.guide/ubtech-lines-up-september-deliveries-for-u1-home-humanoids/"},
+    {"title": "Börse Express: Ubtech Robotics Aktie, 13,000 orders", "url": "https://www.boerse-express.com/news/articles/ubtech-robotics-aktie-13000-bestellungen-eine-kernfrage-932109"},
+    {"title": "Stockopedia: UBTech plunges after lock-in period ends (Dec 2024)", "url": "https://www.stockopedia.com/share-prices/ubtech-robotics-HKG:9880/news/hk-shares-of-china-apos-s-ub-tech-plunges-after-lock-in-period-ends-019e6dc3-f96a-7e94-9260-0a6655216b32/"},
+    {"title": "SCMP: AgiBot overtakes Unitree as top global humanoid vendor in H1", "url": "https://www.scmp.com/tech/tech-trends/article/3363544/agibot-overtakes-unitree-top-global-humanoid-robot-vendor-first-half-amid-ipo-push"},
+    {"title": "TechCrunch: Pentagon 1260H additions (Jun 2026)", "url": "https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/"},
+    {"title": "Stockanalysis: HKG:9880 overview", "url": "https://stockanalysis.com/quote/hkg/9880/"},
+    {"title": "Stockanalysis: HKG:9880 statistics", "url": "https://stockanalysis.com/quote/hkg/9880/statistics/"},
+    {"title": "Stockanalysis: HKG:9880 financials (half-yearly)", "url": "https://stockanalysis.com/quote/hkg/9880/financials/?p=quarterly"},
+    {"title": "Stockanalysis: HKG:9880 balance sheet", "url": "https://stockanalysis.com/quote/hkg/9880/financials/balance-sheet/"},
+    {"title": "Stockanalysis: HKG:9880 cash flow", "url": "https://stockanalysis.com/quote/hkg/9880/financials/cash-flow-statement/"},
+    {"title": "Stockanalysis: HKG:9880 price history", "url": "https://stockanalysis.com/quote/hkg/9880/history/"},
+    {"title": "Google Finance: 9880:HKG", "url": "https://www.google.com/finance/quote/9880:HKG?hl=en&window=5D"},
+    {"title": "Federal Reserve H.10 exchange rates", "url": "https://www.federalreserve.gov/releases/h10/current/"}
+  ]
+}
