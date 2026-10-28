@@ -116,7 +116,13 @@ p { margin: 0; }
 .intro h1 { font-size: clamp(2.8rem, 6.2vw, 5.4rem); line-height: 0.95; font-weight: 650; font-variation-settings: "wdth" 112; letter-spacing: -0.016em; }
 .intro-blurb { margin-top: 22px; font-size: 1.1875rem; line-height: 1.5; color: var(--ink-2); max-width: 29em; text-wrap: pretty; }
 .intro .intro-go { margin-top: 30px; height: 54px; padding: 0 26px; font-size: 1.0625rem; }
-.intro-by { margin-top: 18px; font-size: var(--step--1); color: var(--ink-2); }
+/* the credit: two initials and the names, set in ink so it reads at a glance */
+.intro-by { margin-top: 26px; display: flex; align-items: center; gap: 12px; font-size: 1.125rem; line-height: 1.3; color: var(--ink); }
+.intro-by b { font-weight: 650; }
+.by-faces { display: inline-flex; flex: none; }
+.by-faces i { width: 38px; height: 38px; border-radius: 999px; display: grid; place-items: center; font-style: normal; font-weight: 700; font-size: 0.9375rem; border: 2px solid var(--bg); }
+.by-faces i:first-child { background: var(--yellow); color: var(--on-yellow); }
+.by-faces i + i { margin-left: -11px; background: var(--ink); color: var(--bg); }
 .intro .intro-go { transition: background-color 0.18s ease, color 0.18s ease, border-color 0.18s ease; }
 .intro .intro-go:hover { transform: none; background: var(--yellow); border-color: var(--yellow); color: var(--on-yellow); }
 .intro-hint { grid-column: 2; align-self: end; justify-self: center; margin-bottom: 30px; font-size: var(--step--1); color: var(--ink-3); transition: opacity 0.8s ease; }
@@ -133,6 +139,8 @@ p { margin: 0; }
   .intro h1 { font-size: clamp(2.3rem, 10.5vw, 3.2rem); }
   .intro-blurb { font-size: 1.0625rem; margin-top: 14px; }
   .intro .intro-go { margin-top: 22px; height: 50px; }
+  .intro-by { margin-top: 20px; font-size: 1.0625rem; gap: 10px; }
+  .by-faces i { width: 34px; height: 34px; font-size: 0.875rem; }
   .intro-hint { position: absolute; grid-column: auto; top: 14px; left: 50%; translate: -50% 0; margin: 0; white-space: nowrap; }
   .intro-stage .fallback { inset: 0 0 48% 0; }
 }
