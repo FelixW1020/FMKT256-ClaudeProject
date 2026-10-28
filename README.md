@@ -1,6 +1,6 @@
 # FMKT256-ClaudeProject
 
-Torque is a scenario simulator for physical AI stocks, made by Felix and Suhanaa for FMKT 256 at Duke University,
+Torque is a scenario simulator for physical AI stocks, made by Felix, Suhanaa and Elliot for FMKT 256 at Duke University,
 fall 2026. Pick a shock, such as higher interest rates or new tariffs, and see how 16 robotics stocks would move
 and why.
 
